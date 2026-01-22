@@ -52,7 +52,6 @@ Każdy plik reprezentuje jeden podręcznik lub zestaw fiszek.
 4. Uruchom:
    ```bash
    python main.py
-````
 
 ## Dla kogo?
 
@@ -67,7 +66,7 @@ Każdy plik reprezentuje jeden podręcznik lub zestaw fiszek.
 * Python
 * Tkinter (GUI)
 * JSON
-* losowanie ważone (`random.choices`)
+* losowanie ważone
 
 ---
 
@@ -87,10 +86,3 @@ Projekt powstał **z wykorzystaniem wsparcia generatywnej GenAI**
 * konsultacji architektonicznych
 
 Końcowe decyzje projektowe i implementacja należą do autora.
-
-```
-
----
-
-Ten projekt już *zasługuje* na porządne opakowanie.
-```
