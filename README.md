@@ -78,7 +78,7 @@ Każdy plik reprezentuje jeden podręcznik lub zestaw fiszek.
 
 ## Wsparcie AI
 
-Projekt powstał **z wykorzystaniem wsparcia generatywnej GenAI**
+Projekt powstał **z wykorzystaniem wsparcia GenAI**
 – głównie jako narzędzia do:
 
 * analizy kodu
