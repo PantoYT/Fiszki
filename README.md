@@ -43,7 +43,7 @@ Każdy plik reprezentuje jeden podręcznik lub zestaw fiszek.
 
 ---
 
-## 🚀 Jak uruchomić
+## Jak uruchomić
 
 ### Wersja developerska
 1. Zainstaluj Python (3.10+)
