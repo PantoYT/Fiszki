@@ -1,15 +1,5 @@
 [
   {
-    "word": "achieve",
-    "pronunciation": "´\"tSi…v",
-    "part_of_speech": "sth",
-    "definition": "to accomplish sth - osiągać, zdobywać (np. wyniki) achieve a goal (phr) = to succeed in doing sth - osiągać cel",
-    "unit": "1a",
-    "page": 0,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "adore",
     "pronunciation": "´\"dO…",
     "part_of_speech": "v",
@@ -34,16 +24,6 @@
     "pronunciation": "\"kœlkjuleIt",
     "part_of_speech": "v",
     "definition": "to determine a number or an amount from information that you already have - obliczać",
-    "unit": "1a",
-    "page": 0,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "capable",
-    "pronunciation": "\"keIp´b´l",
-    "part_of_speech": "of sth",
-    "definition": "able to do sth - potrafiący coś zrobić, zdolny do czegoś",
     "unit": "1a",
     "page": 0,
     "correct_count": 0,
@@ -100,26 +80,6 @@
     "wrong_count": 0
   },
   {
-    "word": "focus",
-    "pronunciation": "\"f´Uk´s",
-    "part_of_speech": "on sth",
-    "definition": "to concentrate on sth - skupiać się (np. na czynności)",
-    "unit": "1a",
-    "page": 0,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "fulfil",
-    "pronunciation": "fUl\"fIl",
-    "part_of_speech": "sth",
-    "definition": "to make sth come true - realizować (np. ambicję) fulfil your potential (phr) = to achieve as much as your natural ability makes possible - wykorzystywać swój potencjał",
-    "unit": "1a",
-    "page": 0,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "gain",
     "pronunciation": "geIn",
     "part_of_speech": "v",
@@ -130,7 +90,7 @@
     "wrong_count": 0
   },
   {
-    "word": "give",
+    "word": "give out",
     "pronunciation": "ÆgIv \"aUt",
     "part_of_speech": "phr v",
     "definition": "to give sth to a lot of people; to distribute sth - tu: rozdawać",
@@ -140,7 +100,7 @@
     "wrong_count": 0
   },
   {
-    "word": "give",
+    "word": "give up",
     "pronunciation": "ÆgIv \"øp",
     "part_of_speech": "phr v",
     "definition": "to stop making an effort; to quit - poddawać się, rezygnować grab an opportunity (phr) = to take advantage of a favourable chance - złapać okazję",
@@ -150,7 +110,7 @@
     "wrong_count": 0
   },
   {
-    "word": "hang",
+    "word": "hang in",
     "pronunciation": "ÆhœN \"In",
     "part_of_speech": "phr v",
     "definition": "to not give up in difficulties - nie poddawać się, wytrzymywać",
@@ -160,7 +120,7 @@
     "wrong_count": 0
   },
   {
-    "word": "hang",
+    "word": "hang out",
     "pronunciation": "ÆhœN \"aUt",
     "part_of_speech": "phr v",
     "definition": "to spend a lot of time somewhere or with sb - spędzać czas",
@@ -190,30 +150,10 @@
     "wrong_count": 0
   },
   {
-    "word": "keep",
+    "word": "keep on",
     "pronunciation": "Æki…p \"Ån",
     "part_of_speech": "phr v",
     "definition": "to continue (doing sth) - kontynuować",
-    "unit": "1a",
-    "page": 0,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "keep",
-    "pronunciation": "Æki…p \"øp",
-    "part_of_speech": "sth",
-    "definition": "to continue doing sth good - tu: trzymać na poziomie (np. pracę) live a full life (phr) = to enjoy doing a lot of things - żyć pełnią życia",
-    "unit": "1a",
-    "page": 0,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "manage",
-    "pronunciation": "\"mœnIdZ",
-    "part_of_speech": "to do sth",
-    "definition": "to succeed in doing sth - dać radę (coś zrobić)",
     "unit": "1a",
     "page": 0,
     "correct_count": 0,
@@ -316,7 +256,7 @@
     "definition": "to refuse to do sth - stawiać opór",
     "unit": "1a",
     "page": 0,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -340,26 +280,6 @@
     "wrong_count": 0
   },
   {
-    "word": "start",
-    "pronunciation": "\"stA…t Ån",
-    "part_of_speech": "sth",
-    "definition": "to begin dealing with sth - zabierać się za coś",
-    "unit": "1a",
-    "page": 0,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "start",
-    "pronunciation": "ÆstA…t \"Åf",
-    "part_of_speech": "sb",
-    "definition": "to help sb begin doing sth - pomóc zacząć",
-    "unit": "1a",
-    "page": 0,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "state",
     "pronunciation": "steIt",
     "part_of_speech": "n",
@@ -370,20 +290,10 @@
     "wrong_count": 0
   },
   {
-    "word": "stir",
+    "word": "stir in",
     "pronunciation": "Æst‰…r \"In",
     "part_of_speech": "phr v",
     "definition": "to add sth to sth else and mix them - wmieszać, zmieszać",
-    "unit": "1a",
-    "page": 0,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "stir",
-    "pronunciation": "Æst‰…r \"øp",
-    "part_of_speech": "sth",
-    "definition": "to cause problems, trouble, etc - wywoływać problemy succeed (in doing sth)",
     "unit": "1a",
     "page": 0,
     "correct_count": 0,
@@ -400,20 +310,10 @@
     "wrong_count": 0
   },
   {
-    "word": "work",
-    "pronunciation": "\"w‰…k Ån",
-    "part_of_speech": "sth",
-    "definition": "to spend time improving sth - pracować ciężko (nad czymś)",
-    "unit": "1a",
-    "page": 0,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "work",
+    "word": "work out",
     "pronunciation": "Æw‰…k \"aUt",
     "part_of_speech": "phr v",
-    "definition": "to exercise - ćwiczyć (fizycznie) 1b",
+    "definition": "to exercise - ćwiczyć (fizycznie)",
     "unit": "1a",
     "page": 0,
     "correct_count": 0,
@@ -453,7 +353,7 @@
     "word": "shift",
     "pronunciation": "SIft",
     "part_of_speech": "n",
-    "definition": "the time period during which sb works - zmiana (godziny pracy) 1c as bold as brass (idm) = (of a person) arrogant - z pewnością siebie as cold as ice (idm) = (of a person) very unfriendly and unfeeling - oschły (o osobie) as cool as a cucumber (idm) = (of a person) very calm - opanowany (o osobie) as hard as nails (idm) = (of a person) very tough - niewzruszony, twardy jak skała (o osobie) as keen as mustard (idm) = (of a person) very eager and enthusiastic - entuzjastyczny (o osobie) as sly as a fox (idm) = (of a person) very clever in a cunning way - chytry jak lis (o osobie)",
+    "definition": "the time period during which sb works - zmiana (godziny pracy)",
     "unit": "1a",
     "page": 0,
     "correct_count": 0,
@@ -700,16 +600,6 @@
     "wrong_count": 0
   },
   {
-    "word": "conform",
-    "pronunciation": "k´n\"fO…m",
-    "part_of_speech": "to sth",
-    "definition": "to behave according to the accepted standards of a society - dostosowywać się, dopasowywać się",
-    "unit": "2a",
-    "page": 1,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "confuse",
     "pronunciation": "k´n\"fju…z",
     "part_of_speech": "v",
@@ -823,7 +713,7 @@
     "word": "typical",
     "pronunciation": "\"tIpIk´l",
     "part_of_speech": "adj",
-    "definition": "usual; normal - typowy Unit 2 – Touch of nature 2a",
+    "definition": "usual; normal - typowy Unit 2 – Touch of nature",
     "unit": "2a",
     "page": 1,
     "correct_count": 0,
@@ -860,7 +750,7 @@
     "wrong_count": 0
   },
   {
-    "word": "black",
+    "word": "black hole",
     "pronunciation": "Æblœk \"h´Ul",
     "part_of_speech": "n",
     "definition": "each of the areas in space where gravity is so strong that nothing, even light, can escape from them - czarna dziura",
@@ -870,7 +760,7 @@
     "wrong_count": 0
   },
   {
-    "word": "blast",
+    "word": "blast off",
     "pronunciation": "ÆblA…st \"Åf",
     "part_of_speech": "phr v",
     "definition": "(of a rocket) to leave the ground - odpalać (tu: rakietę)",
@@ -880,7 +770,7 @@
     "wrong_count": 0
   },
   {
-    "word": "blast",
+    "word": "blast out",
     "pronunciation": "ÆblA…st \"aUt",
     "part_of_speech": "phr v",
     "definition": "(of loud noise, music, etc) to be heard - być słyszalnym (o głośnych hałasach, muzyce)",
@@ -900,7 +790,7 @@
     "wrong_count": 0
   },
   {
-    "word": "celestial",
+    "word": "celestial body",
     "pronunciation": "s´Ælesti´l \"bÅdi",
     "part_of_speech": "n",
     "definition": "a natural object in space, such as a planet or star - ciało niebieskie",
@@ -1000,7 +890,7 @@
     "wrong_count": 0
   },
   {
-    "word": "full",
+    "word": "full moon",
     "pronunciation": "ÆfUl \"mu…n",
     "part_of_speech": "n",
     "definition": "the time when the moon is at its fullest - pełnia Księżyca",
@@ -1010,7 +900,7 @@
     "wrong_count": 0
   },
   {
-    "word": "gas",
+    "word": "gas giant",
     "pronunciation": "\"gœs ÆdZaI´nt",
     "part_of_speech": "n",
     "definition": "a large planet mainly consisting of hydrogen and helium, such as Jupiter, Saturn, Uranus and Neptune - gazowy olbrzym (typ planety)",
@@ -1030,7 +920,7 @@
     "wrong_count": 0
   },
   {
-    "word": "give",
+    "word": "give away",
     "pronunciation": "ÆgIv ´\"weI",
     "part_of_speech": "phr v",
     "definition": "to give sth you possess to sb else - rozdawać",
@@ -1040,7 +930,7 @@
     "wrong_count": 0
   },
   {
-    "word": "give",
+    "word": "give off",
     "pronunciation": "ÆgIv \"Åf",
     "part_of_speech": "phr v",
     "definition": "to emit sth - tu: emitować (np. promieniowanie)",
@@ -1070,7 +960,7 @@
     "wrong_count": 0
   },
   {
-    "word": "heat",
+    "word": "heat through",
     "pronunciation": "Æhi…t \"Tru…",
     "part_of_speech": "phr v",
     "definition": "to reheat cooked food - odgrzewać",
@@ -1080,7 +970,7 @@
     "wrong_count": 0
   },
   {
-    "word": "heat",
+    "word": "heat up",
     "pronunciation": "Æhi…t \"øp",
     "part_of_speech": "phr v",
     "definition": "to become very hot - nagrzewać się",
@@ -1150,7 +1040,7 @@
     "wrong_count": 0
   },
   {
-    "word": "meteor",
+    "word": "meteor shower",
     "pronunciation": "\"mi…ti´ ÆSaU´",
     "part_of_speech": "n",
     "definition": "a number of meteors producing a bright light and moving at high speeds across the sky at night - deszcz meteorów",
@@ -1160,7 +1050,7 @@
     "wrong_count": 0
   },
   {
-    "word": "Milky",
+    "word": "Milky Way",
     "pronunciation": "ÆmIlki \"weI",
     "part_of_speech": "n",
     "definition": "our galaxy - Droga Mleczna",
@@ -1170,7 +1060,7 @@
     "wrong_count": 0
   },
   {
-    "word": "narrow",
+    "word": "narrow down",
     "pronunciation": "Ænœr´U \"daUn",
     "part_of_speech": "phr v",
     "definition": "to reduce the number of possibilities or choices - zawężać (np. liczbę kandydatów)",
@@ -1210,7 +1100,7 @@
     "wrong_count": 0
   },
   {
-    "word": "point",
+    "word": "point out",
     "pronunciation": "ÆpOInt \"aUt",
     "part_of_speech": "phr v",
     "definition": "to show where sth is - wskazywać, pokazywać",
@@ -1220,7 +1110,7 @@
     "wrong_count": 0
   },
   {
-    "word": "point",
+    "word": "point up",
     "pronunciation": "ÆpOInt \"øp",
     "part_of_speech": "phr v",
     "definition": "to clearly show that sth is important - uwypuklać (np. problem)",
@@ -1250,7 +1140,7 @@
     "wrong_count": 0
   },
   {
-    "word": "shooting",
+    "word": "shooting star",
     "pronunciation": "ÆSu…tIN \"stA…",
     "part_of_speech": "n",
     "definition": "a star that moves quickly across the sky - spadająca gwiazda",
@@ -1340,7 +1230,7 @@
     "wrong_count": 0
   },
   {
-    "word": "the",
+    "word": "the Big Bang",
     "pronunciation": "D´ ÆbIg \"bœN",
     "part_of_speech": "n",
     "definition": "the huge explosion that is believed by scientists to have created the universe - Wielki Wybuch",
@@ -1350,7 +1240,7 @@
     "wrong_count": 0
   },
   {
-    "word": "total",
+    "word": "total eclipse",
     "pronunciation": "Æt´Utl I\"klIps",
     "part_of_speech": "n",
     "definition": "the phenomenon of the whole disc of the Sun or Moon being completely hidden - całkowite zaćmienie",
@@ -1363,7 +1253,7 @@
     "word": "viewer",
     "pronunciation": "\"vju…´",
     "part_of_speech": "n",
-    "definition": "sb who watches TV - widz, telewidz 2b",
+    "definition": "sb who watches TV - widz, telewidz",
     "unit": "2b",
     "page": 2,
     "correct_count": 0,
@@ -1400,16 +1290,6 @@
     "wrong_count": 0
   },
   {
-    "word": "plead",
-    "pronunciation": "pli…d",
-    "part_of_speech": "with sb",
-    "definition": "to beg sb; to ask sb in an intense and emotional way - błagać",
-    "unit": "2b",
-    "page": 2,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "swallow",
     "pronunciation": "\"swÅl´U",
     "part_of_speech": "v",
@@ -1433,7 +1313,7 @@
     "word": "whip",
     "pronunciation": "wIp",
     "part_of_speech": "v",
-    "definition": "to move sth very fast - tu: ruszać szybko (np. głową) 2c",
+    "definition": "to move sth very fast - tu: ruszać szybko (np. głową)",
     "unit": "2b",
     "page": 2,
     "correct_count": 0,
@@ -1544,16 +1424,6 @@
     "pronunciation": "welT",
     "part_of_speech": "n",
     "definition": "a large fortune, amount of money, etc - bogactwo, majątek Culture 2",
-    "unit": "2b",
-    "page": 2,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "attached",
-    "pronunciation": "´\"tœtSt",
-    "part_of_speech": "to sth",
-    "definition": "connected with sth - związany, powiązany (z czymś)",
     "unit": "2b",
     "page": 2,
     "correct_count": 0,
@@ -1723,7 +1593,7 @@
     "word": "weep",
     "pronunciation": "wi…p",
     "part_of_speech": "v",
-    "definition": "to cry; to shed tears - płakać Unit 3 – Stuff that matters 3a a pair of denim jeans (phr) = a pair of casual trousers made from a strong, blue, cotton cloth - para jeansów",
+    "definition": "to cry; to shed tears - płakać Unit 3 – Stuff that matters",
     "unit": "2b",
     "page": 2,
     "correct_count": 0,
@@ -1740,7 +1610,7 @@
     "wrong_count": 0
   },
   {
-    "word": "button",
+    "word": "button down",
     "pronunciation": "Æbøtn \"daUn",
     "part_of_speech": "phr v",
     "definition": "to fasten sth down with buttons to secure it (e.g. collar) - rozpiąć (guziki w ubraniu)",
@@ -1750,7 +1620,7 @@
     "wrong_count": 0
   },
   {
-    "word": "button",
+    "word": "button up",
     "pronunciation": "Æbøtn \"øp",
     "part_of_speech": "phr v",
     "definition": "to join the two sides of a garment by fastening its buttons - zapiąć (guziki w ubraniu)",
@@ -1890,7 +1760,7 @@
     "wrong_count": 0
   },
   {
-    "word": "fast",
+    "word": "fast fashion",
     "pronunciation": "ÆfA…st \"fœS´n",
     "part_of_speech": "adj",
     "definition": "producing fashionable clothes very fast and at a low cost - fast fashion (szybkie i tanie produkowanie modnych ubrań)",
@@ -1910,16 +1780,6 @@
     "wrong_count": 0
   },
   {
-    "word": "focus",
-    "pronunciation": "\"f´Uk´s",
-    "part_of_speech": "on sth",
-    "definition": "to give a lot of attention to sth - skupiać się (np. na czynności)",
-    "unit": "2b",
-    "page": 2,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "garment",
     "pronunciation": "\"gA…m´nt",
     "part_of_speech": "n",
@@ -1930,7 +1790,7 @@
     "wrong_count": 0
   },
   {
-    "word": "hang",
+    "word": "hang out",
     "pronunciation": "ÆhœN \"aUt",
     "part_of_speech": "phr v",
     "definition": "to spend a lot of time somewhere or with sb - spędzać czas",
@@ -1940,20 +1800,10 @@
     "wrong_count": 0
   },
   {
-    "word": "hang",
+    "word": "hang up",
     "pronunciation": "ÆhœN \"øp",
     "part_of_speech": "phr v",
     "definition": "to suspend clothes on a hook or hanger - wieszać (np. ubrania)",
-    "unit": "3b",
-    "page": 3,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "impact",
-    "pronunciation": "\"Impœkt",
-    "part_of_speech": "on sth",
-    "definition": "the result of an action on sth - wpływ (na coś)",
     "unit": "3b",
     "page": 3,
     "correct_count": 0,
@@ -2080,7 +1930,7 @@
     "wrong_count": 0
   },
   {
-    "word": "point",
+    "word": "point out",
     "pronunciation": "pOInt \"aUt",
     "part_of_speech": "phr v",
     "definition": "to mention sth - wskazywać, pokazywać",
@@ -2190,7 +2040,7 @@
     "wrong_count": 0
   },
   {
-    "word": "take",
+    "word": "take in",
     "pronunciation": "ÆteIk \"In",
     "part_of_speech": "phr v",
     "definition": "to make clothes smaller - tu: zwężać (ubranie)",
@@ -2200,7 +2050,7 @@
     "wrong_count": 0
   },
   {
-    "word": "take",
+    "word": "take off",
     "pronunciation": "ÆteIk \"Åf",
     "part_of_speech": "phr v",
     "definition": "to remove sth that you are wearing - tu: zdjąć (ubranie)",
@@ -2210,7 +2060,7 @@
     "wrong_count": 0
   },
   {
-    "word": "textile",
+    "word": "textile fibre",
     "pronunciation": "\"tekstaIl ÆfaIb´",
     "part_of_speech": "n",
     "definition": "each of the threads that make up a fabric - włókno tekstylne",
@@ -2250,7 +2100,7 @@
     "wrong_count": 0
   },
   {
-    "word": "try",
+    "word": "try on",
     "pronunciation": "ÆtraI \"Ån",
     "part_of_speech": "phr v",
     "definition": "to put on a piece of clothing to see if it fits you or if you like it before buying it - przymierzyć",
@@ -2260,7 +2110,7 @@
     "wrong_count": 0
   },
   {
-    "word": "try",
+    "word": "try out",
     "pronunciation": "ÆtraI \"aUt",
     "part_of_speech": "phr v",
     "definition": "to test sth to see if it works or is suitable - wypróbować",
@@ -2290,7 +2140,7 @@
     "wrong_count": 0
   },
   {
-    "word": "wear",
+    "word": "wear away",
     "pronunciation": "Æwe´r ´\"weI",
     "part_of_speech": "phr v",
     "definition": "to cause sth to disintegrate slowly because it is used a lot - wycierać (np. materiał)",
@@ -2300,10 +2150,10 @@
     "wrong_count": 0
   },
   {
-    "word": "wear",
+    "word": "wear out",
     "pronunciation": "Æwe´r \"aUt",
     "part_of_speech": "phr v",
-    "definition": "to use sth until it is no longer in good condition - zużyć (np. buty) 3b",
+    "definition": "to use sth until it is no longer in good condition - zużyć (np. buty)",
     "unit": "3b",
     "page": 3,
     "correct_count": 0,
@@ -2370,7 +2220,7 @@
     "wrong_count": 0
   },
   {
-    "word": "outlet",
+    "word": "outlet store",
     "pronunciation": "\"aUtl´t stO…",
     "part_of_speech": "n",
     "definition": "a shop where things are sold at a cheaper price than usual - outlet, punkt sprzedaży w niższych cenach",
@@ -2393,14 +2243,14 @@
     "word": "wages",
     "pronunciation": "\"weIdZIz",
     "part_of_speech": "pl n",
-    "definition": "the payment for your work on a daily or weekly basis  - płaca za określony czas pracy (dzień, tydzień) 3c",
+    "definition": "the payment for your work on a daily or weekly basis  - płaca za określony czas pracy (dzień, tydzień)",
     "unit": "3b",
     "page": 3,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "ankle",
+    "word": "ankle boots",
     "pronunciation": "\"œNk´l bu…ts",
     "part_of_speech": "n",
     "definition": "boots that go up to or just above the ankle  - buty do kostki be all mouth and no trousers (idm) = to talk boastfully about doing sth but never actually do it  - dużo mówić, mało robić",
@@ -2440,7 +2290,7 @@
     "wrong_count": 0
   },
   {
-    "word": "scroll",
+    "word": "scroll through",
     "pronunciation": "\"skr´Ul Tru…",
     "part_of_speech": "phr v",
     "definition": "to move information on a computer screen up or down so that you can read it  - przewijać (np. stronę internetową) skinny jeans (phr) = very tight- fitting jeans with narrow legs - jeansy skinny fit (o bardzo dopasowanym kroju) slip-on shoes (phr) = a casual type of shoes that are easy to put on and take off because they haven't got fastenings or laces  - buty wsuwane tie-dye vest (phr) = an undershirt whose designs are made by tying knots in it and dyeing it  - kamizelka farbowana metodą tie-dye tighten your belt (idm) = to make financial sacrifices by reducing your spending  - zaciskać pasa",
@@ -2530,7 +2380,7 @@
     "wrong_count": 0
   },
   {
-    "word": "haute",
+    "word": "haute couture",
     "pronunciation": "Æ´Ut ku…\"tjU´",
     "part_of_speech": "n",
     "definition": "expensive clothes of original design and high quality - haute couture (luksusowe krawiectwo)",
@@ -2640,16 +2490,6 @@
     "wrong_count": 0
   },
   {
-    "word": "revolve",
-    "pronunciation": "rI\"vÅlv",
-    "part_of_speech": "around sb",
-    "definition": "to focus on sb  - kręcić się (wokół czegoś)",
-    "unit": "4a",
-    "page": 4,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "vanity",
     "pronunciation": "\"vœn´ti",
     "part_of_speech": "n",
@@ -2700,20 +2540,10 @@
     "wrong_count": 0
   },
   {
-    "word": "stack",
-    "pronunciation": "stœk",
-    "part_of_speech": "of sth",
-    "definition": "a pile of sth; a heap of sth - stos (np. książek) sustainable fashion (phr) = garments that have been made in a way not causing damage to the environment - zrównoważona moda",
-    "unit": "4a",
-    "page": 4,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "vision",
     "pronunciation": "\"vIZ´n",
     "part_of_speech": "n",
-    "definition": "a dream; a future plan - wizja Unit 4 – Reshaping work 4a",
+    "definition": "a dream; a future plan - wizja Unit 4 – Reshaping work",
     "unit": "4a",
     "page": 4,
     "correct_count": 0,
@@ -2750,16 +2580,6 @@
     "wrong_count": 0
   },
   {
-    "word": "appoint",
-    "pronunciation": "´\"pOInt",
-    "part_of_speech": "sb",
-    "definition": "to put sb in a position of work - mianować, wyznaczać (np. na stanowisko)",
-    "unit": "4a",
-    "page": 4,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "bonus",
     "pronunciation": "\"b´Un´s",
     "part_of_speech": "n",
@@ -2770,7 +2590,7 @@
     "wrong_count": 0
   },
   {
-    "word": "bring",
+    "word": "bring about",
     "pronunciation": "ÆbrIN ´\"baUt",
     "part_of_speech": "phr v",
     "definition": "to cause sth to happen - powodować, przynosić (np. zmiany)",
@@ -2780,7 +2600,7 @@
     "wrong_count": 0
   },
   {
-    "word": "bring",
+    "word": "bring forward",
     "pronunciation": "ÆbrIN \"fO…w´d",
     "part_of_speech": "phr v",
     "definition": "to move a meeting, an event, an appointment, etc to an earlier time or date - przyspieszać, przenosić na wcześniejszą datę (np. spotkanie)",
@@ -2850,7 +2670,7 @@
     "wrong_count": 0
   },
   {
-    "word": "draw",
+    "word": "draw out",
     "pronunciation": "ÆdrO… \"aUt",
     "part_of_speech": "phr v",
     "definition": "to make sth last longer than usual - wydłużać, przeciągać (np. czas trwania wydarzenia)",
@@ -2860,7 +2680,7 @@
     "wrong_count": 0
   },
   {
-    "word": "draw",
+    "word": "draw up",
     "pronunciation": "ÆdrO… \"øp",
     "part_of_speech": "phr v",
     "definition": "to prepare a document - sporządzać (np. testament) dynamic leadership (phr) = the state of being a manager with the ability to act in an effective and motivating way - dynamiczne, skuteczne kierownictwo",
@@ -2900,7 +2720,7 @@
     "wrong_count": 0
   },
   {
-    "word": "fall",
+    "word": "fall away",
     "pronunciation": "ÆfO…l ´\"weI",
     "part_of_speech": "phr v",
     "definition": "to gradually decrease in number, amount, etc - spadać (o liczbie)",
@@ -2910,7 +2730,7 @@
     "wrong_count": 0
   },
   {
-    "word": "fall",
+    "word": "fall through",
     "pronunciation": "ÆfO…l \"Tru…",
     "part_of_speech": "phr v",
     "definition": "(of a plan) to fail to happen - nie powieść się (o planie)",
@@ -2920,7 +2740,7 @@
     "wrong_count": 0
   },
   {
-    "word": "glide",
+    "word": "glide about",
     "pronunciation": "ÆglaId ´\"baUt",
     "part_of_speech": "phr v",
     "definition": "to move around quietly and smoothly without effort - szybować incorporation",
@@ -2990,7 +2810,7 @@
     "wrong_count": 0
   },
   {
-    "word": "pull",
+    "word": "pull away",
     "pronunciation": "ÆpUl ´\"weI",
     "part_of_speech": "phr v",
     "definition": "to move away from sb/sth - oddalać się (od kogoś)",
@@ -3000,7 +2820,7 @@
     "wrong_count": 0
   },
   {
-    "word": "pull",
+    "word": "pull out of",
     "pronunciation": "ÆpUl \"aUt ´v",
     "part_of_speech": "phr v",
     "definition": "to withdraw from an agreement, contract, etc - wycofywać się (np. z umowy) qualifications",
@@ -3014,16 +2834,6 @@
     "pronunciation": "rI\"si…v",
     "part_of_speech": "v",
     "definition": "to get sth; to obtain sth - dostawać, odbierać",
-    "unit": "4b",
-    "page": 5,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "recruit",
-    "pronunciation": "rI\"kru…t",
-    "part_of_speech": "sb",
-    "definition": "to employ people to work in an organisation, company, etc - rekrutować (np. do pracy)",
     "unit": "4b",
     "page": 5,
     "correct_count": 0,
@@ -3050,40 +2860,10 @@
     "wrong_count": 0
   },
   {
-    "word": "run",
-    "pronunciation": "\"røn baI",
-    "part_of_speech": "sth",
-    "definition": "to inform sb about your ideas, etc in order to get their opinion, approval, etc - opisywać (np. komuś pomysł, by poznać opinię)",
-    "unit": "4b",
-    "page": 5,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "run",
-    "pronunciation": "\"røn Tru…",
-    "part_of_speech": "sth",
-    "definition": "to go over sth quickly - przejrzeć",
-    "unit": "4b",
-    "page": 5,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "sales",
+    "word": "sales bot",
     "pronunciation": "\"seIlz bÅt",
     "part_of_speech": "n",
     "definition": "a computer program that uses artificial intelligence to perform automated tasks relating to sales, such as making phone calls, confirming appointments, providing first-line customer support, etc - bot sprzedażowy (rodzaj oprogramowania)",
-    "unit": "4b",
-    "page": 5,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "strap",
-    "pronunciation": "strœp",
-    "part_of_speech": "sth on",
-    "definition": "to fasten sth to your body with a narrow piece of leather, cloth, etc - przymocować (np. za pomocą pasa)",
     "unit": "4b",
     "page": 5,
     "correct_count": 0,
@@ -3103,7 +2883,7 @@
     "word": "wireless",
     "pronunciation": "\"waI´l´s",
     "part_of_speech": "adj",
-    "definition": "(of a device, etc) not using cords to send and receive electronic signals - bezprzewodowy 4b be bound to (do sth) (phr) = to be very likely to do sth - musieć, stać się na pewno be due to (do sth) (phr) = to be expected to do sth - mieć powinność coś zrobić be on the verge of (doing sth) (phr) = to be about to do sth - być blisko (zrobienia czegoś)",
+    "definition": "(of a device, etc) not using cords to send and receive electronic signals - bezprzewodowy",
     "unit": "4b",
     "page": 5,
     "correct_count": 0,
@@ -3114,16 +2894,6 @@
     "pronunciation": "\"I´r´",
     "part_of_speech": "n",
     "definition": "a time period with a distinct character - era, okres face a challenge (phr) = to have to deal with a difficult situation or task - stawiać czoła wyzwaniu",
-    "unit": "4b",
-    "page": 5,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "figure",
-    "pronunciation": "ÆfIg´r \"aUt",
-    "part_of_speech": "sth",
-    "definition": "to work sth out; to understand sth - rozwiązywać (np. problem)",
     "unit": "4b",
     "page": 5,
     "correct_count": 0,
@@ -3143,14 +2913,14 @@
     "word": "virtual",
     "pronunciation": "\"v‰…tSu´l",
     "part_of_speech": "adj",
-    "definition": "done or seen using a computer, without you actually being there - wirtualny 4c annual bonus (phr) = extra money paid every year to employees who perform well in their jobs  - premia roczna benefits package \\\"benIfIts ÆpœkIdZ\\ (n) = a number of things, such as health insurance a car, etc, that an employee gets in addition to their salary/wages - pakiet świadczeń, benefitów burn the candle at both ends (idm) = to work very hard from morning to night exhausting yourself - brać zbyt wiele na swoje barki (tu: pracować od rana do wieczora)",
+    "definition": "done or seen using a computer, without you actually being there - wirtualny",
     "unit": "4b",
     "page": 5,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "business",
+    "word": "business trip",
     "pronunciation": "\"bIzn´s trIp",
     "part_of_speech": "n",
     "definition": "a journey made for business purposes - podróż służbowa commuting allowance (phr) = an amount of money given to sb on a regular basis for travelling expenses to and from their job - zwrot kosztów dojazdu do pracy",
@@ -3160,7 +2930,7 @@
     "wrong_count": 0
   },
   {
-    "word": "company",
+    "word": "company car",
     "pronunciation": "\"kømp´ni kA…",
     "part_of_speech": "n",
     "definition": "a car used by an employee for their work and belongs to the company they work for - samochód służbowy fat pay cheque (phr) = a very high salary - sowite wynagrodzenie",
@@ -3170,7 +2940,7 @@
     "wrong_count": 0
   },
   {
-    "word": "head",
+    "word": "head office",
     "pronunciation": "Æhed \"ÅfIs",
     "part_of_speech": "n",
     "definition": "the headquarters of an organisation, business, etc - siedziba główna learn the ropes (idm) = to learn all the things you need to know in order to do a job - uczyć się, wdrażać się out-of-pocket expenses (phr) = small sums of money that an employee pays for their job and which their employer gives back - wydatki bieżące (np. w delegacji)",
@@ -3180,7 +2950,7 @@
     "wrong_count": 0
   },
   {
-    "word": "pay",
+    "word": "pay slip",
     "pronunciation": "\"peI slIp",
     "part_of_speech": "n",
     "definition": "a piece of paper that a worker receives every month/week and shows their salary/wages and how much tax has been paid - pasek wypłaty",
@@ -3260,16 +3030,6 @@
     "wrong_count": 0
   },
   {
-    "word": "emulate",
-    "pronunciation": "\"emjuleIt",
-    "part_of_speech": "sth",
-    "definition": "to imitate sth; to copy sth - naśladować",
-    "unit": "5a",
-    "page": 6,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "entrepreneur",
     "pronunciation": "ÆÅntr´pr´\"n‰…",
     "part_of_speech": "n",
@@ -3284,26 +3044,6 @@
     "pronunciation": "Ik\"sel",
     "part_of_speech": "v",
     "definition": "to do sth better than anybody else - tu: wyróżniać się",
-    "unit": "5a",
-    "page": 6,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "further",
-    "pronunciation": "\"f‰…D´",
-    "part_of_speech": "sth",
-    "definition": "to advance sth; to cause sth to progress - tu: posuwać do przodu (np. o karierze) ground-breaking \\\"graUnd ÆbreIkIN\\ (adj) = innovative; new and different from other things - przełomowy",
-    "unit": "5a",
-    "page": 6,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "inspire",
-    "pronunciation": "In\"spaI´",
-    "part_of_speech": "sb",
-    "definition": "to motivate sb; to fill sb with a desire to do sth - inspirować, motywować (do czegoś)",
     "unit": "5a",
     "page": 6,
     "correct_count": 0,
@@ -3333,7 +3073,7 @@
     "word": "venture",
     "pronunciation": "\"ventS´",
     "part_of_speech": "n",
-    "definition": "an attempt to start a new business - przedsięwzięcie Unit 5 – Rebooting happiness 5a",
+    "definition": "an attempt to start a new business - przedsięwzięcie Unit 5 – Rebooting happiness",
     "unit": "5a",
     "page": 6,
     "correct_count": 0,
@@ -3380,7 +3120,7 @@
     "wrong_count": 0
   },
   {
-    "word": "blow",
+    "word": "blow up",
     "pronunciation": "Æbl´U \"øp",
     "part_of_speech": "phr v",
     "definition": "to lose your temper - wybuchnąć (tu: gniewem)",
@@ -3390,7 +3130,7 @@
     "wrong_count": 0
   },
   {
-    "word": "bottle",
+    "word": "bottle up",
     "pronunciation": "ÆbÅtl \"øp",
     "part_of_speech": "phr v",
     "definition": "to not express your feelings - dusić w sobie, tłumić (o uczuciach)",
@@ -3406,27 +3146,17 @@
     "definition": "a low shrub with many thin branches - krzak, krzew",
     "unit": "5a",
     "page": 6,
-    "correct_count": 1,
-    "wrong_count": 0
-  },
-  {
-    "word": "calm",
-    "pronunciation": "ÆkA…m \"daUn",
-    "part_of_speech": "sb",
-    "definition": "to make sb feel relaxed and quiet - uspokoić chase a dream (phr) = to try hard to achieve a goal - gonić marzenia (ciężko pracować, by osiągnąć cel)",
-    "unit": "5a",
-    "page": 6,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "cheer",
+    "word": "cheer up",
     "pronunciation": "ÆtSI´r \"øp",
     "part_of_speech": "phr v",
     "definition": "to start feeling better - rozweselić się",
     "unit": "5a",
     "page": 6,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -3440,7 +3170,7 @@
     "wrong_count": 0
   },
   {
-    "word": "comfort",
+    "word": "comfort zone",
     "pronunciation": "\"kømf´t Æz´Un",
     "part_of_speech": "n",
     "definition": "a situation in which you feel safe and calm - strefa komfortu",
@@ -3486,7 +3216,7 @@
     "definition": "to make sb believe that sth is true - przekonywać credits roll (phr) = the list of the names of people (e.g. actors, directors, etc) appear at the end of a film - napisy końcowe",
     "unit": "5a",
     "page": 6,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -3500,7 +3230,7 @@
     "wrong_count": 0
   },
   {
-    "word": "day",
+    "word": "day care",
     "pronunciation": "\"deI ke´",
     "part_of_speech": "n",
     "definition": "a place where children are looked after while their parents are at work - żłobek",
@@ -3556,7 +3286,7 @@
     "definition": "to analyse sth in order to understand it completely - dokładnie analizować",
     "unit": "5a",
     "page": 6,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -3576,7 +3306,7 @@
     "definition": "a strong feeling, e.g. love, anger, etc - emocja, uczucie",
     "unit": "5a",
     "page": 6,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -3700,16 +3430,6 @@
     "wrong_count": 0
   },
   {
-    "word": "get",
-    "pronunciation": "Æget \"daUn",
-    "part_of_speech": "sb",
-    "definition": "to cause sb to feel depressed - przygnębiać",
-    "unit": "5b",
-    "page": 7,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "glamorous",
     "pronunciation": "\"glœm´r´s",
     "part_of_speech": "adj",
@@ -3770,7 +3490,7 @@
     "wrong_count": 0
   },
   {
-    "word": "liven",
+    "word": "liven up",
     "pronunciation": "ÆlaIv´n \"øp",
     "part_of_speech": "phr v",
     "definition": "to become more active and cheerful - ożywiać się",
@@ -3810,7 +3530,7 @@
     "wrong_count": 0
   },
   {
-    "word": "open",
+    "word": "open up",
     "pronunciation": "Æ´Up´n \"øp",
     "part_of_speech": "phr v",
     "definition": "to talk about your personal feelings and experiences - otwierać się (mówić o sobie)",
@@ -3824,16 +3544,6 @@
     "pronunciation": "\"pœS´n",
     "part_of_speech": "n",
     "definition": "a very strong feeling that cannot be controlled; a strong interest - pasja",
-    "unit": "5b",
-    "page": 7,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "perk",
-    "pronunciation": "Æp‰…k \"øp",
-    "part_of_speech": "sb",
-    "definition": "to help sb become cheerful and lively after feeling tired, bored or depressed - rozweselić",
     "unit": "5b",
     "page": 7,
     "correct_count": 0,
@@ -3890,7 +3600,7 @@
     "wrong_count": 0
   },
   {
-    "word": "spoiler",
+    "word": "spoiler alert",
     "pronunciation": "\"spOIl´r ´Æl‰…t",
     "part_of_speech": "n",
     "definition": "a warning that crucial details of a plot of a film, book, etc will be made known - uwaga spoiler, ostrzeżenie przed informacją zdradzającą szczegóły fabuły",
@@ -3910,16 +3620,6 @@
     "wrong_count": 0
   },
   {
-    "word": "tear",
-    "pronunciation": "Æte´r ´\"pA…t",
-    "part_of_speech": "sb",
-    "definition": "to cause sb to feel very unhappy and upset - rozbijać (kogoś psychicznie)",
-    "unit": "5b",
-    "page": 7,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "tranquil",
     "pronunciation": "\"trœNkwIl",
     "part_of_speech": "adj",
@@ -3933,7 +3633,7 @@
     "word": "treasure",
     "pronunciation": "\"treZ´",
     "part_of_speech": "v",
-    "definition": "to cherish a memory; to keep a memory fondly in mind - cenić sobie, dobrze wspominać worth your salt (idm) = deserving pay, respect, etc. - warty swojej ceny 5b a coat of paint (phr) = a layer of paint - warstwa farby",
+    "definition": "to cherish a memory; to keep a memory fondly in mind - cenić sobie, dobrze wspominać worth your salt (idm) = deserving pay, respect, etc. - warty swojej ceny",
     "unit": "5b",
     "page": 7,
     "correct_count": 0,
@@ -3943,14 +3643,14 @@
     "word": "stale",
     "pronunciation": "steIl",
     "part_of_speech": "adj",
-    "definition": "having lost your interest in or excitement about sth because of doing the same thing for too long - tu: znudzony 5c a cool head (idm) = the ability to stay calm in difficult situations - opanowanie, zimna krew",
+    "definition": "having lost your interest in or excitement about sth because of doing the same thing for too long - tu: znudzony",
     "unit": "5b",
     "page": 7,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "comfort",
+    "word": "comfort zone",
     "pronunciation": "\"kømf´t Æz´Un",
     "part_of_speech": "n",
     "definition": "a situation in which you feel safe and calm - strefa komfortu conflict resolution (phr) = finding solutions for any disagreement or argument - rozwiązywanie konfliktów constructive criticism (phr) = useful and helpful judgement of sb/sth - konstruktywna krytyka down in the dumps (idm) = very sad - być w dołku empathise (with sb)",
@@ -3960,7 +3660,7 @@
     "wrong_count": 0
   },
   {
-    "word": "lash",
+    "word": "lash out",
     "pronunciation": "ÆlœS \"aUt",
     "part_of_speech": "phr v",
     "definition": "to attack sb verbally or physically - naskakiwać (na kogoś) lift the spirits (idm) = to cause sb to feel much happier - podnosić na duchu make my blood boil (idm) = sth causes me to become extremely angry - sprawiać, że krew (kogoś) zalewa",
@@ -3984,16 +3684,6 @@
     "pronunciation": "reIdZ",
     "part_of_speech": "n",
     "definition": "uncontrollable anger - wściekłość social skills (phr) = the special abilities to feel comfortable and sociable with people - umiejętności społeczne split your sides (idm) = to find sth very funny and start laughing - zrywać boki ze śmiechu thought-provoking \\\"TO…t pr´Æv´UkIN\\ (adj) = causing people to think seriously about certain matters - dający do myślenia walk on air (idm) = to feel exhilarated - być bardzo szczęśliwym Culture 5",
-    "unit": "5b",
-    "page": 7,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "abstain",
-    "pronunciation": "´b\"steIn",
-    "part_of_speech": "from sth",
-    "definition": "to choose not to do sth - powstrzymywać się",
     "unit": "5b",
     "page": 7,
     "correct_count": 0,
@@ -4076,7 +3766,7 @@
     "definition": "obvious; undeniable - oczywisty",
     "unit": "5b",
     "page": 7,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -4093,7 +3783,7 @@
     "word": "unalienable",
     "pronunciation": "Æøn\"eIli´n´b´l",
     "part_of_speech": "adj",
-    "definition": "(of rights) not able to be taken away or given away; non-negotiable - niezbywalny Unit 6 – What's on tonight? 6a",
+    "definition": "(of rights) not able to be taken away or given away; non-negotiable - niezbywalny Unit 6 – What's on tonight?",
     "unit": "5b",
     "page": 7,
     "correct_count": 0,
@@ -4120,7 +3810,7 @@
     "wrong_count": 0
   },
   {
-    "word": "bring",
+    "word": "bring out",
     "pronunciation": "ÆbrIN \"aUt",
     "part_of_speech": "phr v",
     "definition": "to publish (a book), to release (a CD, etc) - wydawać (np. książkę, płytę)",
@@ -4130,7 +3820,7 @@
     "wrong_count": 0
   },
   {
-    "word": "call",
+    "word": "call off",
     "pronunciation": "ÆkO…l \"Åf",
     "part_of_speech": "phr v",
     "definition": "to cancel an activity - odwołać (np. wydarzenie) canned laughter (phr) = a recording of people laughing that is played during a humorous TV or radio show - śmiech z taśmy",
@@ -4140,7 +3830,7 @@
     "wrong_count": 0
   },
   {
-    "word": "catch",
+    "word": "catch up on",
     "pronunciation": "ÆkœtS \"øp Ån",
     "part_of_speech": "phr v",
     "definition": "to do sth that you didn't have time to do before - nadrobić (zaległości)",
@@ -4270,7 +3960,7 @@
     "wrong_count": 0
   },
   {
-    "word": "flick",
+    "word": "flick through",
     "pronunciation": "\"flIk Tru…",
     "part_of_speech": "phr v",
     "definition": "to look quickly at the pages of a magazine, book, etc - przejrzeć (np. czasopismo)",
@@ -4320,7 +4010,7 @@
     "wrong_count": 0
   },
   {
-    "word": "headline",
+    "word": "headline act",
     "pronunciation": "\"hedlaIn œkt",
     "part_of_speech": "n",
     "definition": "the most important act in a performance - headliner, gwóźdź programu",
@@ -4370,7 +4060,7 @@
     "wrong_count": 0
   },
   {
-    "word": "liven",
+    "word": "liven up",
     "pronunciation": "ÆlaIv´n \"øp",
     "part_of_speech": "phr v",
     "definition": "to become more interesting and exciting - ożywiać się Mexican wave \\ÆmeksIk´n \"weIv\\ (n) = the occasion when the spectators of a sports event stand up and sit down moving their hands and body in a wavy pattern - meksykańska fala",
@@ -4400,7 +4090,7 @@
     "wrong_count": 0
   },
   {
-    "word": "opening",
+    "word": "opening night",
     "pronunciation": "Æ´Up´nIN \"naIt",
     "part_of_speech": "n",
     "definition": "the premiere of a play, concert, etc - premiera",
@@ -4430,7 +4120,7 @@
     "wrong_count": 0
   },
   {
-    "word": "put",
+    "word": "put on",
     "pronunciation": "ÆpUt \"Ån",
     "part_of_speech": "phr v",
     "definition": "to produce a play, show, etc - wystawiać (np. sztukę)",
@@ -4520,7 +4210,7 @@
     "wrong_count": 0
   },
   {
-    "word": "support",
+    "word": "support band",
     "pronunciation": "s´\"pO…t bœnd",
     "part_of_speech": "n",
     "definition": "a musical group that appears before the main act at a concert - support (zespół występujący przed główną gwiazdą)",
@@ -4540,7 +4230,7 @@
     "wrong_count": 0
   },
   {
-    "word": "tune",
+    "word": "tune in",
     "pronunciation": "Ætju…n \"In",
     "part_of_speech": "phr v",
     "definition": "to regulate a radio or television set in order to receive a certain station or programme - przełączać (np. radio na daną stację)",
@@ -4550,7 +4240,7 @@
     "wrong_count": 0
   },
   {
-    "word": "turn",
+    "word": "turn down",
     "pronunciation": "Æt‰…n \"daUn",
     "part_of_speech": "phr v",
     "definition": "to refuse an offer - odrzucić (np. ofertę)",
@@ -4560,7 +4250,7 @@
     "wrong_count": 0
   },
   {
-    "word": "turn",
+    "word": "turn up",
     "pronunciation": "Æt‰…n \"øp",
     "part_of_speech": "phr v",
     "definition": "to appear; to arrive at a place - pojawiać się (w danym miejscu)",
@@ -4583,7 +4273,7 @@
     "word": "watch",
     "pronunciation": "wÅtS",
     "part_of_speech": "v",
-    "definition": "to pay attention to sb doing sth for a period of time - oglądać 6b",
+    "definition": "to pay attention to sb doing sth for a period of time - oglądać",
     "unit": "6b",
     "page": 8,
     "correct_count": 0,
@@ -4630,27 +4320,17 @@
     "wrong_count": 0
   },
   {
-    "word": "rave",
-    "pronunciation": "reIv",
-    "part_of_speech": "about sth",
-    "definition": "to talk enthusiastically about sth - zachwalać",
-    "unit": "6c",
-    "page": 9,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "utilise",
     "pronunciation": "\"ju…tIlaIz",
     "part_of_speech": "v",
-    "definition": "to use sth - użytkować 6c Break a leg! (idm) = (to a performer) Good luck!  - Połamania nóg! (życzenie powodzenia)",
+    "definition": "to use sth - użytkować",
     "unit": "6c",
     "page": 9,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "curtain",
+    "word": "curtain call",
     "pronunciation": "\"k‰…t´n kO…l",
     "part_of_speech": "n",
     "definition": "the end of a play when actors appear on stage to respond to applause - wyjście aktorów na scenę po zakończeniu sztuki teatralnej",
@@ -4680,7 +4360,7 @@
     "wrong_count": 0
   },
   {
-    "word": "lead",
+    "word": "lead actor",
     "pronunciation": "\"li…d œkt´",
     "part_of_speech": "n",
     "definition": "the protagonist of a film, play, etc - odtwórca głównej roli limited legroom (phr) = restricted space that is available for your legs (in vehicles, etc) - ograniczona przestrzeń na nogi",
@@ -4700,7 +4380,7 @@
     "wrong_count": 0
   },
   {
-    "word": "opening",
+    "word": "opening night",
     "pronunciation": "Æ´Up´nIN \"naIt",
     "part_of_speech": "n",
     "definition": "the premiere of a play, concert, etc - premiera period costume \\ÆpI´ri´d \"kÅstju…m\\ (n) = an outfit worn by an actor that belongs to a particular past time - strój z epoki",
@@ -4720,7 +4400,7 @@
     "wrong_count": 0
   },
   {
-    "word": "stage",
+    "word": "stage lighting",
     "pronunciation": "\"steIdZ ÆlaItIN",
     "part_of_speech": "n",
     "definition": "all the light effects for a theatre stage or a film set - oświetlenie sceniczne star-studded cast (phr) = a number of famous performers acting in a film or play - gwiazdorska obsada take your hat off to sb (idm) = to praise or show your admiration for sb - chylić czoła the show must go on (idm) = a job must continue despite the problems or difficulties - przedstawienie musi trwać",
@@ -4730,7 +4410,7 @@
     "wrong_count": 0
   },
   {
-    "word": "title",
+    "word": "title role",
     "pronunciation": "\"taItl Ær´Ul",
     "part_of_speech": "n",
     "definition": "the part in a play or a film from which its title is taken - tytułowa rola Culture 6",
@@ -4770,7 +4450,7 @@
     "wrong_count": 0
   },
   {
-    "word": "centre",
+    "word": "centre stage",
     "pronunciation": "\"sent´ steIdZ",
     "part_of_speech": "n",
     "definition": "a very important position - centralne miejsce",
@@ -4840,7 +4520,7 @@
     "wrong_count": 0
   },
   {
-    "word": "trace",
+    "word": "trace back",
     "pronunciation": "ÆtreIs \"bœk",
     "part_of_speech": "phr v",
     "definition": "to discover the origins of sth - tu: wywodzić (np. przodków) Values B: Empathy commiserations",
@@ -4890,7 +4570,7 @@
     "wrong_count": 0
   },
   {
-    "word": "line",
+    "word": "line manager",
     "pronunciation": "\"laIn ÆmœnIdZ´",
     "part_of_speech": "n",
     "definition": "sb directly in charge of a group of employees - bezpośredni przełożony",
@@ -4950,26 +4630,6 @@
     "wrong_count": 0
   },
   {
-    "word": "knock",
-    "pronunciation": "ÆnÅk \"daUn",
-    "part_of_speech": "sb",
-    "definition": "to cause sb to feel defeated - powalić",
-    "unit": "6c",
-    "page": 9,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "knock",
-    "pronunciation": "ÆnÅk \"aUt",
-    "part_of_speech": "sb",
-    "definition": "to destroy sb professionally, etc - powalić, zwalić z nóg off course (phr) = away from the planned path - (zboczyć) z kursu",
-    "unit": "6c",
-    "page": 9,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "projection",
     "pronunciation": "pr´\"dZekS´n",
     "part_of_speech": "n",
@@ -4983,7 +4643,7 @@
     "word": "thrive",
     "pronunciation": "TraIv",
     "part_of_speech": "v",
-    "definition": "to do well; to be successful in sth - rozwijać się, odnosić sukcesy Unit 7 – Health is wealth 7a",
+    "definition": "to do well; to be successful in sth - rozwijać się, odnosić sukcesy Unit 7 – Health is wealth",
     "unit": "6c",
     "page": 9,
     "correct_count": 0,
@@ -5050,7 +4710,7 @@
     "wrong_count": 0
   },
   {
-    "word": "blood",
+    "word": "blood pressure",
     "pronunciation": "\"blød ÆpreS´",
     "part_of_speech": "n",
     "definition": "the force with which blood flows around the body - ciśnienie krwi",
@@ -5060,7 +4720,7 @@
     "wrong_count": 0
   },
   {
-    "word": "blood",
+    "word": "blood test",
     "pronunciation": "\"blød test",
     "part_of_speech": "n",
     "definition": "a medical examination of a small amount of blood to see if sb has a health problem - badanie krwi body mass index (BMI)",
@@ -5070,7 +4730,7 @@
     "wrong_count": 0
   },
   {
-    "word": "break",
+    "word": "break down",
     "pronunciation": "ÆbreIk \"daUn",
     "part_of_speech": "phr v",
     "definition": "to collapse - załamywać się (tu: psychicznie)",
@@ -5080,7 +4740,7 @@
     "wrong_count": 0
   },
   {
-    "word": "break",
+    "word": "break out",
     "pronunciation": "ÆbreIk \"aUt",
     "part_of_speech": "phr v",
     "definition": "(of a fire, a war, a disease) to start suddenly - wybuchnąć (o pożarze, wojnie, epidemii) [sb breaks out in a rash (phr) = sb gets spots appearing on their skin] - dostać wysypki",
@@ -5100,7 +4760,7 @@
     "wrong_count": 0
   },
   {
-    "word": "come",
+    "word": "come up with",
     "pronunciation": "Ækøm \"øp wID",
     "part_of_speech": "phr v",
     "definition": "to think of an idea, answer, etc - wymyślić, znaleźć (np. rozwiązanie)",
@@ -5110,7 +4770,7 @@
     "wrong_count": 0
   },
   {
-    "word": "crash",
+    "word": "crash diet",
     "pronunciation": "\"krœS ÆdaI´t",
     "part_of_speech": "n",
     "definition": "a way of losing body weight quickly by eating very little - intensywna dieta odchudzająca",
@@ -5180,7 +4840,7 @@
     "wrong_count": 0
   },
   {
-    "word": "family",
+    "word": "family history",
     "pronunciation": "Æfœm´li \"hIst´ri",
     "part_of_speech": "n",
     "definition": "information about health problems or behaviour of the members of a family that may be inherited by other members - tu: historia chorób w rodzinie",
@@ -5200,7 +4860,7 @@
     "wrong_count": 0
   },
   {
-    "word": "fight",
+    "word": "fight off",
     "pronunciation": "ÆfaIt \"Åf",
     "part_of_speech": "phr v",
     "definition": "to struggle to avoid an illness - zwalczać (np. chorobę) fitness routine (phr) = an exercise plan that sb follows to keep in good shape - plan ćwiczeń fixed bedtime (phr) = the set time you go to bed - czas na pójście spać",
@@ -5230,7 +4890,7 @@
     "wrong_count": 0
   },
   {
-    "word": "folic",
+    "word": "folic acid",
     "pronunciation": "Æf´UlIk \"œsId",
     "part_of_speech": "n",
     "definition": "one of the B group of vitamins that can be found in green vegetables and fruit - kwas foliowy",
@@ -5274,16 +4934,6 @@
     "pronunciation": "\"InteIk",
     "part_of_speech": "n",
     "definition": "the amount of food, drink, etc that sb takes into their body - spożycie",
-    "unit": "7b",
-    "page": 10,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "lay",
-    "pronunciation": "ÆleI \"aUt",
-    "part_of_speech": "sth",
-    "definition": "to spread and arrange sth neatly on a surface - układać low-intensity exercise (phr) = workouts that don't require much strength or effort to do - ćwiczenia o niskiej intensywności",
     "unit": "7b",
     "page": 10,
     "correct_count": 0,
@@ -5360,7 +5010,7 @@
     "wrong_count": 0
   },
   {
-    "word": "pick",
+    "word": "pick out",
     "pronunciation": "ÆpIk \"aUt",
     "part_of_speech": "phr v",
     "definition": "to choose sth or sb from a group - wybierać",
@@ -5370,7 +5020,7 @@
     "wrong_count": 0
   },
   {
-    "word": "pick",
+    "word": "pick up",
     "pronunciation": "ÆpIk \"øp",
     "part_of_speech": "phr v",
     "definition": "to get an illness - tu: złapać chorobę",
@@ -5483,24 +5133,14 @@
     "word": "watery",
     "pronunciation": "\"wO…t´ri",
     "part_of_speech": "adj",
-    "definition": "(of a liquid) very thin and runny - wodnisty 7b",
+    "definition": "(of a liquid) very thin and runny - wodnisty",
     "unit": "7b",
     "page": 10,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "assist",
-    "pronunciation": "´\"sIst",
-    "part_of_speech": "sb",
-    "definition": "to help sb - pomagać",
-    "unit": "7b",
-    "page": 10,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "blood",
+    "word": "blood sample",
     "pronunciation": "\"blød ÆsA…mp´l",
     "part_of_speech": "n",
     "definition": "a small amount of blood that is examined in order to find out if sb has a health problem - próbka krwi",
@@ -5510,17 +5150,7 @@
     "wrong_count": 0
   },
   {
-    "word": "carbs",
-    "pronunciation": "kA…bz",
-    "part_of_speech": "carbohydrates",
-    "definition": "substances found in foods such as pasta, potatoes and bread, which provide a lot of energy - węglowodany",
-    "unit": "7b",
-    "page": 10,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "care",
+    "word": "care assistant",
     "pronunciation": "\"ke´r ´ÆsIst´nt",
     "part_of_speech": "n",
     "definition": "sb who looks after old or sick people - opiekun (osób starszych, chorych)",
@@ -5580,7 +5210,7 @@
     "wrong_count": 0
   },
   {
-    "word": "plaster",
+    "word": "plaster cast",
     "pronunciation": "\"plA…st´ kA…st",
     "part_of_speech": "n",
     "definition": "a hard white material for covering broken parts of the body until they are healed - gips (unieruchomienie kończyny)",
@@ -5613,7 +5243,7 @@
     "word": "wire",
     "pronunciation": "waI´",
     "part_of_speech": "n",
-    "definition": "a long thin piece of metal thread that carries electricity - przewód 7c",
+    "definition": "a long thin piece of metal thread that carries electricity - przewód",
     "unit": "7c",
     "page": 11,
     "correct_count": 0,
@@ -5670,7 +5300,7 @@
     "wrong_count": 0
   },
   {
-    "word": "eating",
+    "word": "eating disorder",
     "pronunciation": "Æi…tIN dIs\"O…d´",
     "part_of_speech": "n",
     "definition": "an illness caused by harmful eating habits - zaburzenia odżywiania",
@@ -5720,7 +5350,7 @@
     "wrong_count": 0
   },
   {
-    "word": "sleep",
+    "word": "sleep disorder",
     "pronunciation": "\"sli…p dIsÆO…d´",
     "part_of_speech": "n",
     "definition": "a problem that affects sleeping patterns, such as insomnia - zaburzenia snu",
@@ -5800,7 +5430,7 @@
     "wrong_count": 0
   },
   {
-    "word": "pass",
+    "word": "pass down",
     "pronunciation": "ÆpA…s \"daUn",
     "part_of_speech": "phr v",
     "definition": "to hand from one generation to another - przekazać (coś) dalej",
@@ -5810,7 +5440,7 @@
     "wrong_count": 0
   },
   {
-    "word": "side",
+    "word": "side effect",
     "pronunciation": "\"saId IÆfekt",
     "part_of_speech": "n",
     "definition": "an unwanted effect from taking a medicine - efekt uboczny",
@@ -5844,16 +5474,6 @@
     "pronunciation": "stIN",
     "part_of_speech": "n",
     "definition": "(of a plant) causing a wound because it's too sharp - ukłucie",
-    "unit": "7c",
-    "page": 11,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "suffer",
-    "pronunciation": "\"søf´",
-    "part_of_speech": "from sth",
-    "definition": "to have sth harmful or painful happening to you - cierpieć (np. z powodu choroby) Unit 8 – Drop by drop 8a",
     "unit": "7c",
     "page": 11,
     "correct_count": 0,
@@ -5910,16 +5530,6 @@
     "wrong_count": 0
   },
   {
-    "word": "carry",
-    "pronunciation": "Ækœri \"aUt",
-    "part_of_speech": "sth",
-    "definition": "to do sth in order to achieve a result - przeprowadzać, wykonywać (np. eksperyment, badanie) climate crisis (phr) = a critical situation caused by changes in the climate - kryzys klimatyczny come up with (sth) \\Ækøm \"øp wID\\ (phr v) = to think of an idea, answer, etc - wymyślić, znaleźć (np. rozwiązanie)",
-    "unit": "7c",
-    "page": 11,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "conflict",
     "pronunciation": "\"kÅnflIkt",
     "part_of_speech": "n",
@@ -5950,7 +5560,7 @@
     "wrong_count": 0
   },
   {
-    "word": "die",
+    "word": "die out",
     "pronunciation": "ÆdaI \"aUt",
     "part_of_speech": "phr v",
     "definition": "(of a species) to become less common and finally stop existing - wymierać (o gatunkach)",
@@ -6120,16 +5730,6 @@
     "wrong_count": 0
   },
   {
-    "word": "phase",
-    "pronunciation": "ÆfeIz \"aUt",
-    "part_of_speech": "sth",
-    "definition": "to gradually stop using sth - wycofywać (np. produkt)",
-    "unit": "8b",
-    "page": 12,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "power",
     "pronunciation": "\"paU´",
     "part_of_speech": "n",
@@ -6220,16 +5820,6 @@
     "wrong_count": 0
   },
   {
-    "word": "run",
-    "pronunciation": "Ærøn \"aUt ´v",
-    "part_of_speech": "sth",
-    "definition": "to use all the supply of sth and have none left - nie mieć już (czegoś), wyczerpać (np. zasoby)",
-    "unit": "8b",
-    "page": 12,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "rural",
     "pronunciation": "\"rU´r´l",
     "part_of_speech": "adj",
@@ -6250,7 +5840,7 @@
     "wrong_count": 0
   },
   {
-    "word": "speed",
+    "word": "speed up",
     "pronunciation": "Æspi…d \"øp",
     "part_of_speech": "phr v",
     "definition": "to cause sth to move faster - przyspieszać",
@@ -6260,7 +5850,7 @@
     "wrong_count": 0
   },
   {
-    "word": "spill",
+    "word": "spill over",
     "pronunciation": "ÆspIl \"´Uv´",
     "part_of_speech": "phr v",
     "definition": "(of sth bad) to reach a point at which it can no longer be controlled or contained - tu: przerodzić się (w coś gorszego - np. o nieporozumieniu)",
@@ -6290,16 +5880,6 @@
     "wrong_count": 0
   },
   {
-    "word": "use",
-    "pronunciation": "Æju…z \"øp",
-    "part_of_speech": "sth",
-    "definition": "to have none of sth left because you've used it all - zużyć (np. zasoby)",
-    "unit": "8b",
-    "page": 12,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "vicinity",
     "pronunciation": "v´\"sIn´ti",
     "part_of_speech": "n",
@@ -6310,7 +5890,7 @@
     "wrong_count": 0
   },
   {
-    "word": "vicious",
+    "word": "vicious circle",
     "pronunciation": "ÆvIS´s \"s‰…k´l",
     "part_of_speech": "n",
     "definition": "a cycle of unpleasant events which cause each other to continue - błędne koło virtuous circle \\Æv‰…tSU´s \"s‰…k´l\\ (n) = a continuous cycle of events producing good results - sytuacja, w której sukces rodzi sukces water scarcity (phr) = the situation of not having enough water - niedobór wody water shortage (phr) = the situation of not having enough water - niedobór wody",
@@ -6330,37 +5910,17 @@
     "wrong_count": 0
   },
   {
-    "word": "wipe",
-    "pronunciation": "ÆwaIp \"aUt",
-    "part_of_speech": "sb/sth",
-    "definition": "to cause the complete destruction or disappearance of sb or sth - zmiatać z powierzchni ziemi",
-    "unit": "8b",
-    "page": 12,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "zone",
     "pronunciation": "z´Un",
     "part_of_speech": "n",
-    "definition": "an area or section with a specific purpose - strefa, obszar 8b",
+    "definition": "an area or section with a specific purpose - strefa, obszar",
     "unit": "8b",
     "page": 12,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "draw",
-    "pronunciation": "ÆdrO… \"øp",
-    "part_of_speech": "sth",
-    "definition": "to prepare and write a plan, proposal, etc - sporządzać (np. umowę)",
-    "unit": "8b",
-    "page": 12,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "food",
+    "word": "food bank",
     "pronunciation": "\"fu…d bœNk",
     "part_of_speech": "n",
     "definition": "an organisation that donates food to people in need - bank żywności halt the trend (phr) = to stop a change or development of sth different - zatrzymanie trendu",
@@ -6383,14 +5943,14 @@
     "word": "intervention",
     "pronunciation": "ÆInt´\"venS´n",
     "part_of_speech": "n",
-    "definition": "the act of interfering so as to prevent sth bad from happening - interwencja mammoth sum (phr) = a huge amount of money - gigantyczna kwota migration crisis (phr) = a serious problem caused by huge numbers of people leaving their countries - kryzys migracyjny renewable energy (phr) = a form of energy that is naturally replaced, and will not run out - energia odnawialna swift action (phr) = a very fast response to sth - szybkie działanie urban farm (phr) = an area in a city where food is grown and produced - miejska farma 8c blood is thicker than water",
+    "definition": "the act of interfering so as to prevent sth bad from happening - interwencja mammoth sum (phr) = a huge amount of money - gigantyczna kwota migration crisis (phr) = a serious problem caused by huge numbers of people leaving their countries - kryzys migracyjny renewable energy (phr) = a form of energy that is naturally replaced, and will not run out - energia odnawialna swift action (phr) = a very fast response to sth - szybkie działanie urban farm (phr) = an area in a city where food is grown and produced - miejska farma",
     "unit": "8b",
     "page": 12,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "crime",
+    "word": "crime wave",
     "pronunciation": "\"kraIm weIv",
     "part_of_speech": "n",
     "definition": "a sudden rise in the rate of illegal actions - fala przestępczości",
@@ -6410,7 +5970,7 @@
     "wrong_count": 0
   },
   {
-    "word": "poverty",
+    "word": "poverty line",
     "pronunciation": "\"pÅv´ti ÆlaIn",
     "part_of_speech": "n",
     "definition": "the income level below which sb is officially considered very poor - granica ubóstwa preventable disease (phr) = an illness that could be stopped from appearing - choroba, której można zapobiec",
@@ -6440,7 +6000,7 @@
     "wrong_count": 0
   },
   {
-    "word": "urban",
+    "word": "urban renewal",
     "pronunciation": "Æ‰…b´n rI\"nju…´l",
     "part_of_speech": "n",
     "definition": "renovation of poor or run-down city areas - rewitalizacja miasta water under the bridge (idm) = forgotten - dawne dzieje welfare benefits \\Æwelfe´ \"benIfIts\\ (pl n) = government financial allowance - zasiłki z opieki społecznej Culture 8",
@@ -6500,7 +6060,7 @@
     "wrong_count": 0
   },
   {
-    "word": "gap",
+    "word": "gap year",
     "pronunciation": "\"gœp jI´",
     "part_of_speech": "n",
     "definition": "a year taken off studies between leaving school and starting university, in order to gain life experience - rok przerwy (np. przed pójściem na studia)",
@@ -6550,17 +6110,7 @@
     "wrong_count": 0
   },
   {
-    "word": "rid",
-    "pronunciation": "rId",
-    "part_of_speech": "sth of sth",
-    "definition": "to make sth free of sth unwanted - uwolnić (coś od czegoś)",
-    "unit": "9a",
-    "page": 13,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "square",
+    "word": "square mile",
     "pronunciation": "Æskwe´ \"maIl",
     "part_of_speech": "n",
     "definition": "2,590 square kilometres - mila kwadratowa (miara powierzchni)",
@@ -6593,7 +6143,7 @@
     "word": "wellbeing",
     "pronunciation": "Æwel\"bi…IN",
     "part_of_speech": "n",
-    "definition": "good health and happiness - dobrostan, dobre samopoczucie Unit 9 – Conflicting opinions 9a",
+    "definition": "good health and happiness - dobrostan, dobre samopoczucie Unit 9 – Conflicting opinions",
     "unit": "9a",
     "page": 13,
     "correct_count": 0,
@@ -6630,7 +6180,7 @@
     "wrong_count": 0
   },
   {
-    "word": "be",
+    "word": "be wired",
     "pronunciation": "bi \"waI´d",
     "part_of_speech": "v",
     "definition": "to be constructed in such a way as to perform certain functions - być skonstruowanym w jakimś celu",
@@ -6650,7 +6200,7 @@
     "wrong_count": 0
   },
   {
-    "word": "build",
+    "word": "build up",
     "pronunciation": "ÆbIld \"øp",
     "part_of_speech": "phr v",
     "definition": "to gradually increase sth - poprawiać, polepszać",
@@ -6670,7 +6220,7 @@
     "wrong_count": 0
   },
   {
-    "word": "cheer",
+    "word": "cheer up",
     "pronunciation": "ÆtSI´r \"øp",
     "part_of_speech": "phr v",
     "definition": "to feel happy - rozweselić się",
@@ -6680,7 +6230,7 @@
     "wrong_count": 0
   },
   {
-    "word": "choke",
+    "word": "choke up",
     "pronunciation": "ÆtS´Uk \"øp",
     "part_of_speech": "phr v",
     "definition": "to not be able to say anything because of a strong emotion - stracić mowę (z powodu silnych emocji)",
@@ -6760,16 +6310,6 @@
     "wrong_count": 0
   },
   {
-    "word": "engage",
-    "pronunciation": "In\"geIdZ",
-    "part_of_speech": "with sth",
-    "definition": "to become involved with sth in order to get to know it better - zajmować się, angażować się",
-    "unit": "9a",
-    "page": 13,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "ensure",
     "pronunciation": "In\"SU´",
     "part_of_speech": "v",
@@ -6840,7 +6380,7 @@
     "wrong_count": 0
   },
   {
-    "word": "life",
+    "word": "life partner",
     "pronunciation": "\"laIf ÆpA…tn´",
     "part_of_speech": "n",
     "definition": "the person you choose to spend your life with - partner życiowy",
@@ -6850,7 +6390,7 @@
     "wrong_count": 0
   },
   {
-    "word": "lighten",
+    "word": "lighten up",
     "pronunciation": "ÆlaIt´n \"øp",
     "part_of_speech": "phr v",
     "definition": "to take things easy - wyluzować",
@@ -6880,7 +6420,7 @@
     "wrong_count": 0
   },
   {
-    "word": "lingua",
+    "word": "lingua franca",
     "pronunciation": "ÆlINgw´ \"frœNk´",
     "part_of_speech": "n",
     "definition": "a common language used between speakers with different native languages - lingua franca, język wspólny local customs \\Æl´Uk´l \"køst´mz\\ (pl n) = the traditions and common practices in a particular place - lokalne zwyczaje long-distance relationship (phr) = a romantic bond between two people who live very far from each other - związek na odległość",
@@ -6910,30 +6450,10 @@
     "wrong_count": 0
   },
   {
-    "word": "pack",
-    "pronunciation": "Æpœk \"In",
-    "part_of_speech": "sth",
-    "definition": "to no longer do a job, hobby, etc - rzucić (np. pracę)",
-    "unit": "9b",
-    "page": 14,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "pain",
     "pronunciation": "peIn",
     "part_of_speech": "n",
     "definition": "an unpleasant feeling which hurts - ból",
-    "unit": "9b",
-    "page": 14,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "pay",
-    "pronunciation": "ÆpeI \"bœk",
-    "part_of_speech": "sth",
-    "definition": "to return the money that you've borrowed - oddawać pieniądze personal income (phr) = sb's amount of money gained from their work, investments, etc over a period of time - dochód osobisty",
     "unit": "9b",
     "page": 14,
     "correct_count": 0,
@@ -6970,7 +6490,7 @@
     "wrong_count": 0
   },
   {
-    "word": "set",
+    "word": "set aside",
     "pronunciation": "Æset ´\"saId",
     "part_of_speech": "phr v",
     "definition": "to save sth in order to be used later - odkładać social network (phr) = a group of personal or business contacts through websites with people who have similar interests and experiences - serwis społecznościowy",
@@ -7020,16 +6540,6 @@
     "wrong_count": 0
   },
   {
-    "word": "take",
-    "pronunciation": "ÆteIk \"In",
-    "part_of_speech": "sth",
-    "definition": "to get to see and learn about sth interesting - tu: zwiedzać (np. zabytki) throw (myself) into (sth)",
-    "unit": "9b",
-    "page": 14,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "trouble",
     "pronunciation": "\"trøb´l",
     "part_of_speech": "n",
@@ -7073,7 +6583,7 @@
     "word": "worry",
     "pronunciation": "\"wøri",
     "part_of_speech": "n",
-    "definition": "anxiety - martwić się 9b",
+    "definition": "anxiety - martwić się",
     "unit": "9b",
     "page": 14,
     "correct_count": 0,
@@ -7083,7 +6593,7 @@
     "word": "conflict",
     "pronunciation": "\"kÅnflIkt",
     "part_of_speech": "n",
-    "definition": "a serious disagreement between two or more people - konflikt, spór, nieporozumienie hand gesture (phr) = a signal that is made with the hand - gest ręką 9c a bone of contention (idm) = the subject of a long- standing dispute - kość niezgody, przedmiot sporu add fuel to the fire (idm) = to make an already tense situation worse - dolać oliwy do ognia breakdown (in communication)",
+    "definition": "a serious disagreement between two or more people - konflikt, spór, nieporozumienie hand gesture (phr) = a signal that is made with the hand - gest ręką",
     "unit": "9b",
     "page": 14,
     "correct_count": 0,
@@ -7144,16 +6654,6 @@
     "pronunciation": "\"ISu…",
     "part_of_speech": "n",
     "definition": "an important matter that requires further discussion - tu: problem keep my temper (phr) = to remain calm although you feel very upset - zachowywać spokój",
-    "unit": "9b",
-    "page": 14,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "monopoly",
-    "pronunciation": "m´\"nÅp´li",
-    "part_of_speech": "on sth",
-    "definition": "(of a company) possessing sth to a degree that shuts out all others - monopol",
     "unit": "9b",
     "page": 14,
     "correct_count": 0,
@@ -7230,16 +6730,6 @@
     "wrong_count": 0
   },
   {
-    "word": "eligible",
-    "pronunciation": "\"elIdZ´b´l",
-    "part_of_speech": "for sth",
-    "definition": "meeting the requirements (for a benefit, privilege, etc) - spełniający warunki",
-    "unit": "10a",
-    "page": 15,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "establish",
     "pronunciation": "I\"stœblIS",
     "part_of_speech": "v",
@@ -7310,7 +6800,7 @@
     "wrong_count": 0
   },
   {
-    "word": "anchor",
+    "word": "anchor rope",
     "pronunciation": "\"œNk´ r´Up",
     "part_of_speech": "n",
     "definition": "the rope attached to the heavy metal object thrown over the side of a ship to keep it from moving - lina kotwiczna",
@@ -7324,16 +6814,6 @@
     "pronunciation": "dI\"vaIn",
     "part_of_speech": "adj",
     "definition": "godlike; holy - boski",
-    "unit": "10a",
-    "page": 15,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "dwell",
-    "pronunciation": "\"dwel Ån",
-    "part_of_speech": "sth",
-    "definition": "to think about sth continuously - rozpamiętywać (coś)",
     "unit": "10a",
     "page": 15,
     "correct_count": 0,
@@ -7480,7 +6960,7 @@
     "wrong_count": 0
   },
   {
-    "word": "staple",
+    "word": "staple diet",
     "pronunciation": "ÆsteIp´l \"daI´t",
     "part_of_speech": "n",
     "definition": "the foods that sb eats most often as part of their normal diet - podstawowy składnik diety",
@@ -7503,7 +6983,7 @@
     "word": "teff",
     "pronunciation": "tef",
     "part_of_speech": "n",
-    "definition": "a type of grass whose seeds are eaten - miłka abisyńska (gatunek trawy) Unit 10 – It's my right! 10a",
+    "definition": "a type of grass whose seeds are eaten - miłka abisyńska (gatunek trawy) Unit 10 – It's my right!",
     "unit": "10a",
     "page": 15,
     "correct_count": 0,
@@ -7530,7 +7010,7 @@
     "wrong_count": 0
   },
   {
-    "word": "bring",
+    "word": "bring up",
     "pronunciation": "ÆbrIN \"øp",
     "part_of_speech": "phr v",
     "definition": "to mention a topic for discussion - podnosić, poruszać (o temacie, problemie)",
@@ -7560,7 +7040,7 @@
     "wrong_count": 0
   },
   {
-    "word": "carry",
+    "word": "carry out",
     "pronunciation": "Ækœri \"aUt",
     "part_of_speech": "phr v",
     "definition": "to conduct (an experiment, a survey, etc) - przeprowadzać, wykonywać (np. eksperyment, badanie)",
@@ -7580,7 +7060,7 @@
     "wrong_count": 0
   },
   {
-    "word": "chip",
+    "word": "chip in",
     "pronunciation": "ÆtSIp \"In",
     "part_of_speech": "phr v",
     "definition": "to contribute money towards sth - dorzucać się (np. do zbiórki)",
@@ -7640,7 +7120,7 @@
     "wrong_count": 0
   },
   {
-    "word": "cut",
+    "word": "cut out",
     "pronunciation": "Ækøt \"aUt",
     "part_of_speech": "phr v",
     "definition": "to prevent sth from continuing - eliminować (tu: pokarm z diety)",
@@ -7660,7 +7140,7 @@
     "wrong_count": 0
   },
   {
-    "word": "drop",
+    "word": "drop off",
     "pronunciation": "ÆdrÅp \"Åf",
     "part_of_speech": "phr v",
     "definition": "to take sb/sth to a place in your vehicle on your way somewhere else - podrzucać (np. samochodem)",
@@ -7730,7 +7210,7 @@
     "wrong_count": 0
   },
   {
-    "word": "figure",
+    "word": "figure out",
     "pronunciation": "ÆfIg´r \"aUt",
     "part_of_speech": "phr v",
     "definition": "to work sth out; to calculate sth - rozwiązywać (np. problem)",
@@ -7760,7 +7240,7 @@
     "wrong_count": 0
   },
   {
-    "word": "health",
+    "word": "health hazard",
     "pronunciation": "\"helT Æhœz´d",
     "part_of_speech": "n",
     "definition": "a threat to the good condition of the body - zagrożenie dla zdrowia",
@@ -7770,7 +7250,7 @@
     "wrong_count": 0
   },
   {
-    "word": "hold",
+    "word": "hold up",
     "pronunciation": "Æh´Uld \"øp",
     "part_of_speech": "phr v",
     "definition": "to present sb/sth as a prime example - tu: wyróżniać immediate access (phr) = the possibility of using sth without delay or problems - natychmiastowy dostęp",
@@ -7780,7 +7260,7 @@
     "wrong_count": 0
   },
   {
-    "word": "impulse",
+    "word": "impulse buy",
     "pronunciation": "\"Impøls ÆbaI",
     "part_of_speech": "n",
     "definition": "the act of buying sth on the spur of the moment - zakup impulsywny",
@@ -7870,7 +7350,7 @@
     "wrong_count": 0
   },
   {
-    "word": "put",
+    "word": "put together",
     "pronunciation": "ÆpUt t´\"geD´",
     "part_of_speech": "phr v",
     "definition": "to assemble sth - poskładać (np. silnik) repeat customer \\rI\"pi…t Ækøst´m´\\ (n) = a consumer who is satisfied and buys the same product again - stały klient rest assured (phr) = to have been told that everything is OK, so you don’t need to worry - mieć pewność, być pewnym",
@@ -7890,7 +7370,7 @@
     "wrong_count": 0
   },
   {
-    "word": "shop",
+    "word": "shop around",
     "pronunciation": "ÆSÅp ´\"raUnd",
     "part_of_speech": "phr v",
     "definition": "to do market research before buying a product - rozglądać się (szukać produktu i porównywać ceny)",
@@ -7910,7 +7390,7 @@
     "wrong_count": 0
   },
   {
-    "word": "sort",
+    "word": "sort out",
     "pronunciation": "ÆsO…t \"aUt",
     "part_of_speech": "phr v",
     "definition": "to organise - tu: ustalać",
@@ -7920,7 +7400,7 @@
     "wrong_count": 0
   },
   {
-    "word": "spot",
+    "word": "spot check",
     "pronunciation": "ÆspÅt \"tSek",
     "part_of_speech": "n",
     "definition": "the practice of examining a few items of a group, to check if everything is OK - wyrywkowa kontrola",
@@ -7930,7 +7410,7 @@
     "wrong_count": 0
   },
   {
-    "word": "stand",
+    "word": "stand up to",
     "pronunciation": "Æstœnd \"øp t´",
     "part_of_speech": "phr v",
     "definition": "to defend yourself against sb/sth courageously - przeciwstawiać się substandard goods (phr) = products of unacceptable quality - produkty niespełniające norm",
@@ -7950,7 +7430,7 @@
     "wrong_count": 0
   },
   {
-    "word": "think",
+    "word": "think through",
     "pronunciation": "ÆTINk \"Tru…",
     "part_of_speech": "phr v",
     "definition": "to take the results of sth into consideration before acting - przemyśleć",
@@ -7993,7 +7473,7 @@
     "word": "vital",
     "pronunciation": "\"vaIt´l",
     "part_of_speech": "adj",
-    "definition": "utterly important - tu: niezbędny 10b",
+    "definition": "utterly important - tu: niezbędny",
     "unit": "10b",
     "page": 16,
     "correct_count": 0,
@@ -8020,7 +7500,7 @@
     "wrong_count": 0
   },
   {
-    "word": "drop",
+    "word": "drop off",
     "pronunciation": "ÆdrÅp \"Åf",
     "part_of_speech": "phr v",
     "definition": "to take sb/sth to a place in your vehicle on your way to somewhere else - podrzucać (np. samochodem)",
@@ -8036,7 +7516,7 @@
     "definition": "to gradually develop and become better - ewoluować, rozwijać się",
     "unit": "10b",
     "page": 16,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -8073,7 +7553,7 @@
     "word": "podcast",
     "pronunciation": "\"pÅdkA…st",
     "part_of_speech": "n",
-    "definition": "a radio programme downloaded from the Internet - podcast streaming service \\\"stri…mIN Æs‰…vIs\\ (n) = the possibility to listen to, or watch, a programme on the Internet without downloading it - usługa przesyłania strumieniowego, usługa streamingowa 10c be not in your right mind (idm) = to not think sensibly; to be stupid - nie myśleć trzeźwo, być głupim be (as) right as rain (idm) = to be completely healthy - zdrowy jak ryba be in the right place at the right time (idm) = to find yourself in a situation which you can take advantage of - być we właściwym miejscu i czasie be on the right track (idm) = to work correctly and, most probably, be successful - być na dobrej drodze (np. do sukcesu)",
+    "definition": "a radio programme downloaded from the Internet - podcast streaming service \\\"stri…mIN Æs‰…vIs\\ (n) = the possibility to listen to, or watch, a programme on the Internet without downloading it - usługa przesyłania strumieniowego, usługa streamingowa",
     "unit": "10b",
     "page": 16,
     "correct_count": 0,
@@ -8090,7 +7570,7 @@
     "wrong_count": 0
   },
   {
-    "word": "pay",
+    "word": "pay parity",
     "pronunciation": "\"peI Æpœr´ti",
     "part_of_speech": "n",
     "definition": "equal pay for equal work - równe wynagrodzenie za taką samą pracę",
@@ -8114,16 +7594,6 @@
     "pronunciation": "SrINk",
     "part_of_speech": "v",
     "definition": "to decrease - kurczyć się treat sb with dignity (phr) = to behave towards sb with respect - traktować z szacunkiem",
-    "unit": "10b",
-    "page": 16,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "vote",
-    "pronunciation": "v´Ut",
-    "part_of_speech": "for sb",
-    "definition": "to show your preference for sb in an election - głosować (na kogoś) Culture 10",
     "unit": "10b",
     "page": 16,
     "correct_count": 0,
@@ -8253,7 +7723,7 @@
     "word": "subscription",
     "pronunciation": "s´b\"skrIpS´n",
     "part_of_speech": "n",
-    "definition": "money regularly paid to receive products or services - prenumerata, abonament, subskrypcja Unit 11 – Hitting the target 11a",
+    "definition": "money regularly paid to receive products or services - prenumerata, abonament, subskrypcja Unit 11 – Hitting the target",
     "unit": "11a",
     "page": 17,
     "correct_count": 0,
@@ -8280,16 +7750,6 @@
     "wrong_count": 0
   },
   {
-    "word": "beat",
-    "pronunciation": "bi…t",
-    "part_of_speech": "sb",
-    "definition": "to overcome an opponent - pokonać (przeciwnika) chronic fatigue (phr) = a long- lasting condition in which sb feels very weak and tired - chroniczne, przewlekłe zmęczenie",
-    "unit": "11a",
-    "page": 17,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "competitive",
     "pronunciation": "k´m\"pet´tIv",
     "part_of_speech": "adj",
@@ -8304,16 +7764,6 @@
     "pronunciation": "k´m\"paUnd",
     "part_of_speech": "n",
     "definition": "a chemical consisting of two or more elements - związek chemiczny",
-    "unit": "11a",
-    "page": 17,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "confront",
-    "pronunciation": "k´n\"frønt",
-    "part_of_speech": "sb/sth",
-    "definition": "to come up against sb/ sth unpleasant - konfrontować",
     "unit": "11a",
     "page": 17,
     "correct_count": 0,
@@ -8350,7 +7800,7 @@
     "wrong_count": 0
   },
   {
-    "word": "cool",
+    "word": "cool down",
     "pronunciation": "Æku…l \"daUn",
     "part_of_speech": "phr v",
     "definition": "to become less hot - chłodzić się, studzić się",
@@ -8364,26 +7814,6 @@
     "pronunciation": "kO…t",
     "part_of_speech": "n",
     "definition": "the area for playing basketball, tennis, volleyball, etc - kort (np. tenisowy), boisko (np. do koszykówki, siatkówki)",
-    "unit": "11a",
-    "page": 17,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "cover",
-    "pronunciation": "Ækøv´r \"øp",
-    "part_of_speech": "sth",
-    "definition": "to prevent the public from discovering sth bad - tuszować, ukrywać (fakty)",
-    "unit": "11a",
-    "page": 17,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "deal",
-    "pronunciation": "\"di…l wID",
-    "part_of_speech": "sb/sth",
-    "definition": "to cope with sb/sth; to handle sb/sth - radzić sobie (z czymś)",
     "unit": "11a",
     "page": 17,
     "correct_count": 0,
@@ -8410,26 +7840,6 @@
     "wrong_count": 0
   },
   {
-    "word": "display",
-    "pronunciation": "dI\"spleI",
-    "part_of_speech": "sth",
-    "definition": "to show sth - tu: okazywać (uczucie)",
-    "unit": "11a",
-    "page": 17,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "drop",
-    "pronunciation": "ÆdrÅp \"aUt",
-    "part_of_speech": "of sth",
-    "definition": "to leave an activity before finishing it - tu: wycofać się (np. z wyścigu)",
-    "unit": "11a",
-    "page": 17,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "earn",
     "pronunciation": "‰…n",
     "part_of_speech": "v",
@@ -8440,17 +7850,7 @@
     "wrong_count": 0
   },
   {
-    "word": "encounter",
-    "pronunciation": "In\"kaUnt´",
-    "part_of_speech": "sth",
-    "definition": "to experience sth bad or difficult - napotykać (np. problem) establish (yourself as)",
-    "unit": "11a",
-    "page": 17,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "fair",
+    "word": "fair play",
     "pronunciation": "Æfe´ \"pleI",
     "part_of_speech": "n",
     "definition": "the practice of closely following the rules of a game - fair play, czysta gra",
@@ -8476,7 +7876,7 @@
     "definition": "to acquire sth that you wanted - zyskiwać in the face of a setback (phr) = having to overcome a hindrance - w obliczu przeszkody",
     "unit": "11a",
     "page": 17,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -8500,40 +7900,10 @@
     "wrong_count": 0
   },
   {
-    "word": "join",
-    "pronunciation": "\"dZOIn In",
-    "part_of_speech": "sth",
-    "definition": "to take part in sth - dołączać",
-    "unit": "11a",
-    "page": 17,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "knock",
-    "pronunciation": "ÆnÅk \"aUt",
-    "part_of_speech": "of sth",
-    "definition": "to eliminate sb from a competition, etc - tu: wyeliminować level playing field (idm) = a situation in which everybody has a fair and equal chance of succeeding - równe szanse muscle development (phr) = the process of making the body muscles bigger - rozwój mięśni overcome an obstacle (phr) = to deal successfully with a difficulty - pokonać przeszkodę",
-    "unit": "11a",
-    "page": 17,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "own",
     "pronunciation": "´Un",
     "part_of_speech": "adj",
     "definition": "belonging to a particular person and not any other - własny",
-    "unit": "11a",
-    "page": 17,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "own",
-    "pronunciation": "Æ´Un \"øp t´",
-    "part_of_speech": "sth",
-    "definition": "to admit or confess to doing sth - przyznać się (do zrobienia czegoś) performance-enhancing medication (phr) = medical substances that are used illegally by athletes to improve physical activity - zwiększający wydajność, dopingujący (o substancjach) personal quality (phr) = a characteristic of sb's personality - cecha charakteru",
     "unit": "11a",
     "page": 17,
     "correct_count": 0,
@@ -8546,7 +7916,7 @@
     "definition": "the area for playing football, cricket, rugby, etc - boisko positive attitude (phr) = the fact that you are always confident and hopeful about things - pozytywne nastawienie",
     "unit": "11a",
     "page": 17,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -8626,7 +7996,7 @@
     "definition": "official rules - przepisy (np. klubu)",
     "unit": "11a",
     "page": 17,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -8650,17 +8020,7 @@
     "wrong_count": 0
   },
   {
-    "word": "run",
-    "pronunciation": "Ærøn \"aUt",
-    "part_of_speech": "of sth",
-    "definition": "to have no more of sth left - nie mieć już (czegoś), wyczerpać (np. zasoby)",
-    "unit": "11a",
-    "page": 17,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "slow",
+    "word": "slow down",
     "pronunciation": "Æsl´U \"daUn",
     "part_of_speech": "phr v",
     "definition": "to move more slowly; to reduce speed - zwalniać (zmniejszać prędkość)",
@@ -8670,7 +8030,7 @@
     "wrong_count": 0
   },
   {
-    "word": "speed",
+    "word": "speed up",
     "pronunciation": "Æspi…d \"øp",
     "part_of_speech": "phr v",
     "definition": "to move at a faster rate; to accelerate - przyspieszać to some extent (phr) = to a limited degree; partly - do pewnego stopnia",
@@ -8690,16 +8050,6 @@
     "wrong_count": 0
   },
   {
-    "word": "try",
-    "pronunciation": "ÆtraI \"aUt",
-    "part_of_speech": "for sth",
-    "definition": "to compete for a position in a sports team - próbować się dostać (np. do drużyny) two-stroke penalty (phr) = type of punishment in golf when a player breaks a rule - kara dwóch uderzeń (w golfie) under pressure (phr) = being made to feel worried and anxious - pod presją",
-    "unit": "11b",
-    "page": 18,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "win",
     "pronunciation": "wIn",
     "part_of_speech": "v",
@@ -8710,20 +8060,10 @@
     "wrong_count": 0
   },
   {
-    "word": "work",
-    "pronunciation": "Æw‰…k \"Åf",
-    "part_of_speech": "sth",
-    "definition": "to try to burn the calories of a meal with exercise - tu: spalać (np. kalorie), pozbywać się (np. wagi)",
-    "unit": "11b",
-    "page": 18,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "work",
+    "word": "work out",
     "pronunciation": "Æw‰…k \"aUt",
     "part_of_speech": "phr v",
-    "definition": "to exercise - ćwiczyć (fizycznie) 11b",
+    "definition": "to exercise - ćwiczyć (fizycznie)",
     "unit": "11b",
     "page": 18,
     "correct_count": 0,
@@ -8760,17 +8100,17 @@
     "wrong_count": 0
   },
   {
-    "word": "snow",
+    "word": "snow shovel",
     "pronunciation": "\"sn´U ÆSøv´l",
     "part_of_speech": "n",
-    "definition": "a tool for removing snow that looks like a spade - łopata śnieżna 11c aerobic exercise (phr) = a type of physical activity that strengthens the heart and lungs - ćwiczenia aerobowe (poprawiające wydolność serca i oddechową) anxiety disorder (phr) = an illness relating to mental health due to worry - zaburzenia lękowe be a bag of bones (idm) = to be extremely thin - skóra i kości (być bardzo chudym) be out of shape (idm) = to be unfit - nie być w formie",
+    "definition": "a tool for removing snow that looks like a spade - łopata śnieżna",
     "unit": "11b",
     "page": 18,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "blood",
+    "word": "blood pressure",
     "pronunciation": "\"blød ÆpreS´",
     "part_of_speech": "n",
     "definition": "the force with which blood flows through the body - ciśnienie krwi",
@@ -8780,7 +8120,7 @@
     "wrong_count": 0
   },
   {
-    "word": "bone",
+    "word": "bone density",
     "pronunciation": "\"b´Un Ædens´ti",
     "part_of_speech": "n",
     "definition": "a measurement of how thick our bones are - gęstość kości cardiovascular function (phr) = the performance of the heart and blood vessels - funkcjonowanie układu krążenia do the splits (phr) = to spread the legs so that they will be parallel with the ground - robić szpagat",
@@ -8800,7 +8140,7 @@
     "wrong_count": 0
   },
   {
-    "word": "fitness",
+    "word": "fitness tracker",
     "pronunciation": "\"fItn´s Ætrœk´",
     "part_of_speech": "n",
     "definition": "a wearable device or computer application that monitors sb's health and fitness levels - monitor aktywności fizycznej",
@@ -8820,7 +8160,7 @@
     "wrong_count": 0
   },
   {
-    "word": "heart",
+    "word": "heart disease",
     "pronunciation": "\"hA…t dIÆzi…z",
     "part_of_speech": "n",
     "definition": "an illness related to the heart - choroba serca immune system \\I\"mju…n ÆsIst´m\\ (n) = all the organs and processes in our body which protect us from illnesses and infections - układ odpornościowy improve muscle tone (phr) = to enhance the normal elasticity of the muscles - poprawić napięcie mięśni",
@@ -8834,16 +8174,6 @@
     "pronunciation": "\"InstItju…t",
     "part_of_speech": "v",
     "definition": "to put into operation - wprowadzać (np. nowe prawo)",
-    "unit": "11b",
-    "page": 18,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "limit",
-    "pronunciation": "\"lImIt",
-    "part_of_speech": "sth",
-    "definition": "to restrict sth - limitować, ograniczać look a bit off colour (idm) = to appear slightly ill - nie wyglądać dobrze, wyglądać na chorego mental health issue (phr) = a problem relating to the health or state of sb’s mind - problem psychiczny poor circulation (phr) = the movement of blood round the body from and to the heart, which is not quite good - słabe krążenie sedentary lifestyle (phr) = a way of life which does not involve much physical activity - siedzący tryb życia set a goal (phr) = to determine what you or sb else must try to achieve - wyznaczyć cel set the bar (phr) = to establish a standard - stawiać poprzeczkę sliding scale (phr) = a system that regulates how much you pay in relation to several factors - ruchoma skala stiff joint (phr) = a part of the body where two bones meet, which can't move easily or without pain - sztywne stawy workout video (phr) = a recorded film of an exercise routine - film z ćwiczeniami Culture 11",
     "unit": "11b",
     "page": 18,
     "correct_count": 0,
@@ -8874,16 +8204,6 @@
     "pronunciation": "daIv",
     "part_of_speech": "n",
     "definition": "a sharp decrease - nagły spadek (np. zysków)",
-    "unit": "11b",
-    "page": 18,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "draw",
-    "pronunciation": "drO…",
-    "part_of_speech": "sb",
-    "definition": "to attract sb - tu: przyciągać (zainteresowanie)",
     "unit": "11b",
     "page": 18,
     "correct_count": 0,
@@ -9020,33 +8340,13 @@
     "wrong_count": 0
   },
   {
-    "word": "bring",
-    "pronunciation": "ÆbrIN \"In",
-    "part_of_speech": "sth",
-    "definition": "to introduce a new law or order - wprowadzać (nowe prawo)",
-    "unit": "12a",
-    "page": 19,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "bring",
-    "pronunciation": "ÆbrIN \"øp",
-    "part_of_speech": "sth",
-    "definition": "to mention sth in a conversation - podnosić, poruszać (o temacie, problemie)",
-    "unit": "12a",
-    "page": 19,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "business",
     "pronunciation": "\"bIzn´s",
     "part_of_speech": "n",
     "definition": "a commercial organisation; a company - firma, przedsiębiorstwo",
     "unit": "12a",
     "page": 19,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9070,7 +8370,7 @@
     "wrong_count": 0
   },
   {
-    "word": "civil",
+    "word": "civil rights",
     "pronunciation": "ÆsIv´l \"raIts",
     "part_of_speech": "pl n",
     "definition": "the rights to equal treatment and equal opportunities that all people in a society must have - prawa obywatelskie",
@@ -9116,7 +8416,7 @@
     "definition": "relating to the artistic production of a society - kulturowy (np. dziedzictwo) distant ancestor (phr) = a member of your family who lived a long time before you - daleki przodek",
     "unit": "12a",
     "page": 19,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9146,7 +8446,7 @@
     "definition": "a company; a business - przedsiębiorstwo, firma",
     "unit": "12a",
     "page": 19,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9174,16 +8474,6 @@
     "pronunciation": "\"fO…tS´nz",
     "part_of_speech": "pl n",
     "definition": "what the future holds in store for sb  - los, dola geographical territory (phr) = a large area belonging to a country or a group of people - obszar geograficzny get away with (sth) \\Æget ´\"weI wID\\ (phr v) = to avoid punishment for doing sth wrong - tu: uniknąć kary",
-    "unit": "12a",
-    "page": 19,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "give",
-    "pronunciation": "ÆgIv \"øp",
-    "part_of_speech": "sth",
-    "definition": "to stop doing sth - poddawać się, rezygnować",
     "unit": "12a",
     "page": 19,
     "correct_count": 0,
@@ -9230,7 +8520,7 @@
     "wrong_count": 0
   },
   {
-    "word": "interest",
+    "word": "interest rate",
     "pronunciation": "\"intr´st ÆreIt",
     "part_of_speech": "n",
     "definition": "a percentage that shows how much extra money you need to pay when you borrow money from a bank - stopa procentowa international trade (phr) = the exchange of goods, services, etc among countries - handel międzynarodowy",
@@ -9240,13 +8530,13 @@
     "wrong_count": 0
   },
   {
-    "word": "labour",
+    "word": "labour force",
     "pronunciation": "\"leIb´ fO…s",
     "part_of_speech": "n",
     "definition": "the workforce; all the people who work - siła robocza",
     "unit": "12a",
     "page": 19,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9270,13 +8560,13 @@
     "wrong_count": 0
   },
   {
-    "word": "middle",
+    "word": "middle class",
     "pronunciation": "ÆmIdl \"klA…s",
     "part_of_speech": "n",
     "definition": "the group of people in a society that don't belong to the working class or the upper class - klasa średnia",
     "unit": "12a",
     "page": 19,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9350,16 +8640,6 @@
     "wrong_count": 0
   },
   {
-    "word": "put",
-    "pronunciation": "ÆpUt \"fO…w´d",
-    "part_of_speech": "sth",
-    "definition": "to suggest an idea; to propose sth - proponować, przedstawiać (np. plan)",
-    "unit": "12a",
-    "page": 19,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "salary",
     "pronunciation": "\"sœl´ri",
     "part_of_speech": "n",
@@ -9380,7 +8660,7 @@
     "wrong_count": 0
   },
   {
-    "word": "silk",
+    "word": "silk moth",
     "pronunciation": "\"sIlk mÅT",
     "part_of_speech": "n",
     "definition": "an insect whose cover is used to make silk thread - jedwabnik",
@@ -9407,16 +8687,6 @@
     "unit": "12a",
     "page": 19,
     "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "squeeze",
-    "pronunciation": "Æskwi…z \"aUt",
-    "part_of_speech": "sb",
-    "definition": "to force sb out of sth - tu: wypychać (np. ze stanowiska) stand up for (sb/sth) \\Æstœnd \"øp f´\\ (phr v) = to defend or support sb/sth - stawać w obronie",
-    "unit": "12a",
-    "page": 19,
-    "correct_count": 1,
     "wrong_count": 0
   },
   {
@@ -9570,16 +8840,6 @@
     "wrong_count": 0
   },
   {
-    "word": "object",
-    "pronunciation": "´b\"dZekt",
-    "part_of_speech": "to sth",
-    "definition": "to oppose sth; to disapprove of sth - sprzeciwiać się pick holes in sth (idm) = to criticise sth by finding negative aspects, mistakes, etc - szukać dziury w całym",
-    "unit": "12b",
-    "page": 20,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "reckon",
     "pronunciation": "\"rek´n",
     "part_of_speech": "v",
@@ -9603,7 +8863,7 @@
     "word": "vague",
     "pronunciation": "veIg",
     "part_of_speech": "adj",
-    "definition": "not definite or clear - mętny, niewyraźny 12c a fresh start (idm) = a new beginning - zaczynać od nowa ageing population (phr) = the increasing number of old people in a community - starzenie się społeczeństwa back to square one (idm) = back to the initial part of a process - (wrócić) do punktu wyjścia breathe new life into sth (idm) = to revitalize sth - tchnąć nowe życie (w coś)",
+    "definition": "not definite or clear - mętny, niewyraźny",
     "unit": "12b",
     "page": 20,
     "correct_count": 0,
@@ -9616,7 +8876,7 @@
     "definition": "to have control over a place or person - dominować equal opportunities \\Æi…kw´l ÆÅp´\"tju…n´tiz\\ (pl n) = having the same chance to do sth - równe szanse evolutionary change (phr) = a change related to the gradual process of species' development - zmiana ewolucyjna foreign domination (phr) = the control of a country over another - tu: okupacja, kontrola polityczna free elections (phr) = the process of voting and choosing politicians without external pressure - wolne wybory gender inequality \\\"dZend´r InIÆkwÅl´ti\\ (n) = the unfair treatment based on sb's sex - nierówność płci get the ball rolling (idm) = to begin sth - rozpoczynać, zaczynać in moderation (phr) = within reasonable limits - z umiarem in the workplace (phr) = in the place/environment where sb does their job - w miejscu pracy kick the habit (idm) = to overcome an addiction to sth - zerwać z nałogiem life expectancy \\ÆlaIf Ik\"spekt´nsi\\ (n) = the length of time that a person, animal or plant is likely to live - średnia długość życia network outage \\\"netw‰…k ÆaUtIdZ\\ (n) = a period of time when the function of a computer system is interrupted temporarily - awaria sieci komputerowej racial equality (phr) = the same rights for all members of an ethnic group - równość rasowa",
     "unit": "12b",
     "page": 20,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9680,7 +8940,7 @@
     "wrong_count": 0
   },
   {
-    "word": "hunger",
+    "word": "hunger strike",
     "pronunciation": "\"høNg´ ÆstraIk",
     "part_of_speech": "n",
     "definition": "refusing to eat as a form of protest about sth - strajk głodowy",
@@ -9746,7 +9006,7 @@
     "definition": "a term spent in jail - wyrok (tu: więzienia)",
     "unit": "12b",
     "page": 20,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9806,7 +9066,7 @@
     "definition": "the ability to make decisions and act on them without assistance - inicjatywa, działanie inner drive (phr) = a need to succeed that comes from within yourself - wewnętrzna siła",
     "unit": "12b",
     "page": 20,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9840,7 +9100,7 @@
     "wrong_count": 0
   },
   {
-    "word": "water",
+    "word": "water cooler",
     "pronunciation": "\"wO…t´ Æku…l´",
     "part_of_speech": "n",
     "definition": "an appliance that provides cold water to drink - automat z wodą Public Speaking Skills D",
@@ -9856,7 +9116,7 @@
     "definition": "a unit for measuring surfaces (about 4,000 square metres) - akr (miara powierzchni) dull as ditchwater (idm) = extremely boring - nudny jak flaki z olejem",
     "unit": "12b",
     "page": 21,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9896,7 +9156,7 @@
     "definition": "without making effort - bez trudu, bezproblemowo",
     "unit": "12b",
     "page": 21,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9936,7 +9196,7 @@
     "definition": "sharp - wyostrzony, wyczulony (o zmysłach)",
     "unit": "12b",
     "page": 21,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9946,7 +9206,7 @@
     "definition": "a level of material - warstwa",
     "unit": "12b",
     "page": 21,
-    "correct_count": 2,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -9976,7 +9236,7 @@
     "definition": "prehistoric; ancient - pierwotny (np. las)",
     "unit": "12b",
     "page": 21,
-    "correct_count": 2,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -10030,16 +9290,6 @@
     "wrong_count": 0
   },
   {
-    "word": "surge",
-    "pronunciation": "s‰…dZ",
-    "part_of_speech": "through sb/sth",
-    "definition": "(of an emotion, etc) to suddenly increase within sb/ sth - tu: poczuć przypływ (np. emocji)",
-    "unit": "12b",
-    "page": 21,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "vague",
     "pronunciation": "veIg",
     "part_of_speech": "adj",
@@ -10056,7 +9306,7 @@
     "definition": "the act of staying away from sb/ sth - unikanie",
     "unit": "12b",
     "page": 21,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -10076,7 +9326,7 @@
     "definition": "complicated - złożony, skomplikowany correspond (to sth)",
     "unit": "12b",
     "page": 21,
-    "correct_count": 2,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -10130,7 +9380,7 @@
     "wrong_count": 0
   },
   {
-    "word": "comfort",
+    "word": "comfort zone",
     "pronunciation": "\"kømf´t Æz´Un",
     "part_of_speech": "n",
     "definition": "the situation in which sb feels confident and not challenged by anything - strefa komfortu",
@@ -10186,7 +9436,7 @@
     "definition": "to cause sb to feel a desire to do sth - inspirować, motywować (do czegoś) keep sb/sth at bay (idm) = to keep sb/sth at a distance - trzymać coś na dystans (np. problem)",
     "unit": "12b",
     "page": 21,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -10240,7 +9490,7 @@
     "wrong_count": 0
   },
   {
-    "word": "civil",
+    "word": "civil rights",
     "pronunciation": "ÆsIv´l \"raIts",
     "part_of_speech": "pl n",
     "definition": "the rights to equal treatment and equal opportunities that all people in a society must have - prawa obywatelskie",
@@ -10316,7 +9566,7 @@
     "definition": "fighting against sth, or refusing to accept sth - opór",
     "unit": "12b",
     "page": 21,
-    "correct_count": 2,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -10336,7 +9586,7 @@
     "definition": "the official practice of keeping people of different sexes, races or religions apart - segregacja (np. rasowa) social activist (phr) = sb who fights for political or social changes - m",
     "unit": "12b",
     "page": 21,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {

@@ -10,7 +10,7 @@
     "wrong_count": 0
   },
   {
-    "word": "app",
+    "word": "app developer",
     "pronunciation": "\"œp dIvel´p´",
     "part_of_speech": "n",
     "definition": "sb whose job is to create software applications programista tworzący aplikacje",
@@ -20,7 +20,7 @@
     "wrong_count": 0
   },
   {
-    "word": "be",
+    "word": "be fired",
     "pronunciation": "bi \"faI´d",
     "part_of_speech": "v",
     "definition": "to lose my job because I don't meet the standards  zostać zwolnionym z pracy be made redundant (phr) = to lose my job because there is no more work zostać zwolnionym z pracy (w ramach redukcji etatów) breaking news (phr) = information about an event happening now wiadomości z ostatniej chwili",
@@ -130,16 +130,6 @@
     "wrong_count": 0
   },
   {
-    "word": "engage",
-    "pronunciation": "In\"geIdZ",
-    "part_of_speech": "with sth",
-    "definition": "to spend time on sth trying to understand it better tu: zapoznawać się z treścią",
-    "unit": "1a",
-    "page": 0,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "experienced",
     "pronunciation": "Ik\"spI´ri´nst",
     "part_of_speech": "adj",
@@ -150,7 +140,7 @@
     "wrong_count": 0
   },
   {
-    "word": "figure",
+    "word": "figure out",
     "pronunciation": "ÆfIg´r \"aUt",
     "part_of_speech": "phr v",
     "definition": "to work out; to understand zrozumieć, rozpracować coś",
@@ -180,7 +170,7 @@
     "wrong_count": 0
   },
   {
-    "word": "give",
+    "word": "give away",
     "pronunciation": "ÆgIv ´\"weI",
     "part_of_speech": "phr v",
     "definition": "1) to reveal; 2) to offer for free 1) ujawnić, 2) rozdać za darmo",
@@ -190,7 +180,7 @@
     "wrong_count": 0
   },
   {
-    "word": "give",
+    "word": "give off",
     "pronunciation": "ÆgIv \"Åf",
     "part_of_speech": "phr v",
     "definition": "to emit wydzielać (np. zapach), emitować (np. ciepło)",
@@ -200,17 +190,17 @@
     "wrong_count": 0
   },
   {
-    "word": "give",
+    "word": "give out",
     "pronunciation": "ÆgIv \"aUt",
     "part_of_speech": "phr v",
     "definition": "1) to hand out; 2) to be completely used up 1) rozdać, 2) zużyć się",
     "unit": "1a",
     "page": 0,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "give",
+    "word": "give up",
     "pronunciation": "ÆgIv \"øp",
     "part_of_speech": "phr v",
     "definition": "to stop doing sth; to quit przestać coś robić, zwolnić się z pracy",
@@ -250,7 +240,7 @@
     "wrong_count": 0
   },
   {
-    "word": "IT",
+    "word": "IT technician",
     "pronunciation": "ÆaI \"ti… tekÆnIS´n",
     "part_of_speech": "n",
     "definition": "a computer mechanic technik komputerowy",
@@ -346,7 +336,7 @@
     "definition": "to leave my job zrezygnować/ odejść z pracy",
     "unit": "1a",
     "page": 0,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -360,7 +350,7 @@
     "wrong_count": 0
   },
   {
-    "word": "social",
+    "word": "social media",
     "pronunciation": "Æs´US´l \"mi…di´",
     "part_of_speech": "n",
     "definition": "Facebook, Twitter, YouTube, etc media społecznościowe social media influencer",
@@ -390,10 +380,10 @@
     "wrong_count": 0
   },
   {
-    "word": "web",
+    "word": "web designer",
     "pronunciation": "\"web dIÆzaIn´",
     "part_of_speech": "n",
-    "definition": "sb whose job is to design websites for businesses, etc projektant stron internetowych 1b careers adviser \\k´\"rI´z ´dÆvaIz´\\ (n) = a professional who advises people about the most suitable job for each one doradca zawodowy",
+    "definition": "sb whose job is to design websites for businesses, etc projektant stron internetowych",
     "unit": "1a",
     "page": 0,
     "correct_count": 0,
@@ -410,10 +400,10 @@
     "wrong_count": 0
   },
   {
-    "word": "sales",
+    "word": "sales figures",
     "pronunciation": "\"seIlz ÆfIg´z",
     "part_of_speech": "pl n",
-    "definition": "how many products have been sold during a period of time wolumen sprzedaży, liczba sprzedanych produktów 1c attentive to detail (phr) = paying close attention to every single piece of information zwracający uwagę na szczegóły",
+    "definition": "how many products have been sold during a period of time wolumen sprzedaży, liczba sprzedanych produktów",
     "unit": "1c",
     "page": 1,
     "correct_count": 0,
@@ -580,7 +570,7 @@
     "wrong_count": 0
   },
   {
-    "word": "be",
+    "word": "be located",
     "pronunciation": "bi l´U\"keItId",
     "part_of_speech": "v",
     "definition": "to be situated być położonym",
@@ -590,7 +580,7 @@
     "wrong_count": 0
   },
   {
-    "word": "be",
+    "word": "be surrounded",
     "pronunciation": "bi s´\"raUndId",
     "part_of_speech": "v",
     "definition": "to be encircled on all sides by sth być otoczonym be taken aback \\bi ÆteIk´n ´\"bœk\\ (phr v) = to be surprised (by sth) być zaskoczonym (czymś)",
@@ -670,7 +660,7 @@
     "wrong_count": 0
   },
   {
-    "word": "head",
+    "word": "head out",
     "pronunciation": "Æhed \"aUt",
     "part_of_speech": "phr v",
     "definition": "to set off; to start on a journey wyruszyć, rozpocząć podróż",
@@ -696,7 +686,7 @@
     "definition": "that existed in the past and is a part of history historyczny",
     "unit": "1c",
     "page": 1,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -740,7 +730,7 @@
     "wrong_count": 0
   },
   {
-    "word": "pick",
+    "word": "pick up",
     "pronunciation": "ÆpIk \"øp",
     "part_of_speech": "phr v",
     "definition": "to go and buy sth tu: pójść i kupić",
@@ -790,7 +780,7 @@
     "wrong_count": 0
   },
   {
-    "word": "shop",
+    "word": "shop window",
     "pronunciation": "\"SÅp wInd´U",
     "part_of_speech": "n",
     "definition": "a display window at a small retail store witryna sklepowa",
@@ -830,7 +820,7 @@
     "wrong_count": 0
   },
   {
-    "word": "take",
+    "word": "take in",
     "pronunciation": "ÆteIk \"In",
     "part_of_speech": "phr v",
     "definition": "to trick sb nabrać kogoś, oszukać",
@@ -840,7 +830,7 @@
     "wrong_count": 0
   },
   {
-    "word": "take",
+    "word": "take off",
     "pronunciation": "ÆteIk \"Åf",
     "part_of_speech": "phr v",
     "definition": "(of a plane) to leave the ground (o samolocie) wystartować",
@@ -850,7 +840,7 @@
     "wrong_count": 0
   },
   {
-    "word": "take",
+    "word": "take sb out",
     "pronunciation": "ÆteIk \"aUt",
     "part_of_speech": "phr v",
     "definition": "to invite sb and go out with them zabrać kogoś (np. do restauracji)",
@@ -860,7 +850,7 @@
     "wrong_count": 0
   },
   {
-    "word": "take",
+    "word": "take to",
     "pronunciation": "\"teIk t´",
     "part_of_speech": "phr v",
     "definition": "to start liking sb/sth polubić coś/kogoś",
@@ -903,7 +893,7 @@
     "word": "wander",
     "pronunciation": "\"wÅnd´",
     "part_of_speech": "v",
-    "definition": "to walk slowly without a specific destination in mind spacerować bez sprecyzowanego celu, włóczyć się, wędrować 2b afternoon nap \\ÆA…ft´\"nu…n nœp\\ (n) = a short sleep taken usually after lunchtime popołudniowa drzemka",
+    "definition": "to walk slowly without a specific destination in mind spacerować bez sprecyzowanego celu, włóczyć się, wędrować",
     "unit": "2b",
     "page": 2,
     "correct_count": 0,
@@ -923,7 +913,7 @@
     "word": "lodge",
     "pronunciation": "lÅdZ",
     "part_of_speech": "n",
-    "definition": "a small house or hotel, usually in the countryside or the mountains domek letniskowy music pours out of sth (phr) = music flows melodically out of a sound system muzyka sączy się z (np. głośnika) 2c crash my hire car (phr) = to hit another vehicle with my rented vehicle rozbić wypożyczony samochód get badly sunburnt (phr) = to severely burn your skin by staying in the sun for too long doznać poważnego oparzenia słonecznego get food poisoning (phr) = to become ill after eating bad food zatruć się nieświeżą żywnością, dostać zatrucia pokarmowego get lost (phr) = to be unable to find your way zgubić się get stung by a jellyfish (phr) = to be bitten by a sea creature with a body like jelly and tentacles zostać poparzonym przez meduzę have a noisy hotel room (phr) = to be given a bedroom in a hotel that is not quiet mieć pokój hotelowy, w którym panuje hałas lose my passport (phr) = to not know where my travel ID is zgubić paszport miss my flight (phr) = to be too late to travel on a plane before it takes off spóźnić się na lot Culture 2",
+    "definition": "a small house or hotel, usually in the countryside or the mountains domek letniskowy music pours out of sth (phr) = music flows melodically out of a sound system muzyka sączy się z (np. głośnika)",
     "unit": "2b",
     "page": 2,
     "correct_count": 0,
@@ -1030,16 +1020,6 @@
     "wrong_count": 0
   },
   {
-    "word": "shout",
-    "pronunciation": "SaUt",
-    "part_of_speech": "at sb",
-    "definition": "to yell at sb with anger krzyczeć (na kogoś)",
-    "unit": "2b",
-    "page": 2,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "summit",
     "pronunciation": "\"sømIt",
     "part_of_speech": "n",
@@ -1053,7 +1033,7 @@
     "word": "variety",
     "pronunciation": "v´\"raI´ti",
     "part_of_speech": "n",
-    "definition": "a range różnorodność, rozmaitość Unit 3 – Fun Time 3a",
+    "definition": "a range różnorodność, rozmaitość Unit 3 – Fun Time",
     "unit": "2b",
     "page": 2,
     "correct_count": 0,
@@ -1140,7 +1120,7 @@
     "wrong_count": 0
   },
   {
-    "word": "comedy",
+    "word": "comedy club",
     "pronunciation": "\"kÅm´di kløb",
     "part_of_speech": "n",
     "definition": "a place where people meet and enjoy comedy shows klub miłośników komedii",
@@ -1300,7 +1280,7 @@
     "wrong_count": 0
   },
   {
-    "word": "run",
+    "word": "run away",
     "pronunciation": "Ærøn ´\"weI",
     "part_of_speech": "phr v",
     "definition": "to leave quickly; to escape uciec",
@@ -1310,7 +1290,7 @@
     "wrong_count": 0
   },
   {
-    "word": "run",
+    "word": "run into",
     "pronunciation": "\"røn Int´",
     "part_of_speech": "phr v",
     "definition": "to meet sb by chance spotkać kogoś przypadkiem, wpaść na kogoś",
@@ -1320,7 +1300,7 @@
     "wrong_count": 0
   },
   {
-    "word": "run",
+    "word": "run out of",
     "pronunciation": "Ærøn \"aUt ´v",
     "part_of_speech": "phr v",
     "definition": "to have no more of sth (o czymś) skończyć się, zabraknąć",
@@ -1330,7 +1310,7 @@
     "wrong_count": 0
   },
   {
-    "word": "run",
+    "word": "run over",
     "pronunciation": "Ærøn \"´Uv´",
     "part_of_speech": "phr v",
     "definition": "to hit sb/sth with a vehicle przejechać kogoś samochodem",
@@ -1340,7 +1320,7 @@
     "wrong_count": 0
   },
   {
-    "word": "run",
+    "word": "run through",
     "pronunciation": "\"røn Tru…",
     "part_of_speech": "phr v",
     "definition": "to practise sth tu: przeczytać szybko, aby powtórzyć rolę",
@@ -1473,7 +1453,7 @@
     "word": "whole",
     "pronunciation": "h´Ul",
     "part_of_speech": "adj",
-    "definition": "including every part of sth cały 3b",
+    "definition": "including every part of sth cały",
     "unit": "3b",
     "page": 3,
     "correct_count": 0,
@@ -1490,7 +1470,7 @@
     "wrong_count": 0
   },
   {
-    "word": "escape",
+    "word": "escape room",
     "pronunciation": "I\"skeIp ru…m",
     "part_of_speech": "n",
     "definition": "a game in which the players find clues in order to escape from a room where they are locked escape room (gra, której uczestnicy szukają wskazówek, jak wydostać się z pokoju, w którym są zamknięci)",
@@ -1503,7 +1483,7 @@
     "word": "packed",
     "pronunciation": "pœkt",
     "part_of_speech": "adj",
-    "definition": "overcrowded zatłoczony weather forecast \\\"weD´ ÆfO…kA…st\\ (n) = information about the weather for the next days prognoza pogody 3c",
+    "definition": "overcrowded zatłoczony weather forecast \\\"weD´ ÆfO…kA…st\\ (n) = information about the weather for the next days prognoza pogody",
     "unit": "3b",
     "page": 3,
     "correct_count": 0,
@@ -1820,7 +1800,7 @@
     "wrong_count": 0
   },
   {
-    "word": "own",
+    "word": "own up",
     "pronunciation": "Æ´Un \"øp",
     "part_of_speech": "phr v",
     "definition": "to admit (to [doing] sth) przyznać się (do zrobienia czegoś)",
@@ -1863,7 +1843,7 @@
     "word": "résumé",
     "pronunciation": "\"rezjUmeI",
     "part_of_speech": "n",
-    "definition": "a curriculum vitae życiorys, CV Unit 4 – Special Events 4a",
+    "definition": "a curriculum vitae życiorys, CV Unit 4 – Special Events",
     "unit": "4a",
     "page": 4,
     "correct_count": 0,
@@ -1890,7 +1870,7 @@
     "wrong_count": 0
   },
   {
-    "word": "be/get",
+    "word": "be/get carried away",
     "pronunciation": "bi",
     "part_of_speech": "phr v",
     "definition": "to be/get excited dać się ponieść emocjom",
@@ -1910,40 +1890,10 @@
     "wrong_count": 0
   },
   {
-    "word": "carry",
-    "pronunciation": "Ækœri \"aUt",
-    "part_of_speech": "sth",
-    "definition": "to fulfil sth zrealizować coś",
-    "unit": "4a",
-    "page": 4,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "carry",
+    "word": "carry off",
     "pronunciation": "Ækœri \"Åf",
     "part_of_speech": "phr v",
     "definition": "to win (an award, prize, etc) tu: zdobyć (nagrodę itd.)",
-    "unit": "4a",
-    "page": 4,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "carry",
-    "pronunciation": "Ækœri \"Ån",
-    "part_of_speech": "with",
-    "definition": "to continue kontynuować, robić coś dalej",
-    "unit": "4a",
-    "page": 4,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "cause",
-    "pronunciation": "kO…z",
-    "part_of_speech": "for sth",
-    "definition": "what makes sth happen przyczyna (czegoś)",
     "unit": "4a",
     "page": 4,
     "correct_count": 0,
@@ -2020,7 +1970,7 @@
     "wrong_count": 0
   },
   {
-    "word": "dress",
+    "word": "dress up",
     "pronunciation": "Ædres \"øp",
     "part_of_speech": "phr v",
     "definition": "to put on formal clothes or costumes wystroić się, ubrać się elegancko",
@@ -2110,7 +2060,7 @@
     "wrong_count": 0
   },
   {
-    "word": "let",
+    "word": "let off",
     "pronunciation": "Ælet \"Åf",
     "part_of_speech": "phr v",
     "definition": "to make (fireworks, etc) explode puszczać (np. fajerwerki)",
@@ -2170,7 +2120,7 @@
     "wrong_count": 0
   },
   {
-    "word": "put",
+    "word": "put up",
     "pronunciation": "ÆpUt \"øp",
     "part_of_speech": "phr v",
     "definition": "to put sth at a high place for everyone to be able to see tu: umieścić coś wysoko, tak aby wszyscy mogli zobaczyć",
@@ -2190,7 +2140,7 @@
     "wrong_count": 0
   },
   {
-    "word": "show",
+    "word": "show off",
     "pronunciation": "ÆS´U \"Åf",
     "part_of_speech": "phr v",
     "definition": "to display sth in a proud or boastful manner chwalić się czymś, popisywać się",
@@ -2293,7 +2243,7 @@
     "word": "workshop",
     "pronunciation": "\"w‰…kSÅp",
     "part_of_speech": "n",
-    "definition": "a meeting where a group of people learn a skill or take part in an organised activity warsztat (spotkanie, podczas którego uczestnicy zdobywają jakąś umiejętność) 4b",
+    "definition": "a meeting where a group of people learn a skill or take part in an organised activity warsztat (spotkanie, podczas którego uczestnicy zdobywają jakąś umiejętność)",
     "unit": "4a",
     "page": 4,
     "correct_count": 0,
@@ -2320,10 +2270,10 @@
     "wrong_count": 0
   },
   {
-    "word": "New",
+    "word": "New Year’s Eve",
     "pronunciation": "Ænju… jI´z \"i…v",
     "part_of_speech": "n",
-    "definition": "the 31st of December sylwester 4c baby’s birth (phr) = the fact that a human being was born poród, narodziny",
+    "definition": "the 31st of December sylwester",
     "unit": "4c",
     "page": 5,
     "correct_count": 0,
@@ -2440,16 +2390,6 @@
     "wrong_count": 0
   },
   {
-    "word": "master’s",
-    "pronunciation": "\"mA…st´z",
-    "part_of_speech": "degree",
-    "definition": "the academic title offered to a student one or two years after their bachelor’s degree magister, stopień magistra",
-    "unit": "4c",
-    "page": 5,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "outfit",
     "pronunciation": "\"aUtfIt",
     "part_of_speech": "n",
@@ -2460,7 +2400,7 @@
     "wrong_count": 0
   },
   {
-    "word": "reflect",
+    "word": "reflect on",
     "pronunciation": "rI\"flekt Ån",
     "part_of_speech": "phr v",
     "definition": "to think about zastanawiać się nad czymś",
@@ -2473,27 +2413,17 @@
     "word": "tassel",
     "pronunciation": "\"tœs´l",
     "part_of_speech": "n",
-    "definition": "a number of threads hanging down from hats, curtains, etc pęk ozdobnych frędzli Unit 5 – Survival 5a a bolt from the blue (idm) = bad news breaking unexpectedly grom z jasnego nieba (zła, nie- oczekiwana wiadomość) a face like thunder (idm) = a face  that appears to be very angry ponura/chmurna twarz, wściekły wyraz twarzy a storm in a teacup (idm) = a lot of fuss about sth unimportant burza w szklance wody (zamieszanie wokół sprawy, która nie jest tego warta)",
+    "definition": "a number of threads hanging down from hats, curtains, etc pęk ozdobnych frędzli Unit 5 – Survival",
     "unit": "4c",
     "page": 5,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "be",
+    "word": "be cut off",
     "pronunciation": "bi Ækøt \"Åf",
     "part_of_speech": "phr v",
     "definition": "to be isolated być odciętym/odizolowanym od czegoś bridge collapse (phr) = the incident of a bridge falling down suddenly zawalenie się mostu",
-    "unit": "4c",
-    "page": 5,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "cause",
-    "pronunciation": "kO…z",
-    "part_of_speech": "of sth",
-    "definition": "what makes sth happen przyczyna (czegoś)",
     "unit": "4c",
     "page": 5,
     "correct_count": 0,
@@ -2510,7 +2440,7 @@
     "wrong_count": 0
   },
   {
-    "word": "cut",
+    "word": "cut in",
     "pronunciation": "Ækøt \"In",
     "part_of_speech": "phr v",
     "definition": "to interrupt sb (while speaking) wtrącić się do rozmowy",
@@ -2520,7 +2450,7 @@
     "wrong_count": 0
   },
   {
-    "word": "cut",
+    "word": "cut out",
     "pronunciation": "Ækøt \"aUt",
     "part_of_speech": "phr v",
     "definition": "to remove sth usunąć coś",
@@ -2544,16 +2474,6 @@
     "pronunciation": "draUt",
     "part_of_speech": "n",
     "definition": "a long period of low or no rainfall susza",
-    "unit": "4c",
-    "page": 5,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "effect",
-    "pronunciation": "I\"fekt",
-    "part_of_speech": "on sth",
-    "definition": "a result; a consequence wpływ (na coś)",
     "unit": "4c",
     "page": 5,
     "correct_count": 0,
@@ -2590,7 +2510,7 @@
     "wrong_count": 0
   },
   {
-    "word": "get",
+    "word": "get cut off",
     "pronunciation": "get Ækøt \"Åf",
     "part_of_speech": "phr v",
     "definition": "to be disconnected utracić połączenie (w czasie rozmowy telefonicznej)",
@@ -2650,7 +2570,7 @@
     "wrong_count": 0
   },
   {
-    "word": "oil",
+    "word": "oil spill",
     "pronunciation": "\"OIl spIl",
     "part_of_speech": "n",
     "definition": "leakage of oil into the sea wyciek ropy",
@@ -2660,7 +2580,7 @@
     "wrong_count": 0
   },
   {
-    "word": "plane",
+    "word": "plane crash",
     "pronunciation": "\"pleIn krœS",
     "part_of_speech": "n",
     "definition": "the occurrence of a plane falling from the sky katastrofa lotnicza play with fire (idm) = to do sth very dangerous or harmful igrać z ogniem (robić coś bardzo niebezpiecznego)",
@@ -2710,7 +2630,7 @@
     "wrong_count": 0
   },
   {
-    "word": "test",
+    "word": "test result",
     "pronunciation": "\"test rIzølt",
     "part_of_speech": "n",
     "definition": "the outcome of a test wynik testu",
@@ -2720,7 +2640,7 @@
     "wrong_count": 0
   },
   {
-    "word": "the",
+    "word": "the authorities",
     "pronunciation": "Di O…\"TÅr´tiz",
     "part_of_speech": "pl n",
     "definition": "the group of people in power responsible for a specific area władze (np. lokalne)",
@@ -2773,7 +2693,7 @@
     "word": "wildfire",
     "pronunciation": "\"waIldfaI´",
     "part_of_speech": "n",
-    "definition": "an uncontrollable blaze in a forest, etc pożar (lasu, stepu itd.) 5b",
+    "definition": "an uncontrollable blaze in a forest, etc pożar (lasu, stepu itd.)",
     "unit": "5b",
     "page": 6,
     "correct_count": 0,
@@ -2813,7 +2733,7 @@
     "word": "strengthen",
     "pronunciation": "\"streNT´n",
     "part_of_speech": "v",
-    "definition": "to make sth stronger wzmocnić 5c",
+    "definition": "to make sth stronger wzmocnić",
     "unit": "5b",
     "page": 6,
     "correct_count": 0,
@@ -2840,7 +2760,7 @@
     "wrong_count": 0
   },
   {
-    "word": "put",
+    "word": "put out",
     "pronunciation": "ÆpUt \"aUt",
     "part_of_speech": "phr v",
     "definition": "to extinguish zgasić (ogień, pożar)",
@@ -2850,7 +2770,7 @@
     "wrong_count": 0
   },
   {
-    "word": "speed",
+    "word": "speed limit",
     "pronunciation": "\"spi…d ÆlImIt",
     "part_of_speech": "n",
     "definition": "the highest speed allowed ograniczenie prędkości",
@@ -2960,7 +2880,7 @@
     "wrong_count": 0
   },
   {
-    "word": "running",
+    "word": "running costs",
     "pronunciation": "\"rønIN kÅsts",
     "part_of_speech": "pl n",
     "definition": "money necessary for a club, organisation, etc to run normally koszty utrzymania, koszty bieżące, koszty eksploatacji",
@@ -2970,7 +2890,7 @@
     "wrong_count": 0
   },
   {
-    "word": "set",
+    "word": "set up",
     "pronunciation": "Æset \"øp",
     "part_of_speech": "phr v",
     "definition": "to create; to organise założyć, organizować underestimate",
@@ -3050,16 +2970,6 @@
     "wrong_count": 0
   },
   {
-    "word": "chat",
-    "pronunciation": "tSœt",
-    "part_of_speech": "to sb",
-    "definition": "to talk to sb rozmawiać (z kimś), ucinać sobie pogawędkę",
-    "unit": "5b",
-    "page": 6,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "chew",
     "pronunciation": "tSu…",
     "part_of_speech": "n",
@@ -3120,20 +3030,10 @@
     "wrong_count": 0
   },
   {
-    "word": "cream",
+    "word": "cream cheese",
     "pronunciation": "Ækri…m \"tSi…z",
     "part_of_speech": "n",
     "definition": "very soft white cheese serek śmietankowy",
-    "unit": "5b",
-    "page": 6,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "eager",
-    "pronunciation": "\"i…g´",
-    "part_of_speech": "to do sth",
-    "definition": "keen (to do sth) bardzo chętny (żeby coś zrobić)",
     "unit": "5b",
     "page": 6,
     "correct_count": 0,
@@ -3190,17 +3090,7 @@
     "wrong_count": 0
   },
   {
-    "word": "impact",
-    "pronunciation": "\"Impœkt",
-    "part_of_speech": "on sth",
-    "definition": "a powerful effect (on sth) ogromny wpływ (na coś)",
-    "unit": "5b",
-    "page": 6,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "lamb",
+    "word": "lamb chop",
     "pronunciation": "\"lœm tSÅp",
     "part_of_speech": "n",
     "definition": "a piece of sheep meat on the bone kotlet barani, kotlet jagnięcy",
@@ -3250,7 +3140,7 @@
     "wrong_count": 0
   },
   {
-    "word": "prawn",
+    "word": "prawn curry",
     "pronunciation": "\"prO…n køri",
     "part_of_speech": "n",
     "definition": "shrimps in a spicy sauce krewetki w pikantnym sosie curry",
@@ -3370,7 +3260,7 @@
     "wrong_count": 0
   },
   {
-    "word": "sour",
+    "word": "sour cream",
     "pronunciation": "ÆsaU´ \"kri…m",
     "part_of_speech": "n",
     "definition": "a thick cream with a sharp taste kwaśna śmietana",
@@ -3400,7 +3290,7 @@
     "wrong_count": 0
   },
   {
-    "word": "turkey",
+    "word": "turkey breast",
     "pronunciation": "\"t‰…ki brest",
     "part_of_speech": "n",
     "definition": "the meat from the chest of a bird bigger than a chicken pierś z indyka",
@@ -3410,7 +3300,7 @@
     "wrong_count": 0
   },
   {
-    "word": "turn",
+    "word": "turn down",
     "pronunciation": "Æt‰…n \"daUn",
     "part_of_speech": "phr v",
     "definition": "1) to decrease volume, etc; 2) to refuse an invitation/offer 1) ściszyć (np. radio) 2) odrzucić zaproszenie/ofertę",
@@ -3420,7 +3310,7 @@
     "wrong_count": 0
   },
   {
-    "word": "turn",
+    "word": "turn off",
     "pronunciation": "Æt‰…n \"Åf",
     "part_of_speech": "phr v",
     "definition": "to switch off wyłączyć",
@@ -3430,7 +3320,7 @@
     "wrong_count": 0
   },
   {
-    "word": "turn",
+    "word": "turn on",
     "pronunciation": "Æt‰…n \"Ån",
     "part_of_speech": "phr v",
     "definition": "to switch on włączyć",
@@ -3440,7 +3330,7 @@
     "wrong_count": 0
   },
   {
-    "word": "turn",
+    "word": "turn out",
     "pronunciation": "Æt‰…n \"aUt",
     "part_of_speech": "phr v",
     "definition": "to have an end result, especially a surprising one okazać się",
@@ -3450,17 +3340,7 @@
     "wrong_count": 0
   },
   {
-    "word": "turn",
-    "pronunciation": "\"t‰…n t´",
-    "part_of_speech": "sb",
-    "definition": "to ask (sb) for help zwrócić się do (kogoś) o pomoc",
-    "unit": "6b",
-    "page": 7,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "turn",
+    "word": "turn up",
     "pronunciation": "Æt‰…n \"øp",
     "part_of_speech": "phr v",
     "definition": "1) to increase volume, etc; 2) to suddenly arrive 1) podkręcić, pogłośnić, 2) pojawić się gdzieś",
@@ -3483,7 +3363,7 @@
     "word": "vendor",
     "pronunciation": "\"vend´",
     "part_of_speech": "n",
-    "definition": "sb selling things from a stall in the street sprzedawca uliczny wholegrain rice \\Æh´UlgreIn \"raIs\\ (n) = rice with its outer covering ryż pełnoziarnisty 6b balanced diet (phr) = a healthy eating plan zrównoważona dieta carbohydrates",
+    "definition": "sb selling things from a stall in the street sprzedawca uliczny wholegrain rice \\Æh´UlgreIn \"raIs\\ (n) = rice with its outer covering ryż pełnoziarnisty",
     "unit": "6b",
     "page": 7,
     "correct_count": 0,
@@ -3493,7 +3373,7 @@
     "word": "starve",
     "pronunciation": "stA…v",
     "part_of_speech": "v",
-    "definition": "to be very hungry głodować, umierać z głodu 6c a portion of sth (phr) = an amount of food for one person porcja czegoś fast food restaurant \\ÆfA…st \"fu…d Ærest´rÅnt\\ (n) = a restaurant where you can have burgers, hot dogs, fries, etc restauracja szybkiej obsługi fresh fruit (phr) = fruit that has just been picked świeże owoce",
+    "definition": "to be very hungry głodować, umierać z głodu",
     "unit": "6b",
     "page": 7,
     "correct_count": 0,
@@ -3510,7 +3390,7 @@
     "wrong_count": 0
   },
   {
-    "word": "olive",
+    "word": "olive oil",
     "pronunciation": "ÆÅlIv \"OIl",
     "part_of_speech": "n",
     "definition": "oil extracted from olives oliwa z oliwek processed meat \\\"pr´Usest \"mi…t\\(n) = meat treated with chemicals mięso z dodatkiem środków konserwujących",
@@ -3520,7 +3400,7 @@
     "wrong_count": 0
   },
   {
-    "word": "red",
+    "word": "red meat",
     "pronunciation": "Æred \"mi…t",
     "part_of_speech": "n",
     "definition": "meat such as beef, lamb, pork, etc  czerwone mięso (wołowina, jagnięcina, wieprzowina itd.)",
@@ -3540,7 +3420,7 @@
     "wrong_count": 0
   },
   {
-    "word": "whole",
+    "word": "whole grains",
     "pronunciation": "Æh´Ul \"greInz",
     "part_of_speech": "pl n",
     "definition": "seeds of corn, wheat, barley, oats, etc with their outer covering pełne ziarna Culture 6 a sweet tooth (idm) = a liking for sweet things ochota na słodycze, słabość do słodyczy",
@@ -3740,7 +3620,7 @@
     "wrong_count": 0
   },
   {
-    "word": "fire",
+    "word": "fire drill",
     "pronunciation": "\"faI´ drIl",
     "part_of_speech": "n",
     "definition": "an exercise that is designed to train individuals in evacuation procedures in case of a fire ćwiczenia przeciwpożarowe",
@@ -3773,7 +3653,7 @@
     "word": "property",
     "pronunciation": "\"prÅp´ti",
     "part_of_speech": "n",
-    "definition": "sb's belongings własność, mienie Unit 7 – Against the law 7a",
+    "definition": "sb's belongings własność, mienie Unit 7 – Against the law",
     "unit": "6b",
     "page": 7,
     "correct_count": 0,
@@ -3800,7 +3680,7 @@
     "wrong_count": 0
   },
   {
-    "word": "break",
+    "word": "break in/into",
     "pronunciation": "ÆbreIk \"In",
     "part_of_speech": "phr v",
     "definition": "to enter illegally (a house, shop, etc) włamać się do (domu, sklepu itd.)",
@@ -3810,7 +3690,7 @@
     "wrong_count": 0
   },
   {
-    "word": "break",
+    "word": "break off",
     "pronunciation": "ÆbreIk \"Åf",
     "part_of_speech": "phr v",
     "definition": "to separate odłamać",
@@ -3820,7 +3700,7 @@
     "wrong_count": 0
   },
   {
-    "word": "break",
+    "word": "break out of",
     "pronunciation": "ÆbreIk \"aUt ´v",
     "part_of_speech": "phr v",
     "definition": "to escape from uciec z (np. więzienia)",
@@ -3830,7 +3710,7 @@
     "wrong_count": 0
   },
   {
-    "word": "break",
+    "word": "break up",
     "pronunciation": "ÆbreIk \"øp",
     "part_of_speech": "phr v",
     "definition": "to end a relationship zerwać z kimś",
@@ -3920,7 +3800,7 @@
     "wrong_count": 0
   },
   {
-    "word": "go",
+    "word": "go off",
     "pronunciation": "Æg´U \"Åf",
     "part_of_speech": "phr v",
     "definition": "(of an alarm, etc) to make a loud noise (o alarmie itd.) włączyć się",
@@ -3960,7 +3840,7 @@
     "wrong_count": 0
   },
   {
-    "word": "look",
+    "word": "look up",
     "pronunciation": "ÆlUk \"øp",
     "part_of_speech": "phr v",
     "definition": "to raise your eyes spojrzeć w górę",
@@ -4120,16 +4000,6 @@
     "wrong_count": 0
   },
   {
-    "word": "spy",
-    "pronunciation": "\"spaI Ån",
-    "part_of_speech": "sb/sth",
-    "definition": "to secretly watch sb/sth in order to discover specific information szpiegować, śledzić (kogoś/coś)",
-    "unit": "7b",
-    "page": 8,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "steal",
     "pronunciation": "sti…l",
     "part_of_speech": "v",
@@ -4203,7 +4073,7 @@
     "word": "vandalism",
     "pronunciation": "\"vœnd´lIz´m",
     "part_of_speech": "n",
-    "definition": "the crime of intentionally damaging public or private property wandalizm 7b",
+    "definition": "the crime of intentionally damaging public or private property wandalizm",
     "unit": "7b",
     "page": 8,
     "correct_count": 0,
@@ -4250,7 +4120,7 @@
     "wrong_count": 0
   },
   {
-    "word": "speed",
+    "word": "speed limit",
     "pronunciation": "\"spi…d ÆlImIt",
     "part_of_speech": "n",
     "definition": "the highest speed allowed ograniczenie prędkości",
@@ -4270,10 +4140,10 @@
     "wrong_count": 0
   },
   {
-    "word": "window",
+    "word": "window lock",
     "pronunciation": "\"wInd´U lÅk",
     "part_of_speech": "n",
-    "definition": "a tool for keeping a window fastened zamek okienny, blokada okna 7c",
+    "definition": "a tool for keeping a window fastened zamek okienny, blokada okna",
     "unit": "7b",
     "page": 8,
     "correct_count": 0,
@@ -4290,40 +4160,10 @@
     "wrong_count": 0
   },
   {
-    "word": "assist",
-    "pronunciation": "´\"sIst",
-    "part_of_speech": "sb in sth",
-    "definition": "to help sb with sth that they're doing pomagać (komuś w czymś) break the law (phr) = to do sth illegal łamać prawo",
-    "unit": "7b",
-    "page": 8,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "charge",
     "pronunciation": "tSA…dZ",
     "part_of_speech": "n",
     "definition": "an official accusation that sb has done sth illegal zarzut, oskarżenie",
-    "unit": "7b",
-    "page": 8,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "charge",
-    "pronunciation": "tSA…dZ",
-    "part_of_speech": "sb with sth",
-    "definition": "to officially accuse sb of a crime oskarżać (kogoś o coś)",
-    "unit": "7b",
-    "page": 8,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "convict",
-    "pronunciation": "k´n\"vIkt",
-    "part_of_speech": "sb of sth",
-    "definition": "(of a law court) to decide that sb is guilty of a crime (o sądzie) uznawać kogoś za winnego",
     "unit": "7b",
     "page": 8,
     "correct_count": 0,
@@ -4350,7 +4190,7 @@
     "wrong_count": 0
   },
   {
-    "word": "crime",
+    "word": "crime rate",
     "pronunciation": "\"kraIm reIt",
     "part_of_speech": "n",
     "definition": "the number of crimes committed in an area within a specific time period poziom przestępczości",
@@ -4410,7 +4250,7 @@
     "wrong_count": 0
   },
   {
-    "word": "street",
+    "word": "street patrol",
     "pronunciation": "\"stri…t p´Ætr´Ul",
     "part_of_speech": "n",
     "definition": "a group of police officers going around an area to check that there is no trouble patrol uliczny",
@@ -4540,13 +4380,13 @@
     "wrong_count": 0
   },
   {
-    "word": "police",
+    "word": "police unit",
     "pronunciation": "p´\"li…s Æju…nIt",
     "part_of_speech": "n",
     "definition": "a police department oddział policji sb/sth is considered to be sth (phr) = sb/sth is thought to be sth ktoś/coś jest uważane za",
     "unit": "8a",
     "page": 9,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -4573,7 +4413,7 @@
     "word": "thoroughbred",
     "pronunciation": "\"Tør´bred",
     "part_of_speech": "n",
-    "definition": "a horse born to parents of the same breed (o koniu) czystej krwi Unit 8 – Sports & Hobbies 8a",
+    "definition": "a horse born to parents of the same breed (o koniu) czystej krwi Unit 8 – Sports & Hobbies",
     "unit": "8a",
     "page": 9,
     "correct_count": 0,
@@ -4640,7 +4480,7 @@
     "wrong_count": 0
   },
   {
-    "word": "grow",
+    "word": "grow apart",
     "pronunciation": "Ægr´U ´\"pA…t",
     "part_of_speech": "phr v",
     "definition": "to stop having a close relationship with sb oddalać się od siebie (np. w związku) (sth/sb) grows on (you)",
@@ -4650,7 +4490,7 @@
     "wrong_count": 0
   },
   {
-    "word": "grow",
+    "word": "grow out of",
     "pronunciation": "Ægr´U \"aUt ´v",
     "part_of_speech": "phr v",
     "definition": "to lose interest in sth as you grow older wyrosnąć z czegoś, z czasem przestać się czymś interesować",
@@ -4660,7 +4500,7 @@
     "wrong_count": 0
   },
   {
-    "word": "grow",
+    "word": "grow up",
     "pronunciation": "Ægr´U \"øp",
     "part_of_speech": "phr v",
     "definition": "to become an adult dorosnąć",
@@ -4740,7 +4580,7 @@
     "wrong_count": 0
   },
   {
-    "word": "office",
+    "word": "office colleague",
     "pronunciation": "\"Åfis ÆkÅli…g",
     "part_of_speech": "n",
     "definition": "sb who you work with in the same office kolega z pracy",
@@ -4760,7 +4600,7 @@
     "wrong_count": 0
   },
   {
-    "word": "pass",
+    "word": "pass away",
     "pronunciation": "ÆpA…s ´\"weI",
     "part_of_speech": "phr v",
     "definition": "to die odejść, umrzeć",
@@ -4786,11 +4626,11 @@
     "definition": "each of the sloping structures in a skatepark for skateboarders to exercise pochylnia (tu: dla deskorolkarzy)",
     "unit": "8a",
     "page": 9,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "reality",
+    "word": "reality show",
     "pronunciation": "ri\"œl´ti ÆS´U",
     "part_of_speech": "n",
     "definition": "a TV programme showing everyday people in their daily lives reality show; rodzaj programu telewizyjnego, ukazującego sceny z życia codziennego",
@@ -4873,17 +4713,7 @@
     "word": "unable",
     "pronunciation": "øn\"eIb´l",
     "part_of_speech": "adj",
-    "definition": "without the ability; incapable niezdolny do czegoś, nie będący w stanie czegoś zrobić 8b give it a try (phr) = to do sth in order to discover if it works spróbować coś zrobić",
-    "unit": "8b",
-    "page": 10,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "regard",
-    "pronunciation": "rI\"gA…d",
-    "part_of_speech": "sth as sth",
-    "definition": "to consider sth to be sth uznawać/uważać coś za",
+    "definition": "without the ability; incapable niezdolny do czegoś, nie będący w stanie czegoś zrobić",
     "unit": "8b",
     "page": 10,
     "correct_count": 0,
@@ -4893,17 +4723,7 @@
     "word": "treadmill",
     "pronunciation": "\"tredÆmIl",
     "part_of_speech": "n",
-    "definition": "gym equipment on which you walk or run while staying in the same place bieżnia stacjonarna 8c build muscle (phr) = to work out in order to make my body muscles grow stronger budować masę mięśniową compete (against sb)",
-    "unit": "8b",
-    "page": 10,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "focus",
-    "pronunciation": "\"f´Uk´s",
-    "part_of_speech": "on sth",
-    "definition": "to concentrate on sth skupiać się, koncentrować się (na czymś) get in shape (phr) = to improve my physical condition zbudować formę, poprawić kondycję join a fitness class (phr) = to enrol on a gym class to improve my physical condition zapisać się na fitness lift weights (phr) = to exercise by picking up heavy items podnosić ciężary lose weight (phr) = to become thinner schudnąć, stracić na wadze raise my cardio levels (phr) = to exercise in order to make my heart healthier and stronger poprawić wydolność serca",
+    "definition": "gym equipment on which you walk or run while staying in the same place bieżnia stacjonarna",
     "unit": "8b",
     "page": 10,
     "correct_count": 0,
@@ -4993,7 +4813,7 @@
     "word": "salute",
     "pronunciation": "s´\"lu…t",
     "part_of_speech": "v",
-    "definition": "to greet sb tu: witać się Unit 9 – The Bio-Hackers 9a artificial intelligence",
+    "definition": "to greet sb tu: witać się Unit 9 – The Bio-Hackers",
     "unit": "8b",
     "page": 10,
     "correct_count": 0,
@@ -5070,7 +4890,7 @@
     "wrong_count": 0
   },
   {
-    "word": "fitness",
+    "word": "fitness tracker",
     "pronunciation": "\"fItn´s Ætrœk´",
     "part_of_speech": "n",
     "definition": "an electronic device worn on the hand like a watch, for recording and displaying information about your physical condition and activity urządzenie lub aplikacja służąca do monitorowania aktywności fizycznej (używane np. przez biegaczy) follow sb's lead (phr) = to do as sb else has done before podążać za kimś, robić to co ktoś, iść czyimś tropem gain access (to sth) (phr) = to manage to enter a place or use a computer, etc uzyskać dostęp (do czegoś)",
@@ -5080,7 +4900,7 @@
     "wrong_count": 0
   },
   {
-    "word": "gene",
+    "word": "gene therapy",
     "pronunciation": "\"dZi…n ÆTer´pi",
     "part_of_speech": "n",
     "definition": "the cure for sb's disease through changes in parts of their cells terapia genowa",
@@ -5090,7 +4910,7 @@
     "wrong_count": 0
   },
   {
-    "word": "get",
+    "word": "get along with",
     "pronunciation": "Æget ´\"lÅN wID",
     "part_of_speech": "phr v",
     "definition": "to have a good relationship with sb mieć z kimś dobre relacje get away with \\Æget ´\"weI wID\\ (phr v) = to avoid blame or punishment for sth you did uniknąć kary (lub innych niemiłych konsekwencji swojego czynu) get lost (phr) = to lose your way zgubić się",
@@ -5100,7 +4920,7 @@
     "wrong_count": 0
   },
   {
-    "word": "get",
+    "word": "get on with",
     "pronunciation": "Æget \"Ån wID",
     "part_of_speech": "phr v",
     "definition": "to have a good relationship with sb mieć z kimś (dobre) relacje",
@@ -5110,7 +4930,7 @@
     "wrong_count": 0
   },
   {
-    "word": "get",
+    "word": "get out of",
     "pronunciation": "Æget \"aUt ´v",
     "part_of_speech": "phr v",
     "definition": "to avoid having to do sth uniknąć czegoś, wymigać się, wykręcić się",
@@ -5120,22 +4940,12 @@
     "wrong_count": 0
   },
   {
-    "word": "get",
+    "word": "get over",
     "pronunciation": "\"get ´Uv´",
     "part_of_speech": "phr v",
     "definition": "to recover from sth (an illness, a bad situation, etc) powrócić do zdrowia, dojść do siebie",
     "unit": "8b",
     "page": 10,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "hack",
-    "pronunciation": "hœk",
-    "part_of_speech": "into sth",
-    "definition": "to get illegal access to sb's computer, etc włamać się (np. do czyjegoś komputera, systemu itd.)",
-    "unit": "9b",
-    "page": 11,
     "correct_count": 0,
     "wrong_count": 0
   },
@@ -5293,7 +5103,7 @@
     "word": "wearable",
     "pronunciation": "\"we´r´b´l",
     "part_of_speech": "n",
-    "definition": "an electronic device able to be worn as a piece of clothing (np. o urządzeniu elektronicznym) nadający się do noszenia na sobie jako część ubioru 9b",
+    "definition": "an electronic device able to be worn as a piece of clothing (np. o urządzeniu elektronicznym) nadający się do noszenia na sobie jako część ubioru",
     "unit": "9b",
     "page": 11,
     "correct_count": 0,
@@ -5333,7 +5143,7 @@
     "word": "deny",
     "pronunciation": "dI\"naI",
     "part_of_speech": "v",
-    "definition": "to say that sth is not true zaprzeczać talk nonsense (phr) = to say things without meaning opowiadać bzdury 9c",
+    "definition": "to say that sth is not true zaprzeczać talk nonsense (phr) = to say things without meaning opowiadać bzdury",
     "unit": "9b",
     "page": 11,
     "correct_count": 0,
@@ -5420,7 +5230,7 @@
     "wrong_count": 0
   },
   {
-    "word": "phone",
+    "word": "phone port",
     "pronunciation": "\"f´Un pO…t",
     "part_of_speech": "n",
     "definition": "the part on a telephone where it can connect to other devices port w telefonie (interfejs, za pomocą którego można łączyć telefon z innymi urządzeniami)",
@@ -5430,7 +5240,7 @@
     "wrong_count": 0
   },
   {
-    "word": "plug",
+    "word": "plug socket",
     "pronunciation": "\"pløg ÆsÅkIt",
     "part_of_speech": "n",
     "definition": "a power point gniazdko elektryczne",
@@ -5474,16 +5284,6 @@
     "pronunciation": "´k\"septId",
     "part_of_speech": "adj",
     "definition": "recognised uznany concerned (about/for sth)",
-    "unit": "9b",
-    "page": 11,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "curious",
-    "pronunciation": "\"kjU´ri´s",
-    "part_of_speech": "about sth",
-    "definition": "very interested to learn sth ciekawy (czegoś)",
     "unit": "9b",
     "page": 11,
     "correct_count": 0,
@@ -5544,16 +5344,6 @@
     "pronunciation": "ÆInflu\"enS´l",
     "part_of_speech": "adj",
     "definition": "having a strong effect on people wpływowy",
-    "unit": "9b",
-    "page": 11,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "keen",
-    "pronunciation": "ki…n",
-    "part_of_speech": "on doing sth",
-    "definition": "eager to do sth zapalony (do czegoś)",
     "unit": "9b",
     "page": 11,
     "correct_count": 0,
@@ -5650,16 +5440,6 @@
     "wrong_count": 0
   },
   {
-    "word": "aware",
-    "pronunciation": "´\"we´",
-    "part_of_speech": "of sth",
-    "definition": "familiar (with sth) świadomy (czegoś)",
-    "unit": "10a",
-    "page": 12,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "civic",
     "pronunciation": "\"sIvIk",
     "part_of_speech": "adj",
@@ -5740,16 +5520,6 @@
     "wrong_count": 0
   },
   {
-    "word": "strive",
-    "pronunciation": "straIv",
-    "part_of_speech": "to do sth",
-    "definition": "to try hard; to make a great effort usiłować/ starać się (coś zrobić), dążyć do (zrobienia czegoś)",
-    "unit": "10a",
-    "page": 12,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "vital",
     "pronunciation": "\"vaItl",
     "part_of_speech": "adj",
@@ -5770,7 +5540,7 @@
     "wrong_count": 0
   },
   {
-    "word": "jury",
+    "word": "jury service",
     "pronunciation": "\"dZU´ri Æs‰…vIs",
     "part_of_speech": "n",
     "definition": "the obligation to be part of a judging committee that is chosen for a trial at a court of law obowiązek zasiadania w ławie przysięgłych",
@@ -5830,17 +5600,7 @@
     "wrong_count": 0
   },
   {
-    "word": "vote",
-    "pronunciation": "v´Ut",
-    "part_of_speech": "for sth",
-    "definition": "to officially express your opinion in favour of sth by marking it on a slip of paper in a building used for elections głosować (na kogoś/coś) Unit 10 – Education 10a",
-    "unit": "10a",
-    "page": 12,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "bring",
+    "word": "bring about",
     "pronunciation": "ÆbrIN ´\"baUt",
     "part_of_speech": "phr v",
     "definition": "to cause sth to happen spowodować",
@@ -5850,7 +5610,7 @@
     "wrong_count": 0
   },
   {
-    "word": "bring",
+    "word": "bring out",
     "pronunciation": "ÆbrIN \"aUt",
     "part_of_speech": "phr v",
     "definition": "to release/publish a film/ book, etc opublikować/ wydać (książkę), wypuścić (film na ekrany) bring sb (a)round \\ÆbrIN “´‘\"raUnd\\ (phr v) = 1) to return sb to consciousness; 2) to change sb's opinion 1) przywrócić kogoś do świadomości, ocucić, 2) przekonać (kogoś do czegoś)",
@@ -5860,7 +5620,7 @@
     "wrong_count": 0
   },
   {
-    "word": "bring",
+    "word": "bring up",
     "pronunciation": "ÆbrIN \"øp",
     "part_of_speech": "phr v",
     "definition": "1) to raise a child; 2) to mention a topic 1) wychowywać dziecko, 2) podnieść jakąś kwestię",
@@ -5886,7 +5646,7 @@
     "definition": "a teaching period kurs, zajęcia w szkole, lekcja comprehensive school",
     "unit": "10a",
     "page": 12,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -6010,7 +5770,7 @@
     "wrong_count": 0
   },
   {
-    "word": "nursery",
+    "word": "nursery school",
     "pronunciation": "\"n‰…s´ri sku…l",
     "part_of_speech": "n",
     "definition": "a primary school for kids between 3 and 5 years old przedszkole",
@@ -6020,7 +5780,7 @@
     "wrong_count": 0
   },
   {
-    "word": "peer",
+    "word": "peer pressure",
     "pronunciation": "\"pI´ ÆpreS´",
     "part_of_speech": "n",
     "definition": "the feeling that you have to follow the example of a group in order to be accepted by them nacisk grupy rówieśniczej performing arts college",
@@ -6050,7 +5810,7 @@
     "wrong_count": 0
   },
   {
-    "word": "school",
+    "word": "school teacher",
     "pronunciation": "\"sku…l Æti…tS´",
     "part_of_speech": "n",
     "definition": "a teacher in primary or secondary education nauczyciel (w szkole podstawowej lub średniej)",
@@ -6110,10 +5870,10 @@
     "wrong_count": 0
   },
   {
-    "word": "state",
+    "word": "state school",
     "pronunciation": "ÆsteIt \"sku…l",
     "part_of_speech": "n",
-    "definition": "a school which charges no fees for attendance szkoła państwowa 10c academic department",
+    "definition": "a school which charges no fees for attendance szkoła państwowa",
     "unit": "10b",
     "page": 13,
     "correct_count": 0,
@@ -6126,7 +5886,7 @@
     "definition": "reasonably priced; needing less money to be spent niedrogi, w rozsądnej cenie broaden my horizons (phr) = to gain knowledge and experience of sth new and different poszerzać swoje horyzonty",
     "unit": "10b",
     "page": 13,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -6140,7 +5900,7 @@
     "wrong_count": 0
   },
   {
-    "word": "gap",
+    "word": "gap year",
     "pronunciation": "\"gœp jI´",
     "part_of_speech": "n",
     "definition": "the year between finishing secondary education and starting university, in which some students choose to travel, work, etc rok przerwy przed pójściem na studia hall of residence \\ÆhO…l ´v \"rezIdens\\ (n) = a building where university/college students live akademik, dom studencki higher education \\ÆhaI´r edjU\"keIS´n\\ (n) = university/college studies wyższe studia",
@@ -6180,7 +5940,7 @@
     "wrong_count": 0
   },
   {
-    "word": "student",
+    "word": "student loan",
     "pronunciation": "\"stju…d´nt l´Un",
     "part_of_speech": "n",
     "definition": "an amount of money that a student can borrow to pay for their studies pożyczka studencka student society \\\"stju…d´nt s´ÆsaI´ti\\ (n) = an association of university/ college students and those who have graduated from the same university/college klub studencki students' union \\\"stju…d´nts Æju…nj´n\\ (n) = an association of university/college students providing them with guidance and help and representing their rights samorząd studencki",
@@ -6190,7 +5950,7 @@
     "wrong_count": 0
   },
   {
-    "word": "tuition",
+    "word": "tuition fees",
     "pronunciation": "tju\"IS´n fi…z",
     "part_of_speech": "pl n",
     "definition": "the money paid to attend a school, a university or a college czesne (opłata za pobieraną naukę) Culture 10",
@@ -6303,7 +6063,7 @@
     "word": "train",
     "pronunciation": "treIn",
     "part_of_speech": "v",
-    "definition": "to do exercises to become better at a sport trenować Unit 11 – Money Matters 11a",
+    "definition": "to do exercises to become better at a sport trenować Unit 11 – Money Matters",
     "unit": "10b",
     "page": 13,
     "correct_count": 0,
@@ -6324,16 +6084,6 @@
     "pronunciation": "\"bœNkn´Ut",
     "part_of_speech": "n",
     "definition": "a piece of paper money banknot",
-    "unit": "10b",
-    "page": 13,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "borrow",
-    "pronunciation": "\"bÅr´U",
-    "part_of_speech": "sth from sb",
-    "definition": "to get sth from sb which you will give back later pożyczać (coś od kogoś)",
     "unit": "10b",
     "page": 13,
     "correct_count": 0,
@@ -6400,7 +6150,7 @@
     "wrong_count": 0
   },
   {
-    "word": "go",
+    "word": "go in for",
     "pronunciation": "Æg´U \"In f´",
     "part_of_speech": "phr v",
     "definition": "to enter (a competition, contest, etc) wystartować (w zawodach), brać udział (w konkursie)",
@@ -6410,7 +6160,7 @@
     "wrong_count": 0
   },
   {
-    "word": "go",
+    "word": "go off",
     "pronunciation": "Æg´U \"Åf",
     "part_of_speech": "phr v",
     "definition": "1) to explode; 2) to begin making a noise; 3) (of food) to become bad 1) eksplodować, 2) włączyć się (np. o alarmie), 3) (o jedzeniu) zepsuć się",
@@ -6420,7 +6170,7 @@
     "wrong_count": 0
   },
   {
-    "word": "go",
+    "word": "go on",
     "pronunciation": "Æg´U \"Ån",
     "part_of_speech": "phr v",
     "definition": "to continue (doing sth) kontynuować, robić coś dalej go out of use (phr) = to stop being used wyjść z użytku",
@@ -6430,7 +6180,7 @@
     "wrong_count": 0
   },
   {
-    "word": "go",
+    "word": "go through",
     "pronunciation": "\"g´U Tru…",
     "part_of_speech": "phr v",
     "definition": "to read/examine in detail przeanalizować (coś)",
@@ -6440,7 +6190,7 @@
     "wrong_count": 0
   },
   {
-    "word": "go",
+    "word": "go up",
     "pronunciation": "Æg´U \"øp",
     "part_of_speech": "phr v",
     "definition": "to rise/increase (np. o cenach) wzrastać, podnosić się, iść w górę",
@@ -6470,16 +6220,6 @@
     "wrong_count": 0
   },
   {
-    "word": "lend",
-    "pronunciation": "lend",
-    "part_of_speech": "sb sth",
-    "definition": "to give sb sth for a certain time which they will give back to you later pożyczać (komuś coś)",
-    "unit": "11b",
-    "page": 14,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "mythology",
     "pronunciation": "mI\"TÅl´dZi",
     "part_of_speech": "n",
@@ -6500,50 +6240,10 @@
     "wrong_count": 0
   },
   {
-    "word": "owe",
-    "pronunciation": "´U",
-    "part_of_speech": "sth [to sb] for sth",
-    "definition": "to have to pay sb a sum of money for sth you bought być komuś winnym pieniądze (za coś)",
-    "unit": "11b",
-    "page": 14,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "pay",
-    "pronunciation": "peI",
-    "part_of_speech": "for sth",
-    "definition": "to give money in return for a product/service płacić (za coś) physical currency (phr) = money in the form of coins and banknotes pieniądze w formie monet i banknotów",
-    "unit": "11b",
-    "page": 14,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "refund",
-    "pronunciation": "rI\"fønd",
-    "part_of_speech": "sb sth",
-    "definition": "to return a sum of money to sb because they are not satisfied with a product/ service zwracać komuś pieniądze za produkt, który nie spełnia jego oczekiwań",
-    "unit": "11b",
-    "page": 14,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "spare",
+    "word": "spare change",
     "pronunciation": "Æspe´ \"tSeIndZ",
     "part_of_speech": "n",
     "definition": "coins of low value drobne na zbyciu, drobniaki",
-    "unit": "11b",
-    "page": 14,
-    "correct_count": 1,
-    "wrong_count": 0
-  },
-  {
-    "word": "spend",
-    "pronunciation": "spend",
-    "part_of_speech": "sth on sth",
-    "definition": "to use a sum of money to buy sth wydać pieniądze na coś stamp (sth with sth) \\ stœmp\\ (v) = to impress a pattern on sth znakować, stemplować coś, wytłoczyć coś (np. wzór na monecie za pomocą sztancy)",
     "unit": "11b",
     "page": 14,
     "correct_count": 0,
@@ -6573,7 +6273,7 @@
     "word": "virtually",
     "pronunciation": "\"v‰…tSu´li",
     "part_of_speech": "adv",
-    "definition": "almost tu: niemal, prawie 11b",
+    "definition": "almost tu: niemal, prawie",
     "unit": "11b",
     "page": 14,
     "correct_count": 0,
@@ -6603,7 +6303,7 @@
     "word": "hair",
     "pronunciation": "he´",
     "part_of_speech": "n",
-    "definition": "the fur on an animal’s body tu: sierść payment plan \\\"peIm´nt plœn\\ (n) = an arrangement for paying the money for a product/service that you've bought plan rozłożenia płatności, plan spłat (przy zakupie na raty) step this way (phr) = walk this way; follow me proszę iść tędy, proszę pójść za mną 11c",
+    "definition": "the fur on an animal’s body tu: sierść payment plan \\\"peIm´nt plœn\\ (n) = an arrangement for paying the money for a product/service that you've bought plan rozłożenia płatności, plan spłat (przy zakupie na raty) step this way (phr) = walk this way; follow me proszę iść tędy, proszę pójść za mną",
     "unit": "11b",
     "page": 14,
     "correct_count": 0,
@@ -6630,7 +6330,7 @@
     "wrong_count": 0
   },
   {
-    "word": "bank",
+    "word": "bank account",
     "pronunciation": "\"bœNk ´ÆkaUnt",
     "part_of_speech": "n",
     "definition": "an arrangement with a bank in which the bank keeps your money and you can put in and take out money at will konto bankowe change (sth into sth)",
@@ -6650,7 +6350,7 @@
     "wrong_count": 0
   },
   {
-    "word": "direct",
+    "word": "direct debit",
     "pronunciation": "daIÆrekt \"debIt",
     "part_of_speech": "n",
     "definition": "an arrangement with a bank in which the bank pays your electricity/ phone/water bills, etc directly from your bank account stałe zlecenie przelewu (z konta bankowego) exchange rate \\Iks\"tSeIndZ reIt\\ (n) = the value of a specific currency when changed into another currency kurs wymiany walut flat broke (idm) = having no money at all kompletnie spłukany, bez grosza",
@@ -6670,7 +6370,7 @@
     "wrong_count": 0
   },
   {
-    "word": "interest",
+    "word": "interest rate",
     "pronunciation": "\"IntrIst reIt",
     "part_of_speech": "n",
     "definition": "the percentage that shows how much money you'll have to pay back to the bank when you borrow money stopa procentowa",
@@ -6750,16 +6450,6 @@
     "wrong_count": 0
   },
   {
-    "word": "save",
-    "pronunciation": "seIv",
-    "part_of_speech": "for sth",
-    "definition": "to put money aside in order to spend it on sth later oszczędzać (na coś) spa treatment \\\"spA… Ætritm´nt\\ (n) = the process of relaxation and rejuvenation in a health spa leczenie uzdrowiskowe tailor-made outfitting (phr) = making clothes especially for sb szycie ubrań na miarę upmarket store (phr) = a shop for rich people sklep przeznaczony dla zamożnej klienteli withdraw (sth from sth)",
-    "unit": "12a",
-    "page": 15,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "ambitious",
     "pronunciation": "œm\"bIS´s",
     "part_of_speech": "adj",
@@ -6780,7 +6470,7 @@
     "wrong_count": 0
   },
   {
-    "word": "car",
+    "word": "car boot sale",
     "pronunciation": "ÆkA… \"bu…t ÆseIl",
     "part_of_speech": "n",
     "definition": "an outdoor event in which people sell items that they don’t need from the back of their car sprzedaż rzeczy prosto z bagażników aut",
@@ -6790,7 +6480,7 @@
     "wrong_count": 0
   },
   {
-    "word": "charity",
+    "word": "charity shop",
     "pronunciation": "\"tSœr´ti SÅp",
     "part_of_speech": "n",
     "definition": "a shop that sells second-hand items which people offer, in order to raise money for those in need sklep z rzeczami używanymi (dochód przenaczony jest zwykle na cele charytatywne) come rain or shine (idm) = whatever happens bez względu na okoliczności/ pogodę",
@@ -6810,20 +6500,10 @@
     "wrong_count": 0
   },
   {
-    "word": "flea",
+    "word": "flea market",
     "pronunciation": "\"fli… mA…kIt",
     "part_of_speech": "n",
     "definition": "an open market where second-hand goods are sold pchli targ",
-    "unit": "12a",
-    "page": 15,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "haggle",
-    "pronunciation": "\"hœg´l",
-    "part_of_speech": "with sb",
-    "definition": "to argue with sb about the price of an item targować się (z kimś)",
     "unit": "12a",
     "page": 15,
     "correct_count": 0,
@@ -6850,7 +6530,7 @@
     "wrong_count": 0
   },
   {
-    "word": "jumble",
+    "word": "jumble sale",
     "pronunciation": "\"dZømb´l seIl",
     "part_of_speech": "n",
     "definition": "the sale of used clothes, toys, books, etc in order to raise money for a charity wyprzedaż rzeczy używanych (zwykle na cele dobroczynne)",
@@ -6890,37 +6570,17 @@
     "wrong_count": 0
   },
   {
-    "word": "raise",
-    "pronunciation": "reIz",
-    "part_of_speech": "money",
-    "definition": "to collect (money) zbierać (pieniądze)",
-    "unit": "12a",
-    "page": 15,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "regular",
     "pronunciation": "\"regjUl´",
     "part_of_speech": "n",
     "definition": "sb who often visits a place stały klient",
     "unit": "12a",
     "page": 15,
-    "correct_count": 1,
-    "wrong_count": 0
-  },
-  {
-    "word": "root",
-    "pronunciation": "ru…t",
-    "part_of_speech": "through sth",
-    "definition": "to search for sth through a number of items grzebać w czymś (np. w różnych towarach wystawionych na sprzedaż), przeszukać coś",
-    "unit": "12a",
-    "page": 15,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "set",
+    "word": "set up",
     "pronunciation": "Æset \"øp",
     "part_of_speech": "phr v",
     "definition": "to arrange sth tu: ustawić",
@@ -6953,27 +6613,17 @@
     "word": "wares",
     "pronunciation": "we´z",
     "part_of_speech": "pl n",
-    "definition": "items sold in an open market towary Unit 12 – Earth: SOS 12a",
+    "definition": "items sold in an open market towary Unit 12 – Earth: SOS",
     "unit": "12a",
     "page": 15,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "acid",
+    "word": "acid rain",
     "pronunciation": "ÆœsId \"reIn",
     "part_of_speech": "n",
     "definition": "rain polluted by harmful chemical substances kwaśny deszcz",
-    "unit": "12a",
-    "page": 15,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
-    "word": "adapt",
-    "pronunciation": "´\"dœpt",
-    "part_of_speech": "to sth",
-    "definition": "to change in order to fit particular conditions adaptować, przystosowywać się (do czegoś)",
     "unit": "12a",
     "page": 15,
     "correct_count": 0,
@@ -7050,16 +6700,6 @@
     "wrong_count": 0
   },
   {
-    "word": "expose",
-    "pronunciation": "Ik\"sp´Uz",
-    "part_of_speech": "sb to sth",
-    "definition": "to put sb in a dangerous situation and leave them unprotected wystawiać, narażać, eksponować (kogoś na coś)",
-    "unit": "12a",
-    "page": 15,
-    "correct_count": 0,
-    "wrong_count": 0
-  },
-  {
     "word": "fog",
     "pronunciation": "fÅg",
     "part_of_speech": "n",
@@ -7070,7 +6710,7 @@
     "wrong_count": 0
   },
   {
-    "word": "gas",
+    "word": "gas well",
     "pronunciation": "\"gœs wel",
     "part_of_speech": "n",
     "definition": "a deep hole in the ground from which we obtain natural gas szyb wiertniczy służący do wydobywania gazu",
@@ -7096,7 +6736,7 @@
     "definition": "to affect sb's way of thinking and behaviour wpływać na",
     "unit": "12a",
     "page": 15,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -7106,7 +6746,7 @@
     "definition": "to communicate komunikować się z kimś, nawiązywać kontakty",
     "unit": "12a",
     "page": 15,
-    "correct_count": 1,
+    "correct_count": 0,
     "wrong_count": 0
   },
   {
@@ -7120,7 +6760,7 @@
     "wrong_count": 0
   },
   {
-    "word": "mating",
+    "word": "mating call",
     "pronunciation": "\"meItIN kO…l",
     "part_of_speech": "n",
     "definition": "the sound that a male animal makes to attract a female one zew godowy migration route \\maI\"greIS´n ru…t\\ (n) = the way that a large number of animals follow when travelling from one place to another szlak migracji zwierząt",
@@ -7150,7 +6790,7 @@
     "wrong_count": 0
   },
   {
-    "word": "noise",
+    "word": "noise barrier",
     "pronunciation": "\"nOIz Æbœri´",
     "part_of_speech": "n",
     "definition": "a sound wall ekran dzwiękochłonny",
@@ -7160,7 +6800,7 @@
     "wrong_count": 0
   },
   {
-    "word": "oil",
+    "word": "oil spill",
     "pronunciation": "\"OIl spIl",
     "part_of_speech": "n",
     "definition": "an amount of oil that has leaked into the sea by accident wyciek ropy",
@@ -7170,7 +6810,7 @@
     "wrong_count": 0
   },
   {
-    "word": "plastic",
+    "word": "plastic waste",
     "pronunciation": "ÆplœstIk \"weIst",
     "part_of_speech": "n",
     "definition": "unwanted plastic materials thrown away odpady plastikowe",
@@ -7200,7 +6840,7 @@
     "wrong_count": 0
   },
   {
-    "word": "put",
+    "word": "put in",
     "pronunciation": "ÆpUt \"In",
     "part_of_speech": "phr v",
     "definition": "to give time or effort to sth włożyć (tu: wysiłek), poświęcać czas",
@@ -7210,7 +6850,7 @@
     "wrong_count": 0
   },
   {
-    "word": "put",
+    "word": "put off",
     "pronunciation": "ÆpUt \"Åf",
     "part_of_speech": "phr v",
     "definition": "1) to postpone; 2) to make sb dislike sth 1) odłożyć na później, 2) zniechęcać kogoś do czegoś",
@@ -7220,7 +6860,7 @@
     "wrong_count": 0
   },
   {
-    "word": "put",
+    "word": "put up",
     "pronunciation": "ÆpUt \"øp",
     "part_of_speech": "phr v",
     "definition": "1) to increase the price or value of sth; 2) to build sth 1) zwiększyć cenę lub wartość czegoś, 2) wznieść, zbudować coś",
@@ -7230,7 +6870,7 @@
     "wrong_count": 0
   },
   {
-    "word": "put",
+    "word": "put up with",
     "pronunciation": "ÆpUt \"øp wID",
     "part_of_speech": "phr v",
     "definition": "to tolerate sth tolerować (kogoś/coś), wytrzymywać z (kimś/ czymś)",
@@ -7260,7 +6900,7 @@
     "wrong_count": 0
   },
   {
-    "word": "sleep",
+    "word": "sleep pattern",
     "pronunciation": "\"sli…p pœt´n",
     "part_of_speech": "n",
     "definition": "a person's or animal's normal sleeping schedule dobowy rytm snu (u ludzi i zwierząt)",
@@ -7303,7 +6943,7 @@
     "word": "vital",
     "pronunciation": "\"vaItl",
     "part_of_speech": "adj",
-    "definition": "very important istotny, bardzo ważny 12b",
+    "definition": "very important istotny, bardzo ważny",
     "unit": "12b",
     "page": 16,
     "correct_count": 0,
@@ -7330,7 +6970,7 @@
     "wrong_count": 0
   },
   {
-    "word": "fishing",
+    "word": "fishing line",
     "pronunciation": "\"fISIN laIn",
     "part_of_speech": "n",
     "definition": "a very strong thread for catching fish żyłka wędkarska",
@@ -7376,21 +7016,11 @@
     "definition": "a person walking past sb or sth przechodzień",
     "unit": "12b",
     "page": 16,
-    "correct_count": 1,
-    "wrong_count": 0
-  },
-  {
-    "word": "remind",
-    "pronunciation": "rI\"maInd",
-    "part_of_speech": "sb of sth",
-    "definition": "to cause sb to think of sth because of a similarity przypominać (komuś o czymś)",
-    "unit": "12b",
-    "page": 16,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "spider",
+    "word": "spider web",
     "pronunciation": "\"spaId´ web",
     "part_of_speech": "n",
     "definition": "the net of thin threads made by a spider sieć pajęcza, pajęczyna",
@@ -7400,7 +7030,7 @@
     "wrong_count": 0
   },
   {
-    "word": "tree",
+    "word": "tree trunk",
     "pronunciation": "\"tri… trøNk",
     "part_of_speech": "n",
     "definition": "the body of a tree pień drzewa",
@@ -7413,14 +7043,14 @@
     "word": "wander",
     "pronunciation": "\"wÅnd´",
     "part_of_speech": "v",
-    "definition": "to walk around in a relaxed way wędrować, włóczyć się, szwendać się 12c be associated with sth (phr) = to have a certain connection to sth być związanym z (kimś/czymś) biodegradable",
+    "definition": "to walk around in a relaxed way wędrować, włóczyć się, szwendać się",
     "unit": "12b",
     "page": 16,
     "correct_count": 0,
     "wrong_count": 0
   },
   {
-    "word": "break",
+    "word": "break down",
     "pronunciation": "ÆbreIk \"daUn",
     "part_of_speech": "phr v",
     "definition": "to decompose gradually rozkładać się, gnić breathing problems \\\"bri…DIN ÆprÅbl´mz\\ (pl n) = difficulty in taking air in problemy z oddychaniem",
@@ -7440,7 +7070,7 @@
     "wrong_count": 0
   },
   {
-    "word": "factory",
+    "word": "factory filter",
     "pronunciation": "\"fœkt´ri ÆfIlt´",
     "part_of_speech": "n",
     "definition": "an item placed in factory chimneys in order to remove harmful substances from the smoke emitted through them filtr w kominie fabrycznym (zatrzymujący szkodliwe substancje)",
@@ -7470,7 +7100,7 @@
     "wrong_count": 0
   },
   {
-    "word": "litter",
+    "word": "litter bin",
     "pronunciation": "\"lIt´ bIn",
     "part_of_speech": "n",
     "definition": "a container in a public place for putting rubbish in pojemnik na śmieci",
@@ -7570,7 +7200,7 @@
     "wrong_count": 0
   },
   {
-    "word": "shop",
+    "word": "shop around",
     "pronunciation": "ÆSÅp ´\"raUnd",
     "part_of_speech": "phr v",
     "definition": "to visit different shops to compare the price and quality of a similar product porównywać ceny i jakość produktów w różnych sklepach splash out (on sth) \\ÆsplœS \"aUt\\ (phr v) = to spend money (on sth) without worrying about the amount rozrzutnie wydawać na coś pieniądze Public Speaking Skills D burst out laughing (phr) = to suddenly start laughing wybuchnąć śmiechem",
@@ -7590,7 +7220,7 @@
     "wrong_count": 0
   },
   {
-    "word": "door",
+    "word": "door knob",
     "pronunciation": "\"dO… nÅb",
     "part_of_speech": "n",
     "definition": "a round object on a door which you turn in order to open the door gałka u drzwi (rodzaj klamki)",
@@ -7610,7 +7240,7 @@
     "wrong_count": 0
   },
   {
-    "word": "ice",
+    "word": "ice breaker",
     "pronunciation": "\"aIs ÆbreIk´",
     "part_of_speech": "n",
     "definition": "an act that makes people feel comfortable with each other when they meet for the first time gest powodujący rozluźnienie atmosfery podczas pierwszego spotkania",
@@ -7630,7 +7260,7 @@
     "wrong_count": 0
   },
   {
-    "word": "study",
+    "word": "study load",
     "pronunciation": "\"stødi l´Ud",
     "part_of_speech": "n",
     "definition": "the large amount of work you have to do and the time you have to spend in order to learn each subject at school, each module at a university, etc obciążenie nauką (w szkole, na uczelni itd.) CLIL A Geography",
@@ -8030,7 +7660,7 @@
     "wrong_count": 0
   },
   {
-    "word": "debit",
+    "word": "debit card",
     "pronunciation": "\"debIt kA…d",
     "part_of_speech": "n",
     "definition": "a plastic card for buying goods and services with money withdrawn from your bank account karta debetowa financial crisis (phr) = a problematic situation relating to money kryzys finansowy",

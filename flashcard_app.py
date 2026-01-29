@@ -16,6 +16,7 @@ class FlashcardApp:
         self.is_flipped = False
         self.selected_units = []
         self.current_file = None
+        self.current_series = None
         self.session_active = False
         self.session_start_time = None
         self.timer_job = None
@@ -51,8 +52,8 @@ class FlashcardApp:
         btn_row = tk.Frame(left_panel, bg='white')
         btn_row.pack(anchor='w', pady=(0, 5))
         
-        self.select_btn = tk.Button(btn_row, text="Wybierz podręcznik", 
-                                    command=self.select_json,
+        self.select_btn = tk.Button(btn_row, text="Wybierz podrecznik", 
+                                    command=self.select_series,
                                     font=('Arial', 10),
                                     bg='white', fg='black',
                                     relief='solid', bd=1,
@@ -100,14 +101,14 @@ class FlashcardApp:
                                    relief='solid', bd=2)
         self.card_frame.place(relx=0.5, rely=0.5, anchor=tk.CENTER, width=550, height=250)
         
-        self.card = tk.Label(self.card_frame, text="Wybierz podręcznik aby rozpocząć", 
+        self.card = tk.Label(self.card_frame, text="Wybierz podrecznik aby rozpoczac", 
                            font=('Arial', 24),
                            bg='white', fg='black',
                            wraplength=500,
                            justify=tk.CENTER)
         self.card.place(relx=0.5, rely=0.5, anchor=tk.CENTER)
         
-        self.flip_btn = tk.Button(self.card_container, text="Przewróć", 
+        self.flip_btn = tk.Button(self.card_container, text="Przewroc", 
                                  command=self.flip_card,
                                  font=('Arial', 11),
                                  bg='white', fg='black',
@@ -151,7 +152,7 @@ class FlashcardApp:
         footer_frame = tk.Frame(right_panel, bg='white')
         footer_frame.pack(side=tk.BOTTOM, fill=tk.X, padx=0, pady=(5, 10))
         
-        author_label = tk.Label(footer_frame, text="Wojciech Hałasa", 
+        author_label = tk.Label(footer_frame, text="Wojciech Halasa", 
                                font=('Arial', 14, 'italic'), 
                                bg='white', fg='black')
         author_label.pack(side=tk.RIGHT, padx=10)
@@ -162,30 +163,88 @@ class FlashcardApp:
             new_width = min(600, max(400, width - 100))
             self.card_frame.place_configure(width=new_width)
             self.card.config(wraplength=new_width - 50)
-        
-    def select_json(self):
+    
+    def select_series(self):
         script_dir = os.path.dirname(__file__)
         data_dir = os.path.join(script_dir, "data")
         
         if not os.path.exists(data_dir):
-            messagebox.showerror("Błąd", "Folder data/ nie istnieje!")
+            messagebox.showerror("Blad", "Folder data/ nie istnieje!")
             return
-            
-        json_files = [f for f in os.listdir(data_dir) if f.endswith('_parsed.json')]
         
-        if not json_files:
-            messagebox.showwarning("Brak plików", "Nie znaleziono plików JSON")
+        series = []
+        for item in os.listdir(data_dir):
+            item_path = os.path.join(data_dir, item)
+            if os.path.isdir(item_path):
+                json_dir = os.path.join(item_path, "json")
+                if os.path.exists(json_dir):
+                    json_files = [f for f in os.listdir(json_dir) if f.endswith('.json')]
+                    if json_files:
+                        series.append(item)
+        
+        if not series:
+            messagebox.showwarning("Brak serii", "Nie znaleziono zadnych serii podrecznikow")
             return
         
         select_win = tk.Toplevel(self.root)
-        select_win.title("Wybierz podręcznik")
+        select_win.title("Wybierz serie")
         select_win.geometry("500x400")
         select_win.configure(bg='white')
         
         container = tk.Frame(select_win, bg='white')
         container.pack(fill=tk.BOTH, expand=True, padx=30, pady=30)
         
-        tk.Label(container, text="Podręczniki:", 
+        tk.Label(container, text="Serie podrecznikow:", 
+                font=('Arial', 12, 'bold'), 
+                bg='white',
+                anchor='w').pack(anchor='w', pady=(0, 10))
+        
+        listbox = tk.Listbox(container, font=('Arial', 10), 
+                            relief='solid', bd=1)
+        listbox.pack(fill=tk.BOTH, expand=True, pady=(0, 15))
+        
+        series_display = {
+            "new_enterprise": "New Enterprise",
+            "english_file": "English File"
+        }
+        
+        for s in series:
+            display_name = series_display.get(s, s.replace('_', ' ').title())
+            listbox.insert(tk.END, display_name)
+        
+        def load():
+            sel = listbox.curselection()
+            if sel:
+                series_key = series[sel[0]]
+                self.select_file_from_series(series_key)
+                select_win.destroy()
+        
+        tk.Button(container, text="Wybierz", command=load,
+                 bg='white', fg='black', font=('Arial', 10),
+                 relief='solid', bd=1,
+                 padx=20, pady=6,
+                 cursor='hand2').pack(anchor='w')
+    
+    def select_file_from_series(self, series_key):
+        script_dir = os.path.dirname(__file__)
+        data_dir = os.path.join(script_dir, "data")
+        json_dir = os.path.join(data_dir, series_key, "json")
+        
+        json_files = sorted([f for f in os.listdir(json_dir) if f.endswith('.json')])
+        
+        if not json_files:
+            messagebox.showwarning("Brak plikow", f"Brak plikow JSON dla serii {series_key}")
+            return
+        
+        select_win = tk.Toplevel(self.root)
+        select_win.title("Wybierz poziom")
+        select_win.geometry("500x500")
+        select_win.configure(bg='white')
+        
+        container = tk.Frame(select_win, bg='white')
+        container.pack(fill=tk.BOTH, expand=True, padx=30, pady=30)
+        
+        tk.Label(container, text="Dostepne poziomy:", 
                 font=('Arial', 12, 'bold'), 
                 bg='white',
                 anchor='w').pack(anchor='w', pady=(0, 10))
@@ -195,33 +254,34 @@ class FlashcardApp:
         listbox.pack(fill=tk.BOTH, expand=True, pady=(0, 15))
         
         for f in json_files:
-            listbox.insert(tk.END, f)
+            listbox.insert(tk.END, f.replace('_parsed.json', ''))
         
         def load():
             sel = listbox.curselection()
             if sel:
                 file = json_files[sel[0]]
-                self.load_json(os.path.join(data_dir, file))
+                self.load_json(os.path.join(json_dir, file), series_key)
                 select_win.destroy()
         
-        tk.Button(container, text="Załaduj", command=load,
+        tk.Button(container, text="Zaladuj", command=load,
                  bg='white', fg='black', font=('Arial', 10),
                  relief='solid', bd=1,
                  padx=20, pady=6,
                  cursor='hand2').pack(anchor='w')
     
-    def load_json(self, filepath):
+    def load_json(self, filepath, series_key):
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 self.words = json.load(f)
             
             self.current_file = filepath
-            filename = os.path.basename(filepath)
+            self.current_series = series_key
+            filename = os.path.basename(filepath).replace('_parsed.json', '')
             self.file_label.config(text=filename)
             self.show_unit_selection()
             
         except Exception as e:
-            messagebox.showerror("Błąd", f"Nie można załadować:\n{e}")
+            messagebox.showerror("Blad", f"Nie mozna zaladowac:\n{e}")
     
     def natural_sort_key(self, unit):
         parts = re.findall(r'\d+|\D+', str(unit))
@@ -234,8 +294,7 @@ class FlashcardApp:
         units_raw = set(w.get('unit', 'Unknown') for w in self.words)
         units = sorted(units_raw, key=self.natural_sort_key)
         
-
-        tk.Label(self.control_frame, text="Wybierz działy:", 
+        tk.Label(self.control_frame, text="Wybierz dzialy:", 
                 font=('Arial', 11, 'bold'), 
                 bg='white',
                 anchor='w').pack(anchor='w', pady=(0, 8))
@@ -251,7 +310,7 @@ class FlashcardApp:
                  padx=8, pady=3,
                  cursor='hand2').pack(side=tk.LEFT, padx=(0, 4))
         
-        tk.Button(quick_frame, text="Żadne", 
+        tk.Button(quick_frame, text="Zadne", 
                  command=self.select_none,
                  font=('Arial', 8),
                  bg='white', fg='black',
@@ -259,7 +318,7 @@ class FlashcardApp:
                  padx=8, pady=3,
                  cursor='hand2').pack(side=tk.LEFT, padx=(0, 4))
         
-        tk.Button(quick_frame, text="Odwróć", 
+        tk.Button(quick_frame, text="Odwroc", 
                  command=self.invert_selection,
                  font=('Arial', 8),
                  bg='white', fg='black',
@@ -267,7 +326,6 @@ class FlashcardApp:
                  padx=8, pady=3,
                  cursor='hand2').pack(side=tk.LEFT)
         
-
         canvas_frame = tk.Frame(self.control_frame, bg='white', 
                                relief='solid', bd=1)
         canvas_frame.pack(anchor='w', fill=tk.BOTH, expand=True, pady=(0, 12))
@@ -295,6 +353,8 @@ class FlashcardApp:
         
         row = 0
         
+        unit_label = "Unit"
+        
         for unit in units:
             var = tk.BooleanVar(value=False)
             self.unit_vars[unit] = var
@@ -302,7 +362,7 @@ class FlashcardApp:
             count = sum(1 for w in self.words if w.get('unit') == unit)
             
             cb = tk.Checkbutton(cb_frame, 
-                               text=f"Unit {unit} ({count})", 
+                               text=f"{unit_label} {unit} ({count})", 
                                variable=var,
                                font=('Arial', 9),
                                bg='white',
@@ -333,7 +393,6 @@ class FlashcardApp:
         for var in self.unit_vars.values():
             var.set(not var.get())
     
-
     def toggle_session(self):
         if not self.session_active:
             self.start_learning()
@@ -344,7 +403,7 @@ class FlashcardApp:
         self.selected_units = [u for u, v in self.unit_vars.items() if v.get()]
         
         if not self.selected_units:
-            messagebox.showwarning("Uwaga", "Wybierz przynajmniej jeden dział!")
+            messagebox.showwarning("Uwaga", "Wybierz przynajmniej jeden dzial!")
             return
         
         self.session_active = True
@@ -407,7 +466,7 @@ class FlashcardApp:
         self.current_word = self.get_next_word()
         
         if not self.current_word:
-            messagebox.showinfo("Koniec", "Brak słówek!")
+            messagebox.showinfo("Koniec", "Brak slowek!")
             return
         
         self.is_flipped = False
@@ -422,11 +481,20 @@ class FlashcardApp:
         self.is_flipped = not self.is_flipped
         
         if self.is_flipped:
-            pron = self.current_word.get('pronunciation', '')
-            pos = self.current_word.get('part_of_speech', '')
+            phonetic = self.current_word.get('phonetic', '')
+            pronunciation = self.current_word.get('pronunciation', '')
             definition = self.current_word.get('definition', '')
             
-            text = f"{pron}\n({pos})\n\n{definition}"
+            parts = []
+            if phonetic:
+                parts.append(f"/{phonetic}/")
+            elif pronunciation:
+                parts.append(f"\\{pronunciation}\\")
+            
+            if definition:
+                parts.append(f"\n{definition}")
+            
+            text = '\n'.join(parts) if parts else "Brak definicji"
             self.card.config(text=text, font=('Arial', 16), justify=tk.LEFT)
         else:
             self.card.config(text=self.current_word['word'], 
@@ -453,14 +521,14 @@ class FlashcardApp:
                 with open(self.current_file, 'w', encoding='utf-8') as f:
                     json.dump(self.words, f, ensure_ascii=False, indent=2)
             except Exception as e:
-                print(f"Błąd zapisu: {e}")
+                print(f"Blad zapisu: {e}")
     
     def update_stats(self):
         total = len([w for w in self.words if w.get('unit') in self.selected_units])
         correct = sum(w.get('correct_count', 0) for w in self.words if w.get('unit') in self.selected_units)
         wrong = sum(w.get('wrong_count', 0) for w in self.words if w.get('unit') in self.selected_units)
         
-        self.stats_label.config(text=f"Słówek w działach: {total} | Poprawne: {correct} | Błędne: {wrong}")
+        self.stats_label.config(text=f"Slowek w dzialach: {total} | Poprawne: {correct} | Bledne: {wrong}")
 
 if __name__ == "__main__":
     root = tk.Tk()
