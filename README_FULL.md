@@ -19,6 +19,9 @@ Offline'owa aplikacja desktopowa do nauki słownictwa z plików PDF poprzez inte
 - **Wayback Machine** - `archive.org/web/` → PDF export
 - **Wyszukaj**: `wordlist`, `glossary`, `wortschatz`, itp.
 
+Uwaga: Parsery działają wyłącznie na darmowych wordlistach (PDF), nie na treści podręczników.
+By inny podręcznik ( nie wymieniony w oficjalnych źródłach zadziałał będzie potrzebny do niego nowy parser pdf -> json )
+
 ## 📖 Instrukcja obsługi
 
 ### Aplikacja (flashcard_app.py)
