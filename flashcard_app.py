@@ -481,21 +481,27 @@ class FlashcardApp:
         self.is_flipped = not self.is_flipped
         
         if self.is_flipped:
-            phonetic = self.current_word.get('phonetic', '')
             pronunciation = self.current_word.get('pronunciation', '')
+            part_of_speech = self.current_word.get('part_of_speech', '')
             definition = self.current_word.get('definition', '')
+            translation = self.current_word.get('translation', '')
             
             parts = []
-            if phonetic:
-                parts.append(f"/{phonetic}/")
-            elif pronunciation:
-                parts.append(f"\\{pronunciation}\\")
+            
+            if pronunciation:
+                parts.append(f"/{pronunciation}/")
+            
+            if part_of_speech:
+                parts.append(f"({part_of_speech})")
             
             if definition:
                 parts.append(f"\n{definition}")
             
-            text = '\n'.join(parts) if parts else "Brak definicji"
-            self.card.config(text=text, font=('Arial', 16), justify=tk.LEFT)
+            if translation:
+                parts.append(f"→ {translation}")
+            
+            text = '\n'.join(parts) if parts else "Brak informacji"
+            self.card.config(text=text, font=('Arial', 14), justify=tk.LEFT)
         else:
             self.card.config(text=self.current_word['word'], 
                            font=('Arial', 36, 'bold'),

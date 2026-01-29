@@ -1,53 +1,116 @@
 # Fiszki - Quick Reference
 
-## Szybki start
+Szybkie instrukcje dla zainteresowanych.
+
+## 🚀 Szybki start
 
 ```bash
+# Uruchom aplikację
 python flashcard_app.py
+
+# Kliknij: Wybierz podręcznik → Poziom → Zaznacz działy → Start
 ```
 
-Wybierz podręcznik → Poziom → Działy → Start
+## 📖 Parsowanie PDF-ów
 
-## Struktura plików
+### Master Parser (najwygodniej)
+```bash
+python master_parser.py
+```
+Wybierz serię i opcję (1, 2, lub 3 - FULL AUTO)
+
+### Bezpośrednio
+```bash
+# New Enterprise - automatycznie
+python parsers/new_enterprise_parser.py --full-auto
+
+# English File - automatycznie
+python parsers/english_file_parser.py --full-auto
+
+# New Enterprise - interaktywnie (z pytaniami)
+python parsers/new_enterprise_parser.py
+```
+
+## 📁 Katalogi
 
 ```
 fiszki/
-├── flashcard_app.py
+├── flashcard_app.py              ← Aplikacja
+├── master_parser.py              ← Zarządca parserów
+├── README.md                     ← Pełna dokumentacja
+│
 ├── data/
-│   └── {seria}/
-│       └── json/
-│           └── {poziom}_parsed.json
+│   ├── new_enterprise/
+│   │   ├── pdf/                  ← Dodaj PDF-y tu
+│   │   └── json/                 ← Wyniki (automatycznie)
+│   │
+│   └── english_file/
+│       ├── pdf/                  ← Dodaj PDF-y tu
+│       └── json/                 ← Wyniki (automatycznie)
+│
 └── parsers/
-    └── master_parser.py
+    ├── new_enterprise_parser.py
+    └── english_file_parser.py
 ```
 
-## Komendy
-
-### Uruchomienie aplikacji
-```bash
-python flashcard_app.py
-```
-
-### Parsowanie PDF
-```bash
-python parsers/master_parser.py
-```
-
-### Full Auto (wszystkie serie)
-```bash
-python parsers/master_parser.py
-# Opcja 3
-```
-
-## Format JSON
+## 📋 Format JSON
 
 ```json
 [
   {
-    "word": "słowo",
-    "unit": "1",
+    "word": "hello",
+    "pronunciation": "həˈləʊ",
+    "part_of_speech": "n",
+    "definition": "greeting",
+    "translation": "cześć",
+    "unit": "1a",
+    "page": 5,
     "correct_count": 0,
     "wrong_count": 0
+  }
+]
+```
+
+**Wymagane:** word, unit, correct_count, wrong_count  
+**Opcjonalne:** pronunciation, part_of_speech, definition, translation, page
+
+## 🎯 Instrukcja aplikacji
+
+1. Kliknij **"Wybierz podręcznik"**
+2. Wybierz serię (New Enterprise / English File)
+3. Wybierz plik z poziomem (A1, A2, B1, etc.)
+4. **Zaznacz** działy które chcesz powtarzać
+5. Kliknij **"Start"** i ucz się!
+
+**Podczas sesji:**
+- Czytasz słówko
+- Kliknij **"Przewróć"** aby zobaczyć wymowę, definicję, tłumaczenie
+- Oceń siebie: **"Znam"** lub **"Nie znam"**
+- Postęp jest automatycznie zapisywany
+
+## ⚙️ Waga powtórek
+
+```
+waga = max(1, 10 + (błędy × 2) - poprawne)
+```
+
+Trudne słówka pojawiają się częściej!
+
+## 🐛 Problemy
+
+| Problem | Rozwiązanie |
+|---------|------------|
+| "Brak serii" | Dodaj PDF-y i sparsuj: `python master_parser.py` |
+| "No module 'fitz'" | `pip install PyMuPDF` |
+| Parser nie widzi PDF | Sprawdź: `data/<seria>/pdf/` zawiera `*.pdf` |
+| Znaki źle się wyświetlają | JSON jest UTF-8 (domyślnie) |
+| Aplikacja się nie uruchamia | Sprawdź Tkinter: `python -m tkinter` |
+
+## 📚 Wymagania
+
+- Python 3.10+
+- Tkinter (domyślnie)
+- PyMuPDF (opcjonalnie)
   }
 ]
 ```

@@ -1,257 +1,286 @@
-# Fiszki
+# Fiszki - Aplikacja do nauki słownictwa
 
-Prosta aplikacja desktopowa do nauki słownictwa z plików JSON.  
-Offline, bez kont, bez śledzenia, bez rozpraszaczy.
+Prosta, offline'owa aplikacja desktopowa do nauki słownictwa z plików JSON.  
+**Bez kont. Bez logowania. Bez śledzenia. Bez rozpraszaczy.**
 
-Projekt opiera się na założeniu, że **każdy podręcznik posiada jednolity (uniform) format listy słówek**.  
-Parsery nie próbują „rozumieć PDF-a jako całości”, tylko **wydobywają tekst i parsują powtarzalne wzorce wpisów charakterystyczne dla danej serii**.
+## ✨ Cechy
 
----
+- 📚 Nauka słownictwa w formie fiszek
+- 🔌 W pełni offline - działa bez internetu
+- 🔒 Żadne dane nie opuszczają twojego komputera
+- 📊 System powtórek oparty na liczbie błędów
+- 📖 Obsługa wielu serii podręczników (New Enterprise, English File, itp.)
+- 🎯 Wybór konkretnych działów/sekcji do nauki
+- ⏱️ Licznik czasu sesji
+- 💾 Automatyczne zapisywanie postępu
 
-## 🚀 Funkcje
+## 📋 Wymagania
 
-- Nauka słownictwa w formie fiszek  
-- Tryb offline  
-- Brak kont i logowania  
-- System powtórek oparty o liczbę błędów  
-- Obsługa wielu serii podręczników  
-- Parsery PDF (opcjonalne, jednorazowe)
+- **Python 3.10+**
+- **Tkinter** (zazwyczaj domyślnie w instalacji Pythona)
+- **PyMuPDF** (`fitz`) - tylko jeśli będziesz parsować PDF-y
 
----
+## 🚀 Szybki start
 
-## 🧩 Wymagania
-
-- Python **3.10+**
-- Tkinter (zazwyczaj w standardowej dystrybucji Pythona)
-- PyMuPDF (`pip install PyMuPDF`) – **tylko jeśli używasz parserów PDF**
-
----
-
-## 📦 Instalacja
+### 1. Instalacja
 
 ```bash
+# Sklonuj repozytorium
 git clone <repo-url>
 cd fiszki
+
+# Zainstaluj zależności (opcjonalne - tylko dla parserów)
+pip install PyMuPDF
+```
+
+### 2. Uruchomienie aplikacji
+
+```bash
 python flashcard_app.py
+```
+
+## 📖 Instrukcja obsługi
+
+### Aplikacja (flashcard_app.py)
+
+1. **Wybierz podręcznik** - Kliknij "Wybierz podręcznik" aby wybrać serię (np. New Enterprise)
+2. **Wybierz poziom** - Zaznacz plik z konkretnym poziomem (A1, A2, B1, etc.)
+3. **Wybierz działy** - Zaznacz które działy chcesz powtarzać
+4. **Rozpocznij naukę** - Kliknij "Start" aby rozpocząć sesję
+
+**Podczas nauki:**
+- Przeczytaj słówko na karcie
+- Kliknij "Przewróć" aby zobaczyć wymowę, definicję i tłumaczenie
+- Ocen siebie: "Znam" lub "Nie znam"
+- Aplikacja zapamiętuje twoje błędy i częściej pokazuje trudne słówka
+- Twój postęp jest automatycznie zapisywany
+
+### Parsery - Konwersja PDF → JSON
+
+Jeśli masz PDF-y z podręcznikami, możesz je sparsować na JSON.
+
+#### Master Parser (główny interfejs)
+
+```bash
+python master_parser.py
+```
+
+Wybierz opcję:
+1. **New Enterprise** - Parsuj PDF-y z tej serii
+2. **English File** - Parsuj PDF-y z tej serii
+3. **FULL AUTO** - Parsuj wszystkie PDF-y automatycznie
+4. **Wyjście**
+
+#### Parser New Enterprise
+
+```bash
+# Tryb interaktywny (pytania dla każdego wpisu)
+python parsers/new_enterprise_parser.py
+
+# Tryb w pełni automatyczny
+python parsers/new_enterprise_parser.py --full-auto
+```
+
+Wyniki zapisywane w: `data/new_enterprise/json/`
+
+#### Parser English File
+
+```bash
+# Tryb w pełni automatyczny (domyślny)
+python parsers/english_file_parser.py --full-auto
+```
+
+Wyniki zapisywane w: `data/english_file/json/`
 
 ## 📁 Struktura katalogów
 
+```
 fiszki/
-├── flashcard_app.py          # Główna aplikacja
+├── flashcard_app.py           # Główna aplikacja
+├── master_parser.py           # Interfejs do parserów
+├── CHANGELOG.md               # Historia zmian
+├── README.md                  # Ten plik
+│
 ├── data/
 │   ├── new_enterprise/
-│   │   ├── pdf/              # PDF-y (opcjonalne)
-│   │   └── json/             # *_parsed.json
+│   │   ├── pdf/              # Dodaj tu PDF-y New Enterprise
+│   │   └── json/             # Parsowane pliki (automatycznie generowane)
+│   │       ├── *_parsed.json
+│   │       └── ...
+│   │
 │   └── english_file/
-│       ├── pdf/
-│       └── json/
-├── parsers/
-│   ├── master_parser.py
-│   ├── new_enterprise_parser.py
-│   └── english_file_parser.py
-└── README.md
+│       ├── pdf/              # Dodaj tu PDF-y English File
+│       └── json/             # Parsowane pliki (automatycznie generowane)
+│           ├── *_parsed.json
+│           └── ...
+│
+└── parsers/
+    ├── new_enterprise_parser.py   # Parser dla New Enterprise
+    └── english_file_parser.py     # Parser dla English File
+```
 
-## 📄 Format danych (JSON)
+## 📄 Format danych JSON
 
-Aplikacja nie czyta PDF-ów bezpośrednio.
-Źródłem danych są pliki JSON o ujednoliconej strukturze:
+Aplikacja pracuje z JSON-ami o strukturze:
 
+```json
 [
   {
     "word": "hello",
     "pronunciation": "həˈləʊ",
     "part_of_speech": "n",
-    "definition": "a greeting",
+    "definition": "a greeting or polite word",
+    "translation": "cześć",
     "unit": "1a",
     "page": 5,
-    "correct_count": 0,
-    "wrong_count": 0
-  }
+    "correct_count": 3,
+    "wrong_count": 1
+  },
+  ...
 ]
+```
 
-Wymagane pola
+### Wymagane pola:
+- **word** - słowo do nauki
+- **unit** - dział/jednostka (np. "1a", "Unit 1")
+- **correct_count** - liczba poprawnych odpowiedzi (start: 0)
+- **wrong_count** - liczba błędnych odpowiedzi (start: 0)
 
-word – słowo do nauki
+### Pola opcjonalne:
+- **pronunciation** - wymowa (IPA lub inna notacja)
+- **part_of_speech** - część mowy (n=noun, v=verb, adj=adjective, etc.)
+- **definition** - definicja angielska
+- **translation** - tłumaczenie na polski
+- **page** - strona w podręczniku
 
-unit – dział / lekcja
+## 🎓 System powtórek
 
-correct_count – liczba poprawnych odpowiedzi
+Słówka, które sprawiają ci trudności, pojawiają się częściej:
 
-wrong_count – liczba błędnych odpowiedzi
+```
+waga = max(1, 10 + (błędy × 2) - poprawne)
+```
 
-Pola opcjonalne
+**Przykłady:**
+- Nowe słówko (0 poprawnych, 0 błędów) → waga = 10
+- Złe słówko (0 poprawnych, 5 błędów) → waga = 20
+- Dobrze znane słówko (10 poprawnych, 1 błąd) → waga = 1
 
-pronunciation / phonetic
+## 🔧 Rozwiązywanie problemów
 
-part_of_speech
+### Problem: "Brak serii" przy uruchomieniu aplikacji
 
-definition
+**Przyczyna:** Brak plików JSON w folderach danych
 
-translation
+**Rozwiązanie:**
+1. Dodaj PDF-y do `data/new_enterprise/pdf/` lub `data/english_file/pdf/`
+2. Uruchom `python master_parser.py` lub bezpośrednio parser
+3. Parser wygeneruje pliki JSON
 
-page
+### Problem: Parser nie znajduje PDF-ów
 
-Parser może zostawić pola opcjonalne puste – aplikacja to obsługuje.
+**Przyczyna:** Złe lokalizacje folderów
 
-## 🔁 System wagowy (powtórki)
+**Rozwiązanie:**
+- Upewnij się, że struktura katalogów jest poprawna
+- PDF-y muszą być w folderze `.../data/<seria>/pdf/`
+- Parser automatycznie skanuje poprawne lokalizacje
 
-Słówka, na których częściej popełniasz błędy, pojawiają się częściej:
+### Problem: "ModuleNotFoundError: No module named 'fitz'"
 
-waga = max(1, 10 + (wrong_count * 2) - correct_count)
+**Rozwiązanie:**
+```bash
+pip install PyMuPDF
+```
 
-## 📄 Parsery PDF (opcjonalne)
+### Problem: Znaki diakrytyczne źle wyświetlają się
 
-Parsery służą wyłącznie do jednorazowej konwersji PDF → JSON.
+**Przyczyna:** Encoding
+
+**Rozwiązanie:**
+- Upewnij się, że JSON-y są zapisane z kodowaniem UTF-8 (domyślnie dla parserów)
+- Parsery automatycznie używają UTF-8
+
+### Problem: Aplikacja nie ładuje się
+
+**Przyczyna:** Brakuje Tkinter
+
+**Rozwiązanie:**
+- Na Windows: Tkinter powinien być zainstalowany z Pythonem, spróbuj przeinstalować Python zaznaczając TCL/TK
+- Na Linux: `sudo apt-get install python3-tk`
+- Na macOS: Tkinter powinien być domyślnie
+
+## 📊 Jak działa parsowanie PDF-ów?
+
+### New Enterprise
+
+Format w PDF-ach:
+```
+word \ pronunciation \ (part_of_speech) = definition
+```
+
+**Przykład:**
+```
+hello \ həˈləʊ \ (n) = greeting
+```
 
 Parser:
-
-nie jest uniwersalny dla wszystkich PDF-ów,
-
-jest pisany pod konkretną serię podręczników,
-
-zakłada powtarzalny wzorzec wpisów.
-
-Proces działania:
-
-PDF → tekst (PyMuPDF)
-
-Normalizacja tekstu (łączenie łamanych linii)
-
-Dopasowanie wzorca wpisu (regex)
-
-## 📚 Wspierane serie
-
-New Enterprise
-
-Format wpisu:
-
-word \pronunciation\ (pos) = definition
-
-
-Parser: parsers/new_enterprise_parser.py
-
-wykrywa jednostki (np. Unit 1a, 2b)
-
-obsługuje tryb automatyczny i ręczny
-
-zapisuje dane zgodnie z formatem aplikacji
-
-English File
-
-Format wpisu (elastyczny):
-
-word [part_of_speech] [/phonetic/] definition
-
-
-Parser: parsers/english_file_parser.py
-
-nie zakłada poziomu (Elementary–Advanced)
-
-toleruje brak fonetyki i części mowy
-
-parsuje wzorzec językowy, nie layout strony
-
-działa na podstawie jednolitej listy słówek
-
-## ▶️ Użycie parserów
-
-Interaktywnie
-python parsers/master_parser.py
-
-Full auto (wszystkie PDF-y w serii)
-python parsers/english_file_parser.py --full-auto
-python parsers/new_enterprise_parser.py --full-auto
-
-
-Parser zapisze pliki do:
-
-data/<seria>/json/*_parsed.json
-
-## 🧠 Master parser
-
-master_parser.py:
-
-wykrywa dostępne serie
-
-uruchamia odpowiednie parsery
-
-umożliwia parsowanie wielu serii jednym poleceniem
-
-## 🛠️ Troubleshooting
-Parser zwraca 0 słówek
-
-PDF:
-
-nie zawiera listy słówek w oczekiwanym formacie, lub
-
-ma inny wzorzec wpisu niż założony w parserze
-
-Brak wyników nie jest błędem wykonania.
-
-PDF jest skanem
-
-PyMuPDF nie zwróci tekstu
-
-wymagany OCR (poza zakresem projektu)
-
-Seria nie pojawia się w aplikacji
-
-sprawdź, czy istnieje data/<seria>/json/
-
-sprawdź poprawność plików JSON
-
-nazwa folderu serii musi być zgodna
-
-## 🔧 Rozszerzanie projektu
-Dodanie nowej serii (bez PDF)
-
-Utwórz data/nazwa_serii/json/
-
-Dodaj pliki *_parsed.json
-
-Seria pojawi się automatycznie w aplikacji.
-
-Dodanie nowej serii z PDF
-
-Utwórz data/nazwa_serii/pdf/
-
-Napisz parser parsers/nazwa_serii_parser.py
-
-Dodaj serię do master_parser.py
-
-Parser powinien:
-
-zakładać uniform word list
-
-nie polegać na numerach stron ani layoutcie
-
-parsować wzorzec wpisu, nie wygląd strony
-
-## 🧪 Technologie
-
-Python
-
-Tkinter
-
-JSON
-
-PyMuPDF (parsery PDF)
-
-## 🎯 Dla kogo?
-
-Uczniowie przygotowujący się do egzaminów
-
-Osoby uczące się słownictwa offline
-
-Każdy, kto nie chce kont, reklam i platform online
+1. Skanuje strony w poszukiwaniu "Unit X"
+2. Szuka wpisów ze backslashami (`\`)
+3. Ekstrahuje słowo, wymowę, część mowy, definicję
+4. Zapisuje do JSON-a
+
+### English File
+
+Format w PDF-ach:
+```
+word part_of_speech /pronunciation/ definition translation
+```
+
+**Przykład:**
+```
+hello n /həˈləʊ/ greeting cześć
+```
+
+Parser:
+1. Skanuje strony w poszukiwaniu "File X"
+2. Zbiera kolejne linie (definicje mogą być złamane)
+3. Parsuje za pomocą regex-ów
+4. Zapisuje do JSON-a
+
+## 💾 Zapisywanie postępu
+
+Postęp jest automatycznie zapisywany do pliku JSON po każdej odpowiedzi.  
+Pola `correct_count` i `wrong_count` są aktualizowane.
+
+Możesz edytować ręcznie:
+```json
+{
+  "word": "hello",
+  "correct_count": 0,
+  "wrong_count": 0
+}
+```
+
+Lub resetować postęp z poziomu aplikacji.
+
+## 🐛 Raportowanie błędów
+
+Jeśli parser źle paruje słówka:
+1. Sprawdź format w PDF-ie
+2. Spróbuj trybu ręcznego: `python parsers/new_enterprise_parser.py`
+3. Potwierdzaj/odrzucaj wpisy manualnie
+
+## 📝 Licencja
+
+Projekt otwarty. Użyj swobodnie.
 
 ## 👤 Autor
 
 Wojciech Halasa
 
-Projekt powstał z wykorzystaniem narzędzi GenAI do analizy kodu i konsultacji architektonicznych.
-Końcowe decyzje projektowe i implementacja należą do autora.
+---
 
-## 📜 Licencja
-
-MIT
+**Wersja:** 3.0  
+**Ostatnia aktualizacja:** Styczeń 29, 2026  
+**Status:** W pełni funkcjonalny ✅
