@@ -1,4 +1,4 @@
-# Fiszki - Quick Reference
+# Fiszki v4.0 - Quick Reference
 
 Szybkie instrukcje dla zainteresowanych.
 
@@ -8,8 +8,19 @@ Szybkie instrukcje dla zainteresowanych.
 # Uruchom aplikację
 python flashcard_app.py
 
-# Kliknij: Wybierz podręcznik → Poziom → Zaznacz działy → Start
+# Kliknij: Zaladuj podręcznik → Seria → Kategoria → Zaznacz działy → Start
 ```
+
+## ⌨️ Keyboard Shortcuts
+
+| Klawisz | Akcja |
+|---------|-------|
+| SPACE | Przewróć kartę |
+| LEFT arrow / A | Nie znam (błąd) |
+| RIGHT arrow / D | Znam (OK) |
+| Ctrl+R | Quick Review (auto-flip 0.5s, auto-next 2s) |
+| Ctrl+D | Difficult Words Deck |
+| ENTER | Potwierdź wybór w dialogach |
 
 ## 📖 Parsowanie PDF-ów
 
@@ -24,34 +35,78 @@ Wybierz serię i opcję (1, 2, lub 3 - FULL AUTO)
 # New Enterprise - automatycznie
 python parsers/new_enterprise_parser.py --full-auto
 
-# English File - automatycznie
+# English File - automatycznie (5 plików)
 python parsers/english_file_parser.py --full-auto
 
-# New Enterprise - interaktywnie (z pytaniami)
-python parsers/new_enterprise_parser.py
+# Career Paths - automatycznie (wszystkie kategorie)
+python parsers/career_paths_parser.py --full-auto
 ```
+
+## 📊 Aktualne dane (v4.0)
+
+| Seria | Kategorie | Pliki | Słówek | Status |
+|-------|-----------|-------|--------|--------|
+| **New Enterprise** | - | 8 | 7,612 | ✅ OK |
+| **English File** | 5 poziomów | 5 | 7,920 | ✅ OK |
+| **Career Paths** | 34 kategorie | 103 | 16,915 | ✅ OK (FIXED!) |
+
+**RAZEM: 32,447 słów** ✅ (100% pokrycie)
 
 ## 📁 Katalogi
 
 ```
 fiszki/
-├── flashcard_app.py              ← Aplikacja
+├── flashcard_app.py              ← Aplikacja (v4.0)
 ├── master_parser.py              ← Zarządca parserów
-├── README.md                     ← Pełna dokumentacja
+├── spaced_repetition.py          ← SM-2 algorytm (NEW)
+├── analytics_manager.py          ← Statystyki (NEW)
+├── search_filter.py              ← Wyszukiwanie (NEW)
+├── decks_manager.py              ← Difficult deck (NEW)
+├── settings_manager.py           ← Dark mode (NEW)
 │
 ├── data/
-│   ├── new_enterprise/
-│   │   ├── pdf/                  ← Dodaj PDF-y tu
-│   │   └── json/                 ← Wyniki (automatycznie)
-│   │
-│   └── english_file/
-│       ├── pdf/                  ← Dodaj PDF-y tu
-│       └── json/                 ← Wyniki (automatycznie)
+│   ├── new_enterprise/json/      ← 7,612 słów
+│   ├── english_file/json/        ← 7,920 słów
+│   └── career_paths/[34 cat]/    ← 16,915 słów (FIXED)
+│       ├── Accounting/json/
+│       ├── Agriculture/json/
+│       ├── Computing/json/
+│       └── ... [34 total]
 │
 └── parsers/
+    ├── master_parser.py
     ├── new_enterprise_parser.py
-    └── english_file_parser.py
+    ├── english_file_parser.py
+    └── career_paths_parser.py
 ```
+
+## 🧠 SM-2 Spaced Repetition (v4.0 NEW)
+
+```
+Jakość → Interwał
+─────────────────
+5      → ~45 min
+4      → ~24 hours
+3      → ~3 dni
+2      → ~1 dzień
+1      → ~5 min
+```
+
+## 📊 Analytics Dashboard (v4.0 NEW)
+
+Kliknij "Statystyki":
+- 📈 7-dniowe wykresy
+- 🏆 Top jednostki
+- 📝 Historia sesji
+- ✅ Procent dokładności
+
+## 🎯 Difficult Words Deck (v4.0 NEW)
+
+Kliknij "Trudne" → ćwicz tylko słowa z error_rate > 50%
+
+## 🔍 Search & Filter (v4.0 NEW)
+
+Kliknij "Szukaj" → wyszukaj/filtruj słowa
 
 ## 📋 Format JSON
 
@@ -60,30 +115,45 @@ fiszki/
   {
     "word": "hello",
     "pronunciation": "həˈləʊ",
-    "part_of_speech": "n",
+    "part_of_speech": "noun",
     "definition": "greeting",
     "translation": "cześć",
-    "unit": "1a",
-    "page": 5,
-    "correct_count": 0,
-    "wrong_count": 0
+    "unit": "U1",
+    "error_rate": 0.0,
+    "last_review": "2026-01-29T10:30:00",
+    "sr_interval": 45,
+    "sr_repetitions": 3,
+    "sr_ease": 2.5
   }
 ]
 ```
 
-**Wymagane:** word, unit, correct_count, wrong_count  
-**Opcjonalne:** pronunciation, part_of_speech, definition, translation, page
-
 ## 🎯 Instrukcja aplikacji
 
-1. Kliknij **"Wybierz podręcznik"**
-2. Wybierz serię (New Enterprise / English File)
-3. Wybierz plik z poziomem (A1, A2, B1, etc.)
+1. Kliknij **"Zaladuj podręcznik"**
+2. Wybierz serię (New Enterprise / English File / Career Paths)
+3. Wybierz kategorię/plik
 4. **Zaznacz** działy które chcesz powtarzać
 5. Kliknij **"Start"** i ucz się!
 
 **Podczas sesji:**
-- Czytasz słówko
+- Czytasz słówko, myślisz nad odpowiedzią
+- Wciskasz SPACE aby zobaczyć odpowiedź
+- LEFT/A = nie znam (błąd), RIGHT/D = znam (OK)
+- Aplikacja śledzi Twój postęp
+
+## 💡 Pro Tips
+
+- **Szybka sesja:** Ctrl+R (auto-flip 0.5s, auto-next 2s)
+- **Trudne słowa:** Ctrl+D (słowa z error_rate > 50%)
+- **Szukanie:** Kliknij Szukaj → wpisz słowo/definicję
+- **Dark mode:** Toggle w ustawieniach
+- **Offline:** Wszystko działa bez internetu
+
+---
+
+**Wersja:** 4.0 | **Ostatnia aktualizacja:** 29.01.2026  
+**Dataset:** 32,447 słów | **Status:** Production-ready ✅
 - Kliknij **"Przewróć"** aby zobaczyć wymowę, definicję, tłumaczenie
 - Oceń siebie: **"Znam"** lub **"Nie znam"**
 - Postęp jest automatycznie zapisywany

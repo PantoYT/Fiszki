@@ -13,13 +13,13 @@ def get_project_dirs():
     """Pobiera ścieżki do głównych katalogów projektu."""
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
+    # Jeśli skrypt jest w parsers/, projekt root jest parent'em
     if os.path.basename(script_dir) == "parsers":
         project_root = os.path.dirname(script_dir)
-        parsers_dir = script_dir
     else:
         project_root = script_dir
-        parsers_dir = os.path.join(script_dir, "parsers")
     
+    parsers_dir = os.path.join(project_root, "parsers")
     data_dir = os.path.join(project_root, "data")
     return data_dir, parsers_dir
 
@@ -64,6 +64,31 @@ def check_series_availability():
         except:
             pass
     
+    # Sprawdź Career Paths
+    cp_base_dir = os.path.join(data_dir, "career_paths")
+    cp_parser = os.path.join(parsers_dir, "career_paths_parser.py")
+    if os.path.exists(cp_base_dir) and os.path.exists(cp_parser):
+        try:
+            # Zlicz PDFy we wszystkich kategoriach
+            pdf_count = 0
+            for category_dir in os.listdir(cp_base_dir):
+                category_path = os.path.join(cp_base_dir, category_dir)
+                if os.path.isdir(category_path):
+                    pdf_dir = os.path.join(category_path, "pdf")
+                    if os.path.exists(pdf_dir):
+                        pdf_count += len([f for f in os.listdir(pdf_dir) if f.endswith('.pdf')])
+            
+            if pdf_count > 0:
+                available_series.append({
+                    "key": "career_paths",
+                    "name": "Career Paths (wszystkie kategorie)",
+                    "parser": cp_parser,
+                    "pdf_dir": cp_base_dir,
+                    "pdf_count": pdf_count
+                })
+        except:
+            pass
+    
     return available_series
 
 
@@ -87,17 +112,17 @@ def full_auto_all_series():
     available_series = check_series_availability()
     
     if not available_series:
-        print("\n❌ Brak dostępnych serii!")
+        print("\nBrak dostepnych serii!")
         return
     
     print("\n" + "="*70)
     print("MASTER PARSER - FULL AUTO MODE")
     print("="*70)
-    print("\nDostępne serie:")
+    print("\nDostepne serie:")
     for s in available_series:
-        print(f"  • {s['name']}: {s['pdf_count']} plik(ów) PDF")
+        print(f"  * {s['name']}: {s['pdf_count']} plik(ow) PDF")
     
-    confirm = input("\nCzy na pewno chcesz sparsować wszystkie serie? (t/n): ").lower()
+    confirm = input("\nCzy na pewno chcesz sparsowac wszystkie serie? (t/n): ").lower()
     if confirm != 't':
         print("Anulowano.")
         return
@@ -119,27 +144,27 @@ def full_auto_all_series():
     print("PODSUMOWANIE")
     print("="*70)
     for r in results:
-        status = "✓ Sukces" if r['success'] else "✗ Błąd"
-        print(f"{status}: {r['series']}")
+        status = "OK: " if r['success'] else "BLAD: "
+        print(f"{status}{r['series']}")
     print(f"{'='*70}\n")
 
 
 def main():
     """Główna funkcja Master Parsera."""
     print("\n" + "="*70)
-    print("MASTER PARSER - Fiszki")
+    print("MASTER PARSER - Fiszki v4")
     print("="*70)
     
     available_series = check_series_availability()
     
     if not available_series:
         data_dir, parsers_dir = get_project_dirs()
-        print("\n❌ Brak dostępnych serii!")
-        print("\nUpewnij się, że:")
-        print(f"  1. Foldery zawierają pliki PDF:")
-        print(f"     • {os.path.join(data_dir, 'new_enterprise', 'pdf')}")
-        print(f"     • {os.path.join(data_dir, 'english_file', 'pdf')}")
-        print(f"  2. Parsery istnieją w: {parsers_dir}")
+        print("\nBrak dostepnych serii!")
+        print("\nUpewnij sie, ze:")
+        print(f"  1. Foldery zawieraja pliki PDF:")
+        print(f"     * {os.path.join(data_dir, 'new_enterprise', 'pdf')}")
+        print(f"     * {os.path.join(data_dir, 'english_file', 'pdf')}")
+        print(f"  2. Parsery istnieja w: {parsers_dir}")
         print(f"\nAktualna struktura:")
         if os.path.exists(data_dir):
             for item in os.listdir(data_dir):
@@ -148,22 +173,22 @@ def main():
                     pdf_dir = os.path.join(item_path, "pdf")
                     if os.path.exists(pdf_dir):
                         pdf_count = len([f for f in os.listdir(pdf_dir) if f.endswith('.pdf')])
-                        print(f"  • {item}: {pdf_count} PDF(ów)")
+                        print(f"  * {item}: {pdf_count} PDF(ow)")
         return
     
     while True:
-        print("\nDostępne serie:")
+        print("\nDostepne serie:")
         for idx, s in enumerate(available_series, 1):
-            print(f"{idx}. {s['name']} - {s['pdf_count']} plik(ów) PDF")
+            print(f"{idx}. {s['name']} - {s['pdf_count']} plik(ow) PDF")
         
         print(f"\n{len(available_series) + 1}. FULL AUTO - Parsuj wszystkie automatycznie")
-        print("0. Wyjście")
+        print("0. Wyjscie")
         
         try:
-            choice = int(input("\nWybierz opcję: "))
+            choice = int(input("\nWybierz opcje: "))
             
             if choice == 0:
-                print("Zakończono.")
+                print("Zakonczono.")
                 return
             
             if choice == len(available_series) + 1:
@@ -172,20 +197,20 @@ def main():
             
             if 1 <= choice <= len(available_series):
                 series = available_series[choice - 1]
-                print(f"\n▶ Uruchamianie: {series['name']}")
+                print(f"\nUruchamianie: {series['name']}")
                 print(f"  Parser: {os.path.basename(series['parser'])}")
                 print(f"  Pliki PDF: {series['pdf_dir']}")
-                print("\nParser uruchomi się w trybie interaktywnym...")
-                input("\nNaciśnij Enter aby kontynuować...")
+                print("\nParser uruchomi sie w trybie interaktywnym...")
+                input("\nNacisnij Enter aby kontynuowac...")
                 
                 subprocess.run([sys.executable, series['parser']])
                 return
             else:
-                print("❌ Nieprawidłowy wybór.")
+                print("Nieprawidlowy wybor.")
         except ValueError:
-            print("❌ Wprowadź liczbę.")
+            print("Wprowadz liczbe.")
         except KeyboardInterrupt:
-            print("\n\n⏹ Przerwano.")
+            print("\n\nPrzerwano.")
             return
 
 
@@ -193,8 +218,8 @@ if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        print("\n\n⏹ Przerwano przez użytkownika.")
+        print("\n\nPrzerwano przez uzytkownika.")
     except Exception as e:
-        print(f"\n❌ Błąd: {e}")
+        print(f"\nBlad: {e}")
         import traceback
         traceback.print_exc()

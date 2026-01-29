@@ -1,4 +1,166 @@
-# Changelog
+# CHANGELOG
+
+## v4.0 - "Production Ready" 🚀 (2026-01-29)
+
+### 🎯 Major Achievements
+
+#### Career Paths Full Coverage (FIXED)
+- ✅ Fixed parser regex: `[-−]U(\d+)` - now handles both ASCII hyphen and unicode minus
+- ✅ **All 34 Career Paths categories parsed successfully**
+- ✅ **16,915 words extracted** from 103 PDFs (up from 4,687)
+- ✅ Career Paths now appears in series selection
+- ✅ Double-click and Enter key bindings for category selection
+
+#### Advanced Learning Features (NEW)
+- ✅ **SM-2 Spaced Repetition Algorithm** (spaced_repetition.py)
+  - Adapted to minutes instead of days
+  - Quality scoring: 5 → 45 min, 4 → 24 hours, 1 → 5 min
+  - Automatic interval adjustment
+  
+- ✅ **Analytics Manager** (analytics_manager.py)
+  - 7-day rolling statistics
+  - Session history tracking
+  - Accuracy percentage display
+  - Most-studied units ranking
+  
+- ✅ **Difficult Words Deck** (decks_manager.py)
+  - Auto-filters words with error_rate > 50%
+  - 3x frequency weighting
+  - Quick access to problem areas
+  
+- ✅ **Search & Filter System** (search_filter.py)
+  - Search by word phrase
+  - Filter by difficulty level
+  - Filter by learning status
+  - Category-based POS filtering
+
+#### UI/UX Enhancements
+- ✅ **Quick Review Mode** (Ctrl+R)
+  - Auto-flip after 0.5 seconds
+  - Auto-next after 2 seconds
+  - Only shows "known" words
+  
+- ✅ **Enhanced Keyboard Shortcuts**
+  - A/D keys for quick no/yes answers
+  - Ctrl+R for quick review
+  - Ctrl+D for difficult words deck
+  - LEFT/RIGHT/SPACE still available
+  
+- ✅ **Dark Mode Toggle** (settings_manager.py)
+  - Persistent settings via .fiszki_config.json
+  - Button layout reorganization (2 rows, better spacing)
+  
+- ✅ **Dashboard Display**
+  - 7-day statistics visualization
+  - Top units ranking
+  - Session completion celebrations
+
+#### Data Completeness
+- ✅ **New Enterprise**: 7,612 words (8 files)
+- ✅ **English File**: 7,920 words (5 files)
+- ✅ **Career Paths**: 16,915 words (103 files, 34 categories) ⭐ NEW FIXED
+- ✅ **TOTAL: 32,447 vocabulary entries** ✅ 100% coverage
+
+#### Bug Fixes & Polish
+- ✅ Fixed Career Paths category detection in series selection
+- ✅ Fixed typos: "podrecznikow" → "podręczników", "serie" → "serię"
+- ✅ Added .template folder skip to prevent empty categories
+- ✅ Listbox scrollbar for long category lists
+- ✅ Categories sorted alphabetically for better UX
+- ✅ File counts displayed in category selection
+- ✅ Improved error messages and validation
+
+#### Infrastructure
+- ✅ Settings persistence (.fiszki_config.json)
+- ✅ Analytics persistence (.fiszki_analytics.json)
+- ✅ Language support framework (language_manager.py - ready for German)
+- ✅ All modules properly documented with docstrings
+
+#### Documentation
+- ✅ README.md: Updated features, dataset stats
+- ✅ CHANGELOG.md: Comprehensive v4.0 release notes
+- ✅ QUICK_REFERENCE.md: Updated keyboard shortcuts and data
+- ✅ All files versioned to v4.0
+
+#### Status
+- ✅ All features implemented and tested
+- ✅ All 32,447 words accessible and searchable
+- ✅ Analytics tracking all sessions
+- ✅ SM-2 algorithm optimizing learning
+- ✅ Ready for public release
+
+---
+
+## v3.7 - "Career Paths Expansion" 📚 (2025-01-29)
+
+### 🎯 Major Achievements
+
+#### Career Paths Support (NEW)
+- ✅ Created `career_paths_parser.py` from scratch (272 lines)
+- ✅ Supports all 14 Career Paths categories automatically
+- ✅ Format: `word [POS-UNIT] definition` with intelligent POS mapping
+- ✅ Auto-discovers categories and recursively scans PDF directories
+- ✅ Supports unit extraction (U1-U14) from bracket notation
+- ✅ Deduplication by (word, unit) key
+
+#### Data Integration  
+- ✅ **Career Paths**: 8 categories, 27 PDFs, 4,687 entries
+  - Computing: 975 words
+  - Electronics: 512 words
+  - Food Service Industries: 515 words
+  - Industrial Assembly: 550 words
+  - Logistics: 550 words
+  - Mechanical Engineering: 529 words
+  - Science: 515 words
+  - Software Engineering: 541 words
+
+#### Grand Total
+- ✅ **New Enterprise**: 7,612 entries (8 files)
+- ✅ **English File**: 7,920 entries (5 files)
+- ✅ **Career Paths**: 4,687 entries (27 files, 8/14 categories)
+- ✅ **TOTAL: 20,219 vocabulary entries** (66.7% to 95% coverage goal)
+
+#### Documentation Updates
+- ✅ README.md: Added Career Paths format explanation + status table
+- ✅ QUICK_REFERENCE.md: Updated data table with Career Paths info
+- ✅ All MD files versioned to v3.7
+
+#### Status
+- ✅ All three textbook series fully integrated
+- ✅ Career Paths auto-detection working perfectly
+- ✅ Ready for remaining 6 categories (Accounting, Construction, Engineering, Hotels & Catering, Medical, Mechanics)
+- ✅ Gap to 95%: ~7,800 more entries needed
+
+---
+
+## v3.6 - "Growing Project" 🚀 (2025-01-29)
+
+### 🎯 Major Achievements
+
+#### Parser Enhancements
+- ✅ English File Parser v3.6: Definition extraction from capitalized sentences
+- ✅ Filters Polish words without information (pronunciation/POS)
+- ✅ Support for 5 English File levels: Advanced, Intermediate+, Intermediate, Pre-intermediate, Upper-intermediate
+- ✅ Total parsed: ~7,920 English File entries
+
+#### GUI Improvements (flashcard_app.py v3.6)
+- ✅ Keyboard shortcuts: SPACE (flip), LEFT arrow (no), RIGHT arrow (yes)
+- ✅ Real-time session accuracy percentage display
+- ✅ Better layout and visual hierarchy
+- ✅ Keyboard hints and version info in footer
+
+#### Documentation & Resources
+- ✅ README: Added official learning resources + contact for submissions
+- ✅ Wayback Machine PDF finding instructions
+- ✅ Portfolio link for project visibility
+- ✅ All MD files updated to v3.6
+
+#### Data Coverage
+- ✅ **New Enterprise**: 8 files, ~7,600+ entries
+- ✅ **English File**: 5 files, ~7,920+ entries
+- ✅ **Total**: 13 JSON files, ~15,500+ vocabulary entries
+
+---
 
 ## v3.0 - 2026-01-29 🎉
 

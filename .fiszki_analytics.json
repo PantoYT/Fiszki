@@ -1,0 +1,39 @@
+{
+  "sessions": [
+    {
+      "date": "2026-01-29T22:01:48.386736",
+      "unit": "File 1",
+      "duration_minutes": 0,
+      "words_reviewed": 3,
+      "correct": 3,
+      "wrong": 0,
+      "accuracy": 100.0
+    },
+    {
+      "date": "2026-01-29T23:32:02.137233",
+      "unit": "Unit 1",
+      "duration_minutes": 1,
+      "words_reviewed": 1694,
+      "correct": 1681,
+      "wrong": 13,
+      "accuracy": 99.23258559622195
+    },
+    {
+      "date": "2026-01-29T23:32:24.799082",
+      "unit": "Unit 1",
+      "duration_minutes": 0,
+      "words_reviewed": 5,
+      "correct": 5,
+      "wrong": 0,
+      "accuracy": 100.0
+    }
+  ],
+  "daily_stats": {
+    "2026-01-29": {
+      "sessions": 3,
+      "words_reviewed": 1702,
+      "accuracy": 99.74419519874066,
+      "duration_minutes": 1
+    }
+  }
+}
