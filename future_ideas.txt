@@ -1,0 +1,90 @@
+FISZKI – PLANY ROZWOJU (FUTURE_PLANS.txt)
+
+1. CELE OGÓLNE
+- Utrzymać projekt jako narzędzie offline-first
+- Minimalizować ręczną pracę przy dodawaniu nowych źródeł
+- Oddzielić:
+  - pozyskiwanie danych
+  - parsowanie
+  - logikę nauki
+  - interfejs użytkownika
+
+2. ROZSZERZENIE NA INNE PRZEDMIOTY
+2.1 Języki obce
+- Znaleźć podręczniki do języka niemieckiego
+- Sprawdzić, czy istnieją:
+  - oficjalne wordlisty
+  - dodatki nauczycielskie
+  - PDF-y z glosariuszami
+- Jeśli brak wordlist:
+  - ręczne półautomatyczne ekstrakcje (nagłówki, słowniczki)
+
+2.2 Przedmioty ścisłe (chemia, biologia, fizyka, matematyka)
+- Nie traktować jak klasyczne fiszki słowo → znaczenie
+- Potencjalne modele:
+  - pojęcie → definicja
+  - pojęcie → wzór
+  - pojęcie → przykład
+  - pytanie → procedura rozwiązania
+- Rozważyć osobne „decki typów wiedzy”, nie wspólną strukturę
+
+3. SYSTEM POZYSKIWANIA DANYCH (SCRAPER)
+3.1 Wejście
+- nazwa serii / przedmiotu
+- oczekiwany format (wordlist, glossary, unit-based)
+- język
+
+3.2 Działanie
+- wyszukiwanie PDF/HTML w internecie
+- filtrowanie po:
+  - słowach kluczowych
+  - strukturze dokumentu
+- zapisywanie surowych plików do katalogu staging/
+
+3.3 Wyjście
+- pliki źródłowe przypisane do:
+  data_raw/<series>/<source>/
+
+4. SYSTEM PARSERÓW
+- Parsery jako osobne, wymienne moduły
+- Każdy parser:
+  - deklaruje, jaki format obsługuje
+  - waliduje dane wyjściowe
+- Docelowo:
+  - półautomatyczne generowanie parserów
+  - ale z ręczną weryfikacją wyników
+
+5. REDUKCJA „MAGII AI”
+- Stopniowo:
+  - czytać parsery linijka po linijce
+  - przepisywać kluczowe fragmenty ręcznie
+- Cel:
+  - rozumieć przepływ danych
+  - niekoniecznie pisać wszystko od zera
+
+6. JAKOŚĆ DANYCH
+- Automatyczne testy JSON:
+  - puste pola
+  - duplikaty
+  - nietypowe znaki
+- Statystyki jakości źródła:
+  - % błędów
+  - % braków
+
+7. ARCHITEKTURA NA PRZYSZŁOŚĆ
+- Przygotować backend-agnostic core:
+  - logika SRS niezależna od UI
+- Ułatwi to:
+  - PWA
+  - mobile
+  - ewentualny web-only tryb lokalny
+
+8. STATUS PROJEKTU
+- Projekt „do kieszeni”
+- Gotowy do pokazania:
+  - nauczycielowi
+  - rekruterowi
+  - jako baza pod większy system
+- Rozwijany tylko wtedy, gdy realnie potrzebny
+
+KONIEC
