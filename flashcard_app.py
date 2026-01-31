@@ -287,7 +287,7 @@ class FlashcardApp:
                                    bg='white', fg='gray')
         shortcuts_label.pack(side=tk.LEFT, padx=10)
         
-        author_label = tk.Label(footer_frame, text="Fiszki v4.0 | Wojciech Halasa", 
+        author_label = tk.Label(footer_frame, text="Fiszki v5.0 | Wojciech Halasa", 
                                font=('Arial', 10, 'italic'), 
                                bg='white', fg='black')
         author_label.pack(side=tk.RIGHT, padx=10)
