@@ -139,7 +139,7 @@ class AnalyticsManager:
         stats = AnalyticsManager.get_7day_stats()
         sessions = AnalyticsManager.get_last_sessions(7)
         
-        text = "📊 STATYSTYKI OSTATNICH 7 DNI\n"
+        text = " STATYSTYKI OSTATNICH 7 DNI\n"
         text += "=" * 40 + "\n\n"
         
         text += f"Sesji: {stats['total_sessions']}\n"

@@ -6,7 +6,6 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
@@ -38,10 +37,10 @@ env/
 .DS_Store
 
 # Application data
-data/*/json/*.json
-data/*/json/*.json.bak
+.fiszki_config.json
+.fiszki_analytics.json
+*.json.bak
 *.json.backup
-.config/
 
 # Logs
 *.log

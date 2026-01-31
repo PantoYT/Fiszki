@@ -11,6 +11,13 @@ from decks_manager import DecksManager
 from spaced_repetition import SpacedRepetitionManager
 from analytics_manager import AnalyticsManager
 
+# Try to import auto-updater (optional)
+try:
+    from auto_updater import check_and_update
+    HAS_AUTO_UPDATER = True
+except ImportError:
+    HAS_AUTO_UPDATER = False
+
 class FlashcardApp:
     def __init__(self, root):
         self.root = root
@@ -127,6 +134,10 @@ class FlashcardApp:
                         bg='white', fg='black')
         title.pack(anchor='center')
         
+        # Check for updates on startup
+        if HAS_AUTO_UPDATER:
+            self.root.after(1000, lambda: check_and_update(self.root))
+        
         btn_row = tk.Frame(left_panel, bg='white')
         btn_row.pack(anchor='w', pady=(0, 5))
         
@@ -139,7 +150,7 @@ class FlashcardApp:
                                     cursor='hand2')
         self.select_btn.pack(side=tk.LEFT, padx=(0, 5))
         
-        self.filter_btn = tk.Button(btn_row, text="🔍 Szukaj", 
+        self.filter_btn = tk.Button(btn_row, text=" Szukaj", 
                                     command=self.open_search_dialog,
                                     font=('Arial', 9),
                                     bg='white', fg='black',
@@ -148,7 +159,7 @@ class FlashcardApp:
                                     cursor='hand2')
         self.filter_btn.pack(side=tk.LEFT, padx=(0, 5))
         
-        self.difficult_btn = tk.Button(btn_row, text="💪 Trudne", 
+        self.difficult_btn = tk.Button(btn_row, text=" Trudne", 
                                        command=self.start_difficult_deck,
                                        font=('Arial', 9),
                                        bg='white', fg='black',
@@ -160,7 +171,7 @@ class FlashcardApp:
         btn_row2 = tk.Frame(left_panel, bg='white')
         btn_row2.pack(anchor='w', pady=(0, 5))
         
-        self.category_btn = tk.Button(btn_row2, text="🏷️ Kategorie", 
+        self.category_btn = tk.Button(btn_row2, text=" Kategorie", 
                                       command=self.open_category_dialog,
                                       font=('Arial', 9),
                                       bg='white', fg='black',
@@ -169,7 +180,7 @@ class FlashcardApp:
                                       cursor='hand2')
         self.category_btn.pack(side=tk.LEFT, padx=(0, 5))
         
-        self.dashboard_btn = tk.Button(btn_row2, text="📊 Statystyki", 
+        self.dashboard_btn = tk.Button(btn_row2, text=" Statystyki", 
                                        command=self.show_dashboard,
                                        font=('Arial', 9),
                                        bg='white', fg='black',
@@ -846,7 +857,7 @@ class FlashcardApp:
             elapsed = (datetime.now() - self.session_start_time).total_seconds() // 60
         
         popup = tk.Toplevel(self.root)
-        popup.title("🎉 UNIT COMPLETE!")
+        popup.title(" UNIT COMPLETE!")
         popup.geometry("400x300")
         popup.configure(bg='white')
         popup.resizable(False, False)
@@ -854,7 +865,7 @@ class FlashcardApp:
         container = tk.Frame(popup, bg='white')
         container.pack(fill=tk.BOTH, expand=True, padx=30, pady=30)
         
-        tk.Label(container, text="🎉 UNIT COMPLETE! 🎉", 
+        tk.Label(container, text=" UNIT COMPLETE! ", 
                 font=('Arial', 16, 'bold'), 
                 bg='white', fg='black').pack(pady=(0, 20))
         
@@ -871,7 +882,7 @@ Czas: {elapsed} minut
                 bg='white', fg='black',
                 justify=tk.LEFT).pack(pady=10)
         
-        tk.Label(container, text="Świetna robota! 👏", 
+        tk.Label(container, text="Świetna robota! ", 
                 font=('Arial', 12, 'italic'), 
                 bg='white', fg='gray').pack(pady=(20, 0))
         
@@ -925,7 +936,7 @@ Czas: {elapsed} minut
             return
         
         cat_window = tk.Toplevel(self.root)
-        cat_window.title("🏷️ Wybierz Kategorię")
+        cat_window.title(" Wybierz Kategorię")
         cat_window.geometry("400x400")
         cat_window.configure(bg='white')
         
@@ -975,7 +986,7 @@ Czas: {elapsed} minut
     def show_dashboard(self):
         """Pokazuje dashboard ze statystykami."""
         dash_window = tk.Toplevel(self.root)
-        dash_window.title("📊 Statystyki Nauki")
+        dash_window.title(" Statystyki Nauki")
         dash_window.geometry("700x600")
         dash_window.configure(bg='white')
         
@@ -996,7 +1007,7 @@ Czas: {elapsed} minut
         # Top units
         top_units = AnalyticsManager.get_most_studied_units()
         
-        units_text = "\n\n🏆 TOP JEDNOSTKI:\n"
+        units_text = "\n\n TOP JEDNOSTKI:\n"
         for unit, words in top_units:
             units_text += f"  {unit}: {words} słów\n"
         
@@ -1022,7 +1033,7 @@ Czas: {elapsed} minut
             return
         
         search_window = tk.Toplevel(self.root)
-        search_window.title("🔍 Szukaj i Filtruj")
+        search_window.title(" Szukaj i Filtruj")
         search_window.geometry("600x500")
         search_window.resizable(False, False)
         

@@ -101,10 +101,10 @@ class SpacedRepetitionManager:
     def get_status_emoji(status):
         """Zwraca emoji dla statusu."""
         mapping = {
-            'due_now': '🔴',
-            'soon': '🟠',
-            'today': '🟡',
-            'later': '🟢'
+            'due_now': '',
+            'soon': '',
+            'today': '',
+            'later': ''
         }
         return mapping.get(status, '⚪')
     

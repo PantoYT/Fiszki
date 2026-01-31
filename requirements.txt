@@ -1,1 +1,6 @@
+# Core dependencies
 PyMuPDF==1.23.8
+requests==2.31.0
+
+# Build
+PyInstaller==6.1.0
