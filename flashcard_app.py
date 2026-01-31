@@ -141,7 +141,7 @@ class FlashcardApp:
         btn_row = tk.Frame(left_panel, bg='white')
         btn_row.pack(anchor='w', pady=(0, 5))
         
-        self.select_btn = tk.Button(btn_row, text="Wybierz pdręcznik", 
+        self.select_btn = tk.Button(btn_row, text="Wybierz podręcznik", 
                                     command=self.select_series,
                                     font=('Arial', 9),
                                     bg='white', fg='black',
